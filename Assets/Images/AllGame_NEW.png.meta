@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: f0504075981444f5aee45f1c5399d56e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Bonus-attack-Flecha
+  - first:
+      213: 21300002
+    second: Contadores-Bg
+  - first:
+      213: 21300004
+    second: Contadores_Progressbar-Amarilla
+  - first:
+      213: 21300006
+    second: Contadores_Progressbar-Celeste
+  - first:
+      213: 21300008
+    second: ICO-BTN-Achievements
+  - first:
+      213: 21300010
+    second: ICO-BTN-Audio
+  - first:
+      213: 21300012
+    second: ICO-BTN-Cloud
+  - first:
+      213: 21300014
+    second: ICO-BTN-Leaderboard
+  - first:
+      213: 21300016
+    second: ICO-BTN-Music
+  - first:
+      213: 21300018
+    second: ICO-BTN-Share
+  - first:
+      213: 21300020
+    second: ICO-BTN-Tutorial
+  - first:
+      213: 21300022
+    second: ICO-BTN-Upgrade
+  - first:
+      213: 21300024
+    second: ICO-BTN-cerrar
+  - first:
+      213: 21300026
+    second: IONO-Coins
+  - first:
+      213: 21300028
+    second: DESTELLO-FONDO
+  - first:
+      213: 21300030
+    second: ICO-Banderin
+  - first:
+      213: 21300032
+    second: ICO_Elephant
+  - first:
+      213: 21300034
+    second: smoke
+  - first:
+      213: 21300036
+    second: javal
+  - first:
+      213: 21300038
+    second: blur
+  - first:
+      213: 21300040
+    second: ICO-Idiomas
+  - first:
+      213: 21300042
+    second: ICO-BTN-Privacidad
+  - first:
+      213: 21300044
+    second: ICO-Google-off
+  - first:
+      213: 21300046
+    second: ICO-Google-on
+  - first:
+      213: 21300048
+    second: DESTELLO-FONDO2
+  - first:
+      213: 21300050
+    second: Carga-BG
+  - first:
+      213: 21300052
+    second: carga-progressbar
+  - first:
+      213: 21300054
+    second: Contadores_Progressbar-roja
+  - first:
+      213: 21300056
+    second: ICO-BTN-Aceleracion01
+  - first:
+      213: 21300058
+    second: ICO-BTN-Aceleracion02
+  - first:
+      213: 21300060
+    second: ICO-BTN-Config
+  - first:
+      213: 21300062
+    second: ICO-BTN-Pausa
+  - first:
+      213: 21300064
+    second: BTN-Heroes-bg
+  - first:
+      213: 21300066
+    second: Contador-unidades_Bg
+  - first:
+      213: 21300068
+    second: Ico btn_Bg
+  - first:
+      213: 21300070
+    second: "Signo-admiraci\xF3n"
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ICO-BTN-Aceleracion02
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 762
+        width: 46
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -16}
+        - {x: -23, y: 16}
+        - {x: 23, y: 16}
+      - - {x: 23, y: -16}
+        - {x: -23, y: -16}
+        - {x: 23, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-Google-off
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 438
+        width: 56
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -26.5}
+        - {x: -28, y: 26.5}
+        - {x: 28, y: 26.5}
+      - - {x: 28, y: -26.5}
+        - {x: -28, y: -26.5}
+        - {x: 28, y: 26.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-Idiomas
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 797
+        width: 46
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -18.5}
+        - {x: -23, y: 18.5}
+        - {x: 23, y: 18.5}
+      - - {x: 23, y: -18.5}
+        - {x: -23, y: -18.5}
+        - {x: 23, y: 18.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DESTELLO-FONDO2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 438
+        width: 363
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92.5, y: 165.5}
+        - {x: -43.5, y: 185.5}
+        - {x: 34.5, y: 185.5}
+      - - {x: -181.5, y: 31.5}
+        - {x: -92.5, y: 165.5}
+        - {x: 34.5, y: 185.5}
+      - - {x: -181.5, y: 31.5}
+        - {x: -151.5, y: 113.5}
+        - {x: -92.5, y: 165.5}
+      - - {x: -181.5, y: 31.5}
+        - {x: -173.5, y: 72.5}
+        - {x: -151.5, y: 113.5}
+      - - {x: -181.5, y: -24.5}
+        - {x: -181.5, y: 31.5}
+        - {x: 34.5, y: 185.5}
+      - - {x: 41.5, y: -185.5}
+        - {x: -181.5, y: -24.5}
+        - {x: 34.5, y: 185.5}
+      - - {x: -171.5, y: -84.5}
+        - {x: -181.5, y: -24.5}
+        - {x: -46.5, y: -185.5}
+      - - {x: -171.5, y: -84.5}
+        - {x: -46.5, y: -185.5}
+        - {x: -107.5, y: -164.5}
+      - - {x: 41.5, y: -185.5}
+        - {x: -46.5, y: -185.5}
+        - {x: -181.5, y: -24.5}
+      - - {x: 181.5, y: 70.5}
+        - {x: 106.5, y: -160.5}
+        - {x: 41.5, y: -185.5}
+      - - {x: 181.5, y: 70.5}
+        - {x: 181.5, y: -77.5}
+        - {x: 106.5, y: -160.5}
+      - - {x: 181.5, y: 70.5}
+        - {x: 41.5, y: -185.5}
+        - {x: 34.5, y: 185.5}
+      - - {x: 106.5, y: 167.5}
+        - {x: 181.5, y: 70.5}
+        - {x: 34.5, y: 185.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-BTN-Achievements
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 972
+        width: 38
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -25}
+        - {x: -9, y: 25}
+        - {x: 19, y: 25}
+      - - {x: -19, y: 16}
+        - {x: -17, y: 23}
+        - {x: -9, y: 25}
+      - - {x: 19, y: -25}
+        - {x: -19, y: 16}
+        - {x: -9, y: 25}
+      - - {x: -19, y: -22}
+        - {x: -19, y: 16}
+        - {x: 19, y: -25}
+      - - {x: -19, y: -22}
+        - {x: 19, y: -25}
+        - {x: -16, y: -25}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-BTN-cerrar
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 620
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -17}
+        - {x: -17, y: 17}
+        - {x: 17, y: 17}
+      - - {x: 17, y: -17}
+        - {x: -17, y: -17}
+        - {x: 17, y: 17}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-BTN-Upgrade
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 498
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -15.5}
+        - {x: -16, y: 15.5}
+        - {x: 16, y: 15.5}
+      - - {x: 16, y: -15.5}
+        - {x: -16, y: -15.5}
+        - {x: 16, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-BTN-Aceleracion01
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 672
+        width: 30
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -16}
+        - {x: -15, y: 16}
+        - {x: 15, y: 16}
+      - - {x: 15, y: -16}
+        - {x: -15, y: -16}
+        - {x: 15, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-BTN-Music
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 710
+        width: 45
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: -24.5}
+        - {x: -22.5, y: 24.5}
+        - {x: 22.5, y: 24.5}
+      - - {x: 22.5, y: -24.5}
+        - {x: -22.5, y: -24.5}
+        - {x: 22.5, y: 24.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-BTN-Privacidad
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 917
+        width: 42
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -26}
+        - {x: -21, y: 26}
+        - {x: 21, y: 26}
+      - - {x: 21, y: -26}
+        - {x: -21, y: -26}
+        - {x: 21, y: 26}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carga-progressbar
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 601
+        width: 65
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: -10}
+        - {x: -32.5, y: 10}
+        - {x: 32.5, y: 10}
+      - - {x: 32.5, y: -10}
+        - {x: -32.5, y: -10}
+        - {x: 32.5, y: 10}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO_Elephant
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 55
+        width: 253
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -126.5, y: 23.5}
+        - {x: -74.5, y: 90.5}
+        - {x: -48.5, y: 90.5}
+      - - {x: -126.5, y: 49.5}
+        - {x: -102.5, y: 82.5}
+        - {x: -74.5, y: 90.5}
+      - - {x: -126.5, y: 49.5}
+        - {x: -74.5, y: 90.5}
+        - {x: -126.5, y: 23.5}
+      - - {x: -15.5, y: -76.5}
+        - {x: -126.5, y: 23.5}
+        - {x: -48.5, y: 90.5}
+      - - {x: -15.5, y: -76.5}
+        - {x: -111.5, y: -73.5}
+        - {x: -126.5, y: 23.5}
+      - - {x: 37.5, y: -90.5}
+        - {x: -0.5, y: -90.5}
+        - {x: -15.5, y: -76.5}
+      - - {x: 54.5, y: -77.5}
+        - {x: 37.5, y: -90.5}
+        - {x: -15.5, y: -76.5}
+      - - {x: 82.5, y: 79.5}
+        - {x: 54.5, y: -77.5}
+        - {x: -15.5, y: -76.5}
+      - - {x: 126.5, y: -32.5}
+        - {x: 126.5, y: -72.5}
+        - {x: 54.5, y: -77.5}
+      - - {x: 54.5, y: -77.5}
+        - {x: 82.5, y: 79.5}
+        - {x: 116.5, y: 45.5}
+      - - {x: 54.5, y: -77.5}
+        - {x: 116.5, y: 45.5}
+        - {x: 126.5, y: -32.5}
+      - - {x: 82.5, y: 79.5}
+        - {x: -15.5, y: -76.5}
+        - {x: -48.5, y: 90.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-BTN-Leaderboard
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 524
+        width: 54
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -20.5}
+        - {x: -27, y: 20.5}
+        - {x: 27, y: 20.5}
+      - - {x: 27, y: -20.5}
+        - {x: -27, y: -20.5}
+        - {x: 27, y: 20.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-Google-on
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 549
+        width: 56
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -26.5}
+        - {x: -28, y: 26.5}
+        - {x: 28, y: 26.5}
+      - - {x: 28, y: -26.5}
+        - {x: -28, y: -26.5}
+        - {x: 28, y: 26.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 18
+        width: 254
+        height: 253
+      alignment: 9
+      pivot: {x: 0.496063, y: 0.4940712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 127, y: 55.5}
+        - {x: -86, y: 126.5}
+        - {x: 86, y: 126.5}
+      - - {x: 127, y: 55.5}
+        - {x: -127, y: 61.5}
+        - {x: -86, y: 126.5}
+      - - {x: 127, y: -34.5}
+        - {x: 95, y: -93.5}
+        - {x: -127, y: -60.5}
+      - - {x: 62, y: -126.5}
+        - {x: -79, y: -126.5}
+        - {x: -127, y: -60.5}
+      - - {x: 95, y: -93.5}
+        - {x: 62, y: -126.5}
+        - {x: -127, y: -60.5}
+      - - {x: -127, y: 61.5}
+        - {x: 127, y: 55.5}
+        - {x: 127, y: -34.5}
+      - - {x: -127, y: 61.5}
+        - {x: 127, y: -34.5}
+        - {x: -127, y: -60.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DESTELLO-FONDO
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 651
+        width: 363
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 181.5, y: 44.5}
+        - {x: -40.5, y: 185.5}
+        - {x: 56.5, y: 185.5}
+      - - {x: -97.5, y: 164.5}
+        - {x: -181.5, y: -43.5}
+        - {x: -181.5, y: 59.5}
+      - - {x: -181.5, y: 59.5}
+        - {x: -143.5, y: 132.5}
+        - {x: -97.5, y: 164.5}
+      - - {x: -97.5, y: 164.5}
+        - {x: -40.5, y: 185.5}
+        - {x: -181.5, y: -43.5}
+      - - {x: -149.5, y: -109.5}
+        - {x: -40.5, y: 185.5}
+        - {x: 181.5, y: 44.5}
+      - - {x: -43.5, y: -185.5}
+        - {x: 135.5, y: -135.5}
+        - {x: 56.5, y: -185.5}
+      - - {x: -43.5, y: -185.5}
+        - {x: -107.5, y: -163.5}
+        - {x: -149.5, y: -109.5}
+      - - {x: 181.5, y: -51.5}
+        - {x: 135.5, y: -135.5}
+        - {x: -43.5, y: -185.5}
+      - - {x: 181.5, y: -51.5}
+        - {x: -43.5, y: -185.5}
+        - {x: -149.5, y: -109.5}
+      - - {x: 181.5, y: 44.5}
+        - {x: 181.5, y: -51.5}
+        - {x: -149.5, y: -109.5}
+      - - {x: -149.5, y: -109.5}
+        - {x: -181.5, y: -43.5}
+        - {x: -40.5, y: 185.5}
+      - - {x: 129.5, y: 144.5}
+        - {x: 159.5, y: 108.5}
+        - {x: 181.5, y: 44.5}
+      - - {x: 129.5, y: 144.5}
+        - {x: 181.5, y: 44.5}
+        - {x: 56.5, y: 185.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BTN-Heroes-bg
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 565
+        width: 74
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -11}
+        - {x: -24, y: -37}
+        - {x: -36, y: -18}
+      - - {x: -26, y: -11}
+        - {x: -36, y: -18}
+        - {x: -37, y: -14}
+      - - {x: 23, y: -15}
+        - {x: 37, y: -37}
+        - {x: -24, y: -37}
+      - - {x: -22, y: 17}
+        - {x: -26, y: -11}
+        - {x: -37, y: -14}
+      - - {x: -22, y: 17}
+        - {x: -37, y: -14}
+        - {x: -37, y: 37}
+      - - {x: 4, y: 29}
+        - {x: -22, y: 17}
+        - {x: -37, y: 37}
+      - - {x: 4, y: 29}
+        - {x: -37, y: 37}
+        - {x: 37, y: 37}
+      - - {x: 25, y: 14}
+        - {x: 4, y: 29}
+        - {x: 37, y: 37}
+      - - {x: 37, y: -37}
+        - {x: 25, y: 14}
+        - {x: 37, y: 37}
+      - - {x: 23, y: -15}
+        - {x: -24, y: -37}
+        - {x: -26, y: -11}
+      - - {x: 37, y: -37}
+        - {x: 23, y: -15}
+        - {x: 25, y: 14}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-BTN-Cloud
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 536
+        width: 59
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: -19}
+        - {x: -29.5, y: 19}
+        - {x: 29.5, y: 19}
+      - - {x: 29.5, y: -19}
+        - {x: -29.5, y: -19}
+        - {x: 29.5, y: 19}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-BTN-Audio
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 478
+        width: 50
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -21.5}
+        - {x: -25, y: 21.5}
+        - {x: 25, y: 21.5}
+      - - {x: 25, y: -21.5}
+        - {x: -25, y: -21.5}
+        - {x: 25, y: 21.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contadores_Progressbar-roja
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 494
+        width: 57
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -9}
+        - {x: -28.5, y: 9}
+        - {x: 28.5, y: 9}
+      - - {x: 28.5, y: -9}
+        - {x: -28.5, y: -9}
+        - {x: 28.5, y: 9}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: javal
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 996
+        width: 136
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -13}
+        - {x: -68, y: 13}
+        - {x: 68, y: 13}
+      - - {x: -65, y: -1}
+        - {x: -68, y: 0}
+        - {x: -68, y: 13}
+      - - {x: -28, y: -13}
+        - {x: -65, y: -1}
+        - {x: -68, y: 13}
+      - - {x: 68, y: -3}
+        - {x: -28, y: -13}
+        - {x: 68, y: 13}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus-attack-Flecha
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 642
+        width: 102
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: -20.5}
+        - {x: -21, y: 20.5}
+        - {x: 51, y: 20.5}
+      - - {x: -51, y: 3.5}
+        - {x: -23, y: -20.5}
+        - {x: -51, y: -6.5}
+      - - {x: -51, y: 3.5}
+        - {x: -21, y: 20.5}
+        - {x: -23, y: -20.5}
+      - - {x: 51, y: -20.5}
+        - {x: -23, y: -20.5}
+        - {x: -21, y: 20.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-BTN-Config
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 837
+        width: 34
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -18.5}
+        - {x: -17, y: 18.5}
+        - {x: 17, y: 18.5}
+      - - {x: 17, y: -18.5}
+        - {x: -17, y: -18.5}
+        - {x: 17, y: 18.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-BTN-Share
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 657
+        width: 48
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: -25}
+        - {x: 6, y: 25}
+        - {x: 24, y: 25}
+      - - {x: -24, y: 10}
+        - {x: 24, y: -25}
+        - {x: -24, y: -25}
+      - - {x: -24, y: 10}
+        - {x: 6, y: 25}
+        - {x: 24, y: -25}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blur
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 274
+        width: 269
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 134.5, y: -163}
+        - {x: 57.5, y: 164}
+        - {x: 134.5, y: 164}
+      - - {x: -30.5, y: 123}
+        - {x: 134.5, y: -163}
+        - {x: 30.5, y: -164}
+      - - {x: -110.5, y: -66}
+        - {x: -30.5, y: 123}
+        - {x: 30.5, y: -164}
+      - - {x: -134.5, y: 7}
+        - {x: -134.5, y: 35}
+        - {x: -88.5, y: 85}
+      - - {x: -110.5, y: -66}
+        - {x: -134.5, y: 7}
+        - {x: -88.5, y: 85}
+      - - {x: -110.5, y: -66}
+        - {x: -88.5, y: 85}
+        - {x: -30.5, y: 123}
+      - - {x: -30.5, y: 123}
+        - {x: 57.5, y: 164}
+        - {x: 134.5, y: -163}
+      - - {x: 30.5, y: -164}
+        - {x: 134.5, y: -163}
+        - {x: 133.5, y: -164}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carga-BG
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 605
+        width: 346
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -173, y: -21.5}
+        - {x: -173, y: 21.5}
+        - {x: 173, y: 21.5}
+      - - {x: 173, y: -21.5}
+        - {x: -173, y: -21.5}
+        - {x: 173, y: 21.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Signo-admiraci\xF3n"
+      rect:
+        serializedVersion: 2
+        x: 370.0268
+        y: 577.0513
+        width: 70.9465
+        height: 126.9487
+      alignment: 9
+      pivot: {x: 0.4224766, y: 0.4958592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 54.5}
+        - {x: -6, y: 63.5}
+        - {x: 23, y: 63.5}
+      - - {x: 37, y: 40.5}
+        - {x: -11, y: 54.5}
+        - {x: 23, y: 63.5}
+      - - {x: 37, y: 40.5}
+        - {x: -37, y: -38.5}
+        - {x: -11, y: 54.5}
+      - - {x: 6, y: -63.5}
+        - {x: -25, y: -62.5}
+        - {x: -37, y: -38.5}
+      - - {x: 37, y: 40.5}
+        - {x: 6, y: -63.5}
+        - {x: -37, y: -38.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-Banderin
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 812
+        width: 473
+        height: 210
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -236.5, y: 63}
+        - {x: -236.5, y: 105}
+        - {x: -221.5, y: 105}
+      - - {x: -187.5, y: -54}
+        - {x: -203.5, y: -101}
+        - {x: -236.5, y: 63}
+      - - {x: -187.5, y: -105}
+        - {x: -202.5, y: -105}
+        - {x: -203.5, y: -101}
+      - - {x: -187.5, y: -54}
+        - {x: -187.5, y: -105}
+        - {x: -203.5, y: -101}
+      - - {x: -192.5, y: 63}
+        - {x: -187.5, y: -54}
+        - {x: -236.5, y: 63}
+      - - {x: -192.5, y: 63}
+        - {x: -118.5, y: -45}
+        - {x: -187.5, y: -54}
+      - - {x: 236.5, y: -45}
+        - {x: 236.5, y: -51}
+        - {x: 42.5, y: -51}
+      - - {x: 236.5, y: -45}
+        - {x: 42.5, y: -51}
+        - {x: 20.5, y: -45}
+      - - {x: 12.5, y: 49}
+        - {x: 219.5, y: -18}
+        - {x: 236.5, y: -45}
+      - - {x: 168.5, y: 32}
+        - {x: 235.5, y: 28}
+        - {x: 219.5, y: -18}
+      - - {x: 168.5, y: 32}
+        - {x: 235.5, y: 32}
+        - {x: 235.5, y: 28}
+      - - {x: 12.5, y: 49}
+        - {x: 168.5, y: 32}
+        - {x: 219.5, y: -18}
+      - - {x: 12.5, y: 49}
+        - {x: 164.5, y: 49}
+        - {x: 168.5, y: 32}
+      - - {x: 12.5, y: 49}
+        - {x: 236.5, y: -45}
+        - {x: -118.5, y: -45}
+      - - {x: -21.5, y: 63}
+        - {x: 12.5, y: 49}
+        - {x: -118.5, y: -45}
+      - - {x: -192.5, y: 63}
+        - {x: -21.5, y: 63}
+        - {x: -118.5, y: -45}
+      - - {x: -192.5, y: 63}
+        - {x: -236.5, y: 63}
+        - {x: -221.5, y: 105}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-BTN-Pausa
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 637
+        width: 27
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: -16}
+        - {x: -13.5, y: 16}
+        - {x: 13.5, y: 16}
+      - - {x: 13.5, y: -16}
+        - {x: -13.5, y: -16}
+        - {x: 13.5, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contadores-Bg
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 373
+        width: 202
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101, y: -31}
+        - {x: -101, y: 31}
+        - {x: 101, y: 31}
+      - - {x: 101, y: -31}
+        - {x: -101, y: -31}
+        - {x: 101, y: 31}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contadores_Progressbar-Celeste
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 4
+        width: 57
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -5.5}
+        - {x: -28.5, y: 5.5}
+        - {x: 28.5, y: 5.5}
+      - - {x: 28.5, y: -5.5}
+        - {x: -28.5, y: -5.5}
+        - {x: 28.5, y: 5.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contador-unidades_Bg
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 522
+        width: 64
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -15}
+        - {x: -32, y: 38}
+        - {x: 32, y: 38}
+      - - {x: 32, y: -15}
+        - {x: -32, y: -15}
+        - {x: 32, y: 38}
+      - - {x: 9, y: -38}
+        - {x: -9, y: -38}
+        - {x: -32, y: -15}
+      - - {x: 32, y: -15}
+        - {x: 9, y: -38}
+        - {x: -32, y: -15}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-BTN-Tutorial
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 594
+        width: 25
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -20}
+        - {x: -12.5, y: 20}
+        - {x: 12.5, y: 20}
+      - - {x: 12.5, y: -20}
+        - {x: -12.5, y: -20}
+        - {x: 12.5, y: 20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contadores_Progressbar-Amarilla
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 515
+        width: 57
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -9}
+        - {x: -28.5, y: 9}
+        - {x: 28.5, y: 9}
+      - - {x: 28.5, y: -9}
+        - {x: -28.5, y: -9}
+        - {x: 28.5, y: 9}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ico btn_Bg
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 751
+        width: 128
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50, y: 28}
+        - {x: -17, y: 53}
+        - {x: 25, y: 53}
+      - - {x: -36, y: 44}
+        - {x: -15, y: -53}
+        - {x: -64, y: 7}
+      - - {x: -36, y: 44}
+        - {x: -17, y: 53}
+        - {x: -15, y: -53}
+      - - {x: -15, y: -53}
+        - {x: -64, y: -43}
+        - {x: -64, y: 7}
+      - - {x: 16, y: -53}
+        - {x: -17, y: 53}
+        - {x: 50, y: 28}
+      - - {x: 64, y: -35}
+        - {x: 64, y: -44}
+        - {x: 16, y: -53}
+      - - {x: 50, y: 28}
+        - {x: 64, y: -35}
+        - {x: 16, y: -53}
+      - - {x: 16, y: -53}
+        - {x: -15, y: -53}
+        - {x: -17, y: 53}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IONO-Coins
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 707
+        width: 94
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 21}
+        - {x: -20, y: 51}
+        - {x: 47, y: 51}
+      - - {x: -47, y: 24}
+        - {x: 47, y: 21}
+        - {x: -47, y: -17}
+      - - {x: -47, y: 24}
+        - {x: -20, y: 51}
+        - {x: 47, y: 21}
+      - - {x: 47, y: 21}
+        - {x: 20, y: -51}
+        - {x: -13, y: -51}
+      - - {x: 47, y: 21}
+        - {x: -13, y: -51}
+        - {x: -47, y: -17}
+      - - {x: 47, y: 21}
+        - {x: 37, y: -47}
+        - {x: 20, y: -51}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ICO-BTN-Cloud: 21300012
+      smoke: 21300034
+      ICO-BTN-cerrar: 21300024
+      Ico btn_Bg: 21300068
+      ICO-BTN-Share: 21300018
+      ICO-BTN-Aceleracion02: 21300058
+      Bonus-attack-Flecha: 21300000
+      IONO-Coins: 21300026
+      Contadores_Progressbar-Amarilla: 21300004
+      ICO-BTN-Music: 21300016
+      ICO-Banderin: 21300030
+      ICO-BTN-Leaderboard: 21300014
+      ICO-Google-on: 21300046
+      Carga-BG: 21300050
+      ICO-BTN-Tutorial: 21300020
+      ICO-BTN-Aceleracion01: 21300056
+      carga-progressbar: 21300052
+      Contadores-Bg: 21300002
+      ICO-BTN-Achievements: 21300008
+      ICO_Elephant: 21300032
+      ICO-Google-off: 21300044
+      BTN-Heroes-bg: 21300064
+      Contadores_Progressbar-Celeste: 21300006
+      ICO-BTN-Config: 21300060
+      "Signo-admiraci\xF3n": 21300070
+      ICO-BTN-Pausa: 21300062
+      ICO-BTN-Privacidad: 21300042
+      Contador-unidades_Bg: 21300066
+      Contadores_Progressbar-roja: 21300054
+      ICO-BTN-Upgrade: 21300022
+      DESTELLO-FONDO2: 21300048
+      ICO-Idiomas: 21300040
+      javal: 21300036
+      DESTELLO-FONDO: 21300028
+      blur: 21300038
+      ICO-BTN-Audio: 21300010
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

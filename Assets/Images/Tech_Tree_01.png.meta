@@ -1,0 +1,1701 @@
+fileFormatVersion: 2
+guid: 14aa634c864d4d189c5bfa160cec2566
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Linea-1-01
+  - first:
+      213: 21300002
+    second: Linea-1-02
+  - first:
+      213: 21300004
+    second: Linea-1-03
+  - first:
+      213: 21300006
+    second: Linea-1-04
+  - first:
+      213: 21300008
+    second: Linea-1-05
+  - first:
+      213: 21300010
+    second: Linea-1-06
+  - first:
+      213: 21300012
+    second: Linea-1-07
+  - first:
+      213: 21300014
+    second: Linea-1-08
+  - first:
+      213: 21300016
+    second: Linea-1-09
+  - first:
+      213: 21300018
+    second: Linea-2-01
+  - first:
+      213: 21300020
+    second: Linea-2-02
+  - first:
+      213: 21300022
+    second: Linea-2-03
+  - first:
+      213: 21300024
+    second: Linea-2-04
+  - first:
+      213: 21300026
+    second: Linea-3-01
+  - first:
+      213: 21300028
+    second: Linea-3-02
+  - first:
+      213: 21300030
+    second: Linea-3-03
+  - first:
+      213: 21300032
+    second: Linea-3-04
+  - first:
+      213: 21300034
+    second: Linea-3-05
+  - first:
+      213: 21300036
+    second: Linea-3-06
+  - first:
+      213: 21300038
+    second: Linea-3-07
+  - first:
+      213: 21300040
+    second: Linea-4-01
+  - first:
+      213: 21300042
+    second: Linea-4-02
+  - first:
+      213: 21300044
+    second: Linea-4-03
+  - first:
+      213: 21300046
+    second: Linea-4-04
+  - first:
+      213: 21300048
+    second: Linea-4-05
+  - first:
+      213: 21300050
+    second: Linea-asedio-01
+  - first:
+      213: 21300052
+    second: Linea-asedio-02
+  - first:
+      213: 21300054
+    second: Linea-asedio-03
+  - first:
+      213: 21300056
+    second: Linea-asedio-04
+  - first:
+      213: 21300058
+    second: Personaje-inicial
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Linea-asedio-01
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 53
+        width: 91
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: -27.5}
+        - {x: -13.5, y: 27.5}
+        - {x: -0.5, y: 27.5}
+      - - {x: -45.5, y: -27.5}
+        - {x: -45.5, y: 11.5}
+        - {x: -13.5, y: 27.5}
+      - - {x: 45.5, y: -27.5}
+        - {x: -45.5, y: -27.5}
+        - {x: -0.5, y: 27.5}
+      - - {x: 45.5, y: 18.5}
+        - {x: 45.5, y: -27.5}
+        - {x: -0.5, y: 27.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linea-1-06
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 535
+        width: 143
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 63}
+        - {x: -8.5, y: 82}
+        - {x: 0.5, y: 82}
+      - - {x: -69.5, y: 68}
+        - {x: -58.5, y: 80}
+        - {x: -24.5, y: 63}
+      - - {x: -63.5, y: -15}
+        - {x: -69.5, y: 68}
+        - {x: -24.5, y: 63}
+      - - {x: -49.5, y: -60}
+        - {x: 71.5, y: -14}
+        - {x: 58.5, y: -82}
+      - - {x: -49.5, y: -60}
+        - {x: -63.5, y: -15}
+        - {x: 71.5, y: -14}
+      - - {x: -71.5, y: -82}
+        - {x: -71.5, y: -69}
+        - {x: -49.5, y: -60}
+      - - {x: 58.5, y: -82}
+        - {x: -71.5, y: -82}
+        - {x: -49.5, y: -60}
+      - - {x: 41.5, y: 44}
+        - {x: 71.5, y: -14}
+        - {x: -63.5, y: -15}
+      - - {x: 41.5, y: 44}
+        - {x: -63.5, y: -15}
+        - {x: -24.5, y: 63}
+      - - {x: 41.5, y: 44}
+        - {x: 71.5, y: 32}
+        - {x: 71.5, y: -14}
+      - - {x: 41.5, y: 44}
+        - {x: -24.5, y: 63}
+        - {x: 0.5, y: 82}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linea-3-03
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 877
+        width: 145
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.5, y: -2.5}
+        - {x: -8.5, y: 72.5}
+        - {x: 24.5, y: 72.5}
+      - - {x: -58.5, y: 6.5}
+        - {x: -22.5, y: 69.5}
+        - {x: -8.5, y: 72.5}
+      - - {x: 72.5, y: -2.5}
+        - {x: -58.5, y: 6.5}
+        - {x: -8.5, y: 72.5}
+      - - {x: -72.5, y: -72.5}
+        - {x: -72.5, y: -61.5}
+        - {x: -47.5, y: -33.5}
+      - - {x: 72.5, y: -2.5}
+        - {x: 55.5, y: -72.5}
+        - {x: -47.5, y: -33.5}
+      - - {x: 55.5, y: -72.5}
+        - {x: -72.5, y: -72.5}
+        - {x: -47.5, y: -33.5}
+      - - {x: 72.5, y: -2.5}
+        - {x: -47.5, y: -33.5}
+        - {x: -58.5, y: 6.5}
+      - - {x: 72.5, y: 61.5}
+        - {x: 72.5, y: -2.5}
+        - {x: 24.5, y: 72.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linea-2-01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 286
+        width: 147
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: -15}
+        - {x: 47.5, y: 58}
+        - {x: 61.5, y: 27}
+      - - {x: -68.5, y: -88}
+        - {x: 52.5, y: -32}
+        - {x: 51.5, y: -88}
+      - - {x: -68.5, y: -88}
+        - {x: -73.5, y: -83}
+        - {x: -73.5, y: -15}
+      - - {x: -68.5, y: -88}
+        - {x: -73.5, y: -15}
+        - {x: 52.5, y: -32}
+      - - {x: -73.5, y: -15}
+        - {x: -16.5, y: 88}
+        - {x: 47.5, y: 58}
+      - - {x: 61.5, y: 27}
+        - {x: 73.5, y: -3}
+        - {x: 52.5, y: -32}
+      - - {x: 61.5, y: 27}
+        - {x: 73.5, y: 12}
+        - {x: 73.5, y: -3}
+      - - {x: -73.5, y: -15}
+        - {x: 61.5, y: 27}
+        - {x: 52.5, y: -32}
+      - - {x: 47.5, y: 58}
+        - {x: 72.5, y: 70}
+        - {x: 61.5, y: 27}
+      - - {x: 47.5, y: 58}
+        - {x: -16.5, y: 88}
+        - {x: 15.5, y: 88}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linea-2-02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 465
+        width: 147
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: 69.5}
+        - {x: -24.5, y: 88.5}
+        - {x: 17.5, y: 88.5}
+      - - {x: -63.5, y: -0.5}
+        - {x: 38.5, y: 69.5}
+        - {x: 61.5, y: 29.5}
+      - - {x: 52.5, y: -33.5}
+        - {x: 51.5, y: -88.5}
+        - {x: -73.5, y: -52.5}
+      - - {x: -68.5, y: -88.5}
+        - {x: -73.5, y: -83.5}
+        - {x: -73.5, y: -52.5}
+      - - {x: 51.5, y: -88.5}
+        - {x: -68.5, y: -88.5}
+        - {x: -73.5, y: -52.5}
+      - - {x: 52.5, y: -33.5}
+        - {x: -73.5, y: -52.5}
+        - {x: -63.5, y: -0.5}
+      - - {x: 61.5, y: 29.5}
+        - {x: 73.5, y: -3.5}
+        - {x: 52.5, y: -33.5}
+      - - {x: 61.5, y: 29.5}
+        - {x: 73.5, y: 12.5}
+        - {x: 73.5, y: -3.5}
+      - - {x: -63.5, y: -0.5}
+        - {x: 61.5, y: 29.5}
+        - {x: 52.5, y: -33.5}
+      - - {x: 38.5, y: 69.5}
+        - {x: 58.5, y: 85.5}
+        - {x: 61.5, y: 29.5}
+      - - {x: 38.5, y: 69.5}
+        - {x: -63.5, y: -0.5}
+        - {x: -24.5, y: 88.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linea-4-02
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 385
+        width: 135
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 71.5}
+        - {x: -8.5, y: 73.5}
+        - {x: 22.5, y: 73.5}
+      - - {x: -8.5, y: 73.5}
+        - {x: 28.5, y: 71.5}
+        - {x: 67.5, y: 21.5}
+      - - {x: 67.5, y: 21.5}
+        - {x: 67.5, y: -73.5}
+        - {x: -44.5, y: -27.5}
+      - - {x: -67.5, y: -73.5}
+        - {x: -67.5, y: -62.5}
+        - {x: -44.5, y: -27.5}
+      - - {x: 67.5, y: -73.5}
+        - {x: -67.5, y: -73.5}
+        - {x: -44.5, y: -27.5}
+      - - {x: 67.5, y: 21.5}
+        - {x: -44.5, y: -27.5}
+        - {x: -55.5, y: 5.5}
+      - - {x: -8.5, y: 73.5}
+        - {x: 67.5, y: 21.5}
+        - {x: -55.5, y: 5.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linea-3-04
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 871
+        width: 149
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.5, y: 42.5}
+        - {x: -14.5, y: 75.5}
+        - {x: 23.5, y: 75.5}
+      - - {x: 42.5, y: 42.5}
+        - {x: -59.5, y: 13.5}
+        - {x: -14.5, y: 75.5}
+      - - {x: 42.5, y: 42.5}
+        - {x: 58.5, y: -75.5}
+        - {x: -55.5, y: -30.5}
+      - - {x: -74.5, y: -75.5}
+        - {x: -74.5, y: -64.5}
+        - {x: -55.5, y: -30.5}
+      - - {x: 58.5, y: -75.5}
+        - {x: -74.5, y: -75.5}
+        - {x: -55.5, y: -30.5}
+      - - {x: 42.5, y: 42.5}
+        - {x: 74.5, y: 65.5}
+        - {x: 74.5, y: 45.5}
+      - - {x: 42.5, y: 42.5}
+        - {x: 74.5, y: 45.5}
+        - {x: 58.5, y: -75.5}
+      - - {x: 42.5, y: 42.5}
+        - {x: -55.5, y: -30.5}
+        - {x: -59.5, y: 13.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linea-4-05
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 109
+        width: 141
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: 39}
+        - {x: -2.5, y: 87}
+        - {x: 13.5, y: 87}
+      - - {x: -36.5, y: 47}
+        - {x: -11.5, y: 86}
+        - {x: -2.5, y: 87}
+      - - {x: -70.5, y: -72}
+        - {x: -58.5, y: 39}
+        - {x: -36.5, y: 47}
+      - - {x: 36.5, y: 39}
+        - {x: -36.5, y: 47}
+        - {x: -2.5, y: 87}
+      - - {x: 70.5, y: -35}
+        - {x: 51.5, y: -87}
+        - {x: -70.5, y: -72}
+      - - {x: 51.5, y: -87}
+        - {x: -70.5, y: -87}
+        - {x: -70.5, y: -72}
+      - - {x: 36.5, y: 39}
+        - {x: 70.5, y: -35}
+        - {x: -70.5, y: -72}
+      - - {x: 36.5, y: 39}
+        - {x: 70.5, y: 30}
+        - {x: 70.5, y: -35}
+      - - {x: 36.5, y: 39}
+        - {x: -70.5, y: -72}
+        - {x: -36.5, y: 47}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linea-3-02
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 387
+        width: 134
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52, y: 45.5}
+        - {x: 34, y: -29.5}
+        - {x: 0, y: 71.5}
+      - - {x: 34, y: -29.5}
+        - {x: -9, y: 70.5}
+        - {x: 0, y: 71.5}
+      - - {x: -57, y: 10.5}
+        - {x: 34, y: -29.5}
+        - {x: -45, y: -24.5}
+      - - {x: -57, y: 10.5}
+        - {x: -9, y: 70.5}
+        - {x: 34, y: -29.5}
+      - - {x: -67, y: -71.5}
+        - {x: -67, y: -60.5}
+        - {x: -45, y: -24.5}
+      - - {x: 34, y: -29.5}
+        - {x: 67, y: -69.5}
+        - {x: 39, y: -71.5}
+      - - {x: -45, y: -24.5}
+        - {x: 34, y: -29.5}
+        - {x: 39, y: -71.5}
+      - - {x: -45, y: -24.5}
+        - {x: 39, y: -71.5}
+        - {x: -67, y: -71.5}
+      - - {x: 52, y: 45.5}
+        - {x: 55, y: -19.5}
+        - {x: 34, y: -29.5}
+      - - {x: 52, y: 45.5}
+        - {x: 67, y: 51.5}
+        - {x: 67, y: 44.5}
+      - - {x: 52, y: 45.5}
+        - {x: 67, y: 44.5}
+        - {x: 55, y: -19.5}
+      - - {x: 52, y: 45.5}
+        - {x: 0, y: 71.5}
+        - {x: 26, y: 71.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linea-1-05
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 698
+        width: 143
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 64}
+        - {x: -7.5, y: 82}
+        - {x: -1.5, y: 82}
+      - - {x: -69.5, y: 71}
+        - {x: -56.5, y: 79}
+        - {x: -25.5, y: 64}
+      - - {x: -67.5, y: 5}
+        - {x: -69.5, y: 71}
+        - {x: -25.5, y: 64}
+      - - {x: 71.5, y: -38}
+        - {x: 52.5, y: -80}
+        - {x: 34.5, y: -82}
+      - - {x: -67.5, y: 5}
+        - {x: 71.5, y: -38}
+        - {x: -47.5, y: -57}
+      - - {x: -71.5, y: -82}
+        - {x: -71.5, y: -69}
+        - {x: -47.5, y: -57}
+      - - {x: 34.5, y: -82}
+        - {x: -71.5, y: -82}
+        - {x: -47.5, y: -57}
+      - - {x: 71.5, y: 32}
+        - {x: 71.5, y: -38}
+        - {x: -67.5, y: 5}
+      - - {x: -47.5, y: -57}
+        - {x: 71.5, y: -38}
+        - {x: 34.5, y: -82}
+      - - {x: 71.5, y: 32}
+        - {x: -67.5, y: 5}
+        - {x: -25.5, y: 64}
+      - - {x: 71.5, y: 32}
+        - {x: -25.5, y: 64}
+        - {x: -1.5, y: 82}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linea-1-09
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 111
+        width: 136
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 72}
+        - {x: 31, y: 86}
+        - {x: 37, y: 86}
+      - - {x: -68, y: -28}
+        - {x: -68, y: 78}
+        - {x: 2, y: 71}
+      - - {x: 2, y: 71}
+        - {x: 31, y: 86}
+        - {x: 39, y: 72}
+      - - {x: -68, y: -28}
+        - {x: 33, y: 37}
+        - {x: -38, y: -58}
+      - - {x: -44, y: -86}
+        - {x: -56, y: -74}
+        - {x: -38, y: -58}
+      - - {x: -68, y: -28}
+        - {x: 2, y: 71}
+        - {x: 33, y: 37}
+      - - {x: 33, y: 37}
+        - {x: 68, y: 25}
+        - {x: 68, y: -86}
+      - - {x: -38, y: -58}
+        - {x: 33, y: 37}
+        - {x: 68, y: -86}
+      - - {x: -38, y: -58}
+        - {x: 68, y: -86}
+        - {x: -44, y: -86}
+      - - {x: 2, y: 71}
+        - {x: 39, y: 72}
+        - {x: 33, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linea-1-04
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 710
+        width: 143
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 63}
+        - {x: -7.5, y: 82}
+        - {x: -1.5, y: 82}
+      - - {x: -69.5, y: 71}
+        - {x: -56.5, y: 79}
+        - {x: -26.5, y: 63}
+      - - {x: -63.5, y: -9}
+        - {x: -69.5, y: 71}
+        - {x: -26.5, y: 63}
+      - - {x: 71.5, y: -38}
+        - {x: 52.5, y: -80}
+        - {x: 34.5, y: -82}
+      - - {x: -45.5, y: -59}
+        - {x: -63.5, y: -9}
+        - {x: 71.5, y: -38}
+      - - {x: -71.5, y: -82}
+        - {x: -71.5, y: -69}
+        - {x: -45.5, y: -59}
+      - - {x: 34.5, y: -82}
+        - {x: -71.5, y: -82}
+        - {x: -45.5, y: -59}
+      - - {x: 71.5, y: 32}
+        - {x: 71.5, y: -38}
+        - {x: -63.5, y: -9}
+      - - {x: -45.5, y: -59}
+        - {x: 71.5, y: -38}
+        - {x: 34.5, y: -82}
+      - - {x: 71.5, y: 32}
+        - {x: -63.5, y: -9}
+        - {x: -26.5, y: 63}
+      - - {x: 71.5, y: 32}
+        - {x: -26.5, y: 63}
+        - {x: -1.5, y: 82}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linea-2-03
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 835
+        width: 147
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: -26.5}
+        - {x: 32.5, y: 56.5}
+        - {x: 51.5, y: -47.5}
+      - - {x: -27.5, y: 91.5}
+        - {x: 32.5, y: 56.5}
+        - {x: -73.5, y: -26.5}
+      - - {x: -68.5, y: -93.5}
+        - {x: 51.5, y: -47.5}
+        - {x: 51.5, y: -93.5}
+      - - {x: -68.5, y: -93.5}
+        - {x: -73.5, y: -88.5}
+        - {x: -73.5, y: -26.5}
+      - - {x: -68.5, y: -93.5}
+        - {x: -73.5, y: -26.5}
+        - {x: 51.5, y: -47.5}
+      - - {x: -27.5, y: 91.5}
+        - {x: -18.5, y: 93.5}
+        - {x: 32.5, y: 56.5}
+      - - {x: 73.5, y: 6.5}
+        - {x: 73.5, y: -8.5}
+        - {x: 51.5, y: -47.5}
+      - - {x: 32.5, y: 56.5}
+        - {x: 64.5, y: 69.5}
+        - {x: 73.5, y: 6.5}
+      - - {x: 32.5, y: 56.5}
+        - {x: 73.5, y: 6.5}
+        - {x: 51.5, y: -47.5}
+      - - {x: 32.5, y: 56.5}
+        - {x: -18.5, y: 93.5}
+        - {x: 17.5, y: 93.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linea-asedio-03
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 33
+        width: 90
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: -4.5}
+        - {x: -23, y: 36.5}
+        - {x: 11, y: 36.5}
+      - - {x: -45, y: -36.5}
+        - {x: 45, y: -5.5}
+        - {x: 45, y: -36.5}
+      - - {x: -45, y: -36.5}
+        - {x: -45, y: -4.5}
+        - {x: 45, y: -5.5}
+      - - {x: 45, y: -5.5}
+        - {x: -45, y: -4.5}
+        - {x: 11, y: 36.5}
+      - - {x: 26, y: 31.5}
+        - {x: 45, y: -5.5}
+        - {x: 11, y: 36.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linea-1-01
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 79
+        width: 125
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62.5, y: 28}
+        - {x: -8.5, y: 72}
+        - {x: 18.5, y: 72}
+      - - {x: 62.5, y: 28}
+        - {x: -18.5, y: 69}
+        - {x: -8.5, y: 72}
+      - - {x: -27.5, y: -48}
+        - {x: -61.5, y: -1}
+        - {x: -18.5, y: 69}
+      - - {x: -57.5, y: -72}
+        - {x: -62.5, y: -59}
+        - {x: -27.5, y: -48}
+      - - {x: -57.5, y: -72}
+        - {x: -62.5, y: -67}
+        - {x: -62.5, y: -59}
+      - - {x: 62.5, y: -72}
+        - {x: -57.5, y: -72}
+        - {x: -27.5, y: -48}
+      - - {x: 62.5, y: 28}
+        - {x: 62.5, y: -72}
+        - {x: -27.5, y: -48}
+      - - {x: 62.5, y: 28}
+        - {x: -27.5, y: -48}
+        - {x: -18.5, y: 69}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linea-3-05
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 865
+        width: 148
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: 50.5}
+        - {x: -4, y: 78.5}
+        - {x: 21, y: 78.5}
+      - - {x: 49, y: 50.5}
+        - {x: -52, y: 37.5}
+        - {x: -4, y: 78.5}
+      - - {x: -43, y: -34.5}
+        - {x: -61, y: -16.5}
+        - {x: -52, y: 37.5}
+      - - {x: -69, y: -78.5}
+        - {x: -74, y: -67.5}
+        - {x: -43, y: -34.5}
+      - - {x: -69, y: -78.5}
+        - {x: -74, y: -73.5}
+        - {x: -74, y: -67.5}
+      - - {x: 48, y: -78.5}
+        - {x: -69, y: -78.5}
+        - {x: -43, y: -34.5}
+      - - {x: 74, y: -42.5}
+        - {x: 48, y: -78.5}
+        - {x: -43, y: -34.5}
+      - - {x: 49, y: 50.5}
+        - {x: 74, y: -42.5}
+        - {x: -43, y: -34.5}
+      - - {x: 49, y: 50.5}
+        - {x: 74, y: 67.5}
+        - {x: 74, y: -42.5}
+      - - {x: 49, y: 50.5}
+        - {x: -43, y: -34.5}
+        - {x: -52, y: 37.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linea-1-08
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 537
+        width: 136
+        height: 165.9239
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: 67}
+        - {x: -61, y: 77}
+        - {x: -11, y: 69}
+      - - {x: -68, y: -11}
+        - {x: -68, y: 67}
+        - {x: -11, y: 69}
+      - - {x: 31, y: 37}
+        - {x: -11, y: 69}
+        - {x: 27, y: 85}
+      - - {x: -68, y: -11}
+        - {x: 31, y: 37}
+        - {x: -46, y: -63}
+      - - {x: 68, y: -85}
+        - {x: -68, y: -85}
+        - {x: -46, y: -63}
+      - - {x: 68, y: 15}
+        - {x: 68, y: -85}
+        - {x: -46, y: -63}
+      - - {x: 31, y: 37}
+        - {x: 68, y: 15}
+        - {x: -46, y: -63}
+      - - {x: -68, y: -11}
+        - {x: -11, y: 69}
+        - {x: 31, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linea-3-07
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 851
+        width: 159
+        height: 171
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 26.5}
+        - {x: -27.5, y: 85.5}
+        - {x: 4.5, y: 85.5}
+      - - {x: 43.5, y: 46.5}
+        - {x: -66.5, y: 26.5}
+        - {x: 4.5, y: 85.5}
+      - - {x: 43.5, y: 46.5}
+        - {x: -66.5, y: -16.5}
+        - {x: -66.5, y: 26.5}
+      - - {x: -63.5, y: -85.5}
+        - {x: -79.5, y: -73.5}
+        - {x: -54.5, y: -47.5}
+      - - {x: -63.5, y: -85.5}
+        - {x: -79.5, y: -81.5}
+        - {x: -79.5, y: -73.5}
+      - - {x: -54.5, y: -47.5}
+        - {x: 77.5, y: -13.5}
+        - {x: 47.5, y: -85.5}
+      - - {x: 47.5, y: -85.5}
+        - {x: -63.5, y: -85.5}
+        - {x: -54.5, y: -47.5}
+      - - {x: -66.5, y: -16.5}
+        - {x: 43.5, y: 46.5}
+        - {x: 64.5, y: 16.5}
+      - - {x: -54.5, y: -47.5}
+        - {x: 64.5, y: 16.5}
+        - {x: 77.5, y: -13.5}
+      - - {x: 47.5, y: -85.5}
+        - {x: 77.5, y: -13.5}
+        - {x: 77.5, y: -60.5}
+      - - {x: 43.5, y: 46.5}
+        - {x: 79.5, y: 60.5}
+        - {x: 79.5, y: 53.5}
+      - - {x: 43.5, y: 46.5}
+        - {x: 79.5, y: 53.5}
+        - {x: 64.5, y: 16.5}
+      - - {x: -66.5, y: -16.5}
+        - {x: 64.5, y: 16.5}
+        - {x: -54.5, y: -47.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje-inicial
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 93
+        width: 124
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 9.5}
+        - {x: 4, y: 71.5}
+        - {x: 39, y: 71.5}
+      - - {x: -5, y: 69.5}
+        - {x: 4, y: 71.5}
+        - {x: 48, y: 9.5}
+      - - {x: -29, y: -44.5}
+        - {x: -56, y: 11.5}
+        - {x: 48, y: 9.5}
+      - - {x: -62, y: -71.5}
+        - {x: -62, y: -58.5}
+        - {x: -29, y: -44.5}
+      - - {x: 62, y: -71.5}
+        - {x: -62, y: -71.5}
+        - {x: -29, y: -44.5}
+      - - {x: 34, y: -36.5}
+        - {x: 62, y: -59.5}
+        - {x: 62, y: -71.5}
+      - - {x: 34, y: -36.5}
+        - {x: 62, y: -71.5}
+        - {x: -29, y: -44.5}
+      - - {x: -56, y: 11.5}
+        - {x: -5, y: 69.5}
+        - {x: 48, y: 9.5}
+      - - {x: 48, y: 9.5}
+        - {x: 60, y: -3.5}
+        - {x: 60, y: -19.5}
+      - - {x: 48, y: 9.5}
+        - {x: 60, y: -19.5}
+        - {x: 34, y: -36.5}
+      - - {x: -29, y: -44.5}
+        - {x: 48, y: 9.5}
+        - {x: 34, y: -36.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linea-2-04
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 645
+        width: 147
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: 56.5}
+        - {x: -21.5, y: 93.5}
+        - {x: 13.5, y: 93.5}
+      - - {x: -33.5, y: 87.5}
+        - {x: 34.5, y: 56.5}
+        - {x: -54.5, y: 42.5}
+      - - {x: 34.5, y: 56.5}
+        - {x: 51.5, y: -49.5}
+        - {x: -54.5, y: 42.5}
+      - - {x: -68.5, y: -93.5}
+        - {x: 51.5, y: -49.5}
+        - {x: 51.5, y: -93.5}
+      - - {x: -68.5, y: -93.5}
+        - {x: -73.5, y: -88.5}
+        - {x: -73.5, y: -57.5}
+      - - {x: -68.5, y: -93.5}
+        - {x: -73.5, y: -57.5}
+        - {x: 51.5, y: -49.5}
+      - - {x: 51.5, y: -49.5}
+        - {x: -73.5, y: -57.5}
+        - {x: -54.5, y: 42.5}
+      - - {x: 34.5, y: 56.5}
+        - {x: 73.5, y: 6.5}
+        - {x: 73.5, y: -5.5}
+      - - {x: 34.5, y: 56.5}
+        - {x: 64.5, y: 69.5}
+        - {x: 73.5, y: 6.5}
+      - - {x: 34.5, y: 56.5}
+        - {x: 73.5, y: -5.5}
+        - {x: 51.5, y: -49.5}
+      - - {x: -33.5, y: 87.5}
+        - {x: -21.5, y: 93.5}
+        - {x: 34.5, y: 56.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linea-4-04
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 702
+        width: 145
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 50}
+        - {x: -14.5, y: 83}
+        - {x: 2.5, y: 83}
+      - - {x: -59.5, y: -55}
+        - {x: -63.5, y: 23}
+        - {x: -19.5, y: 50}
+      - - {x: -59.5, y: -55}
+        - {x: 72.5, y: -51}
+        - {x: 49.5, y: -83}
+      - - {x: -67.5, y: -83}
+        - {x: -72.5, y: -72}
+        - {x: -59.5, y: -55}
+      - - {x: -67.5, y: -83}
+        - {x: -72.5, y: -78}
+        - {x: -72.5, y: -72}
+      - - {x: 72.5, y: -1}
+        - {x: 72.5, y: -51}
+        - {x: -59.5, y: -55}
+      - - {x: 49.5, y: -83}
+        - {x: -67.5, y: -83}
+        - {x: -59.5, y: -55}
+      - - {x: -19.5, y: 50}
+        - {x: 36.5, y: 54}
+        - {x: 72.5, y: -1}
+      - - {x: 72.5, y: -1}
+        - {x: -59.5, y: -55}
+        - {x: -19.5, y: 50}
+      - - {x: 36.5, y: 54}
+        - {x: -19.5, y: 50}
+        - {x: 2.5, y: 83}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linea-1-03
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 533
+        width: 143
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.5, y: -8}
+        - {x: -69.5, y: 79}
+        - {x: -5.5, y: 79}
+      - - {x: -46.5, y: -58}
+        - {x: 71.5, y: -35}
+        - {x: 34.5, y: -79}
+      - - {x: -71.5, y: -79}
+        - {x: -71.5, y: -66}
+        - {x: -46.5, y: -58}
+      - - {x: 34.5, y: -79}
+        - {x: -71.5, y: -79}
+        - {x: -46.5, y: -58}
+      - - {x: -46.5, y: -58}
+        - {x: -62.5, y: -8}
+        - {x: 71.5, y: -35}
+      - - {x: 71.5, y: -35}
+        - {x: 52.5, y: -77}
+        - {x: 34.5, y: -79}
+      - - {x: 71.5, y: 35}
+        - {x: 71.5, y: -35}
+        - {x: -62.5, y: -8}
+      - - {x: 71.5, y: 35}
+        - {x: -62.5, y: -8}
+        - {x: -5.5, y: 79}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linea-1-02
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 226
+        width: 126
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: -5}
+        - {x: -61, y: 79}
+        - {x: -44, y: 79}
+      - - {x: 63, y: 18}
+        - {x: 63, y: -79}
+        - {x: -37, y: -56}
+      - - {x: -58, y: -79}
+        - {x: -63, y: -66}
+        - {x: -37, y: -56}
+      - - {x: -58, y: -79}
+        - {x: -63, y: -74}
+        - {x: -63, y: -66}
+      - - {x: 63, y: -79}
+        - {x: -58, y: -79}
+        - {x: -37, y: -56}
+      - - {x: 63, y: 18}
+        - {x: -37, y: -56}
+        - {x: -56, y: -5}
+      - - {x: 23, y: 63}
+        - {x: 63, y: 18}
+        - {x: -56, y: -5}
+      - - {x: 23, y: 63}
+        - {x: -56, y: -5}
+        - {x: -44, y: 79}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linea-4-01
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 239
+        width: 124
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: 31.5}
+        - {x: 60, y: -15.5}
+        - {x: 42, y: -35.5}
+      - - {x: -40, y: -25.5}
+        - {x: -53, y: 13.5}
+        - {x: 60, y: 31.5}
+      - - {x: -53, y: 13.5}
+        - {x: -2, y: 71.5}
+        - {x: 60, y: 31.5}
+      - - {x: -62, y: -60.5}
+        - {x: -57, y: -71.5}
+        - {x: -62, y: -66.5}
+      - - {x: -62, y: -60.5}
+        - {x: -40, y: -25.5}
+        - {x: -57, y: -71.5}
+      - - {x: 42, y: -35.5}
+        - {x: 62, y: -59.5}
+        - {x: 62, y: -71.5}
+      - - {x: 42, y: -35.5}
+        - {x: 62, y: -71.5}
+        - {x: -57, y: -71.5}
+      - - {x: 42, y: -35.5}
+        - {x: -57, y: -71.5}
+        - {x: -40, y: -25.5}
+      - - {x: -40, y: -25.5}
+        - {x: 60, y: 31.5}
+        - {x: 42, y: -35.5}
+      - - {x: 60, y: 31.5}
+        - {x: -2, y: 71.5}
+        - {x: 32, y: 71.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linea-3-01
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 80
+        width: 124
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 9.5}
+        - {x: 55, y: 47.5}
+        - {x: 39, y: -32.5}
+      - - {x: -47, y: 9.5}
+        - {x: -14, y: 66.5}
+        - {x: 55, y: 47.5}
+      - - {x: -14, y: 66.5}
+        - {x: 4, y: 71.5}
+        - {x: 55, y: 47.5}
+      - - {x: -57, y: -71.5}
+        - {x: -62, y: -60.5}
+        - {x: -46, y: -42.5}
+      - - {x: 39, y: -32.5}
+        - {x: -46, y: -42.5}
+        - {x: -47, y: 9.5}
+      - - {x: -57, y: -71.5}
+        - {x: -62, y: -66.5}
+        - {x: -62, y: -60.5}
+      - - {x: 39, y: -32.5}
+        - {x: 62, y: -59.5}
+        - {x: 62, y: -71.5}
+      - - {x: 39, y: -32.5}
+        - {x: 62, y: -71.5}
+        - {x: -57, y: -71.5}
+      - - {x: 39, y: -32.5}
+        - {x: -57, y: -71.5}
+        - {x: -46, y: -42.5}
+      - - {x: 55, y: 47.5}
+        - {x: 62, y: -17.5}
+        - {x: 39, y: -32.5}
+      - - {x: 55, y: 47.5}
+        - {x: 4, y: 71.5}
+        - {x: 31, y: 71.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linea-4-03
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 694
+        width: 145
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.5, y: 5}
+        - {x: -5.5, y: 77}
+        - {x: 24.5, y: 77}
+      - - {x: 72.5, y: 5}
+        - {x: -12.5, y: 75}
+        - {x: -5.5, y: 77}
+      - - {x: 72.5, y: 5}
+        - {x: -63.5, y: 18}
+        - {x: -12.5, y: 75}
+      - - {x: -67.5, y: -77}
+        - {x: -72.5, y: -64}
+        - {x: -44.5, y: -54}
+      - - {x: -67.5, y: -77}
+        - {x: -72.5, y: -72}
+        - {x: -72.5, y: -64}
+      - - {x: 49.5, y: -77}
+        - {x: -67.5, y: -77}
+        - {x: -44.5, y: -54}
+      - - {x: 72.5, y: -43}
+        - {x: 49.5, y: -77}
+        - {x: -44.5, y: -54}
+      - - {x: 72.5, y: 5}
+        - {x: 72.5, y: -43}
+        - {x: -44.5, y: -54}
+      - - {x: 72.5, y: 5}
+        - {x: -44.5, y: -54}
+        - {x: -63.5, y: 18}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linea-3-06
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 851
+        width: 157
+        height: 171
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 59.5}
+        - {x: -18.5, y: 85.5}
+        - {x: 3.5, y: 85.5}
+      - - {x: -65.5, y: -20.5}
+        - {x: -65.5, y: 28.5}
+        - {x: -20.5, y: 59.5}
+      - - {x: -53.5, y: -45.5}
+        - {x: 78.5, y: -55.5}
+        - {x: 56.5, y: -85.5}
+      - - {x: -53.5, y: -45.5}
+        - {x: -65.5, y: -20.5}
+        - {x: -20.5, y: 59.5}
+      - - {x: -78.5, y: -85.5}
+        - {x: -78.5, y: -74.5}
+        - {x: -53.5, y: -45.5}
+      - - {x: 56.5, y: -85.5}
+        - {x: -78.5, y: -85.5}
+        - {x: -53.5, y: -45.5}
+      - - {x: 46.5, y: 44.5}
+        - {x: 78.5, y: -55.5}
+        - {x: -53.5, y: -45.5}
+      - - {x: 46.5, y: 44.5}
+        - {x: -53.5, y: -45.5}
+        - {x: -20.5, y: 59.5}
+      - - {x: 46.5, y: 44.5}
+        - {x: 78.5, y: 66.5}
+        - {x: 78.5, y: -55.5}
+      - - {x: 46.5, y: 44.5}
+        - {x: -20.5, y: 59.5}
+        - {x: 3.5, y: 85.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linea-asedio-04
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 25
+        width: 88
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: -40.5}
+        - {x: 44, y: 4.5}
+        - {x: 44, y: -40.5}
+      - - {x: -14, y: 31.5}
+        - {x: 11, y: 40.5}
+        - {x: 44, y: 4.5}
+      - - {x: -44, y: -40.5}
+        - {x: -44, y: 10.5}
+        - {x: -14, y: 31.5}
+      - - {x: -44, y: -40.5}
+        - {x: -14, y: 31.5}
+        - {x: 44, y: 4.5}
+      - - {x: 44, y: 4.5}
+        - {x: 11, y: 40.5}
+        - {x: 19, y: 40.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linea-1-07
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 527
+        width: 136
+        height: 165.9239
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: -26}
+        - {x: 38, y: 30}
+        - {x: -40, y: -56}
+      - - {x: 68, y: -84}
+        - {x: -68, y: -84}
+        - {x: -40, y: -56}
+      - - {x: -68, y: -26}
+        - {x: -27, y: 65}
+        - {x: 38, y: 30}
+      - - {x: 38, y: 30}
+        - {x: 68, y: 16}
+        - {x: 68, y: -84}
+      - - {x: -40, y: -56}
+        - {x: 38, y: 30}
+        - {x: 68, y: -84}
+      - - {x: -27, y: 65}
+        - {x: 15, y: 70}
+        - {x: 38, y: 30}
+      - - {x: -27, y: 65}
+        - {x: -8, y: 83}
+        - {x: 15, y: 70}
+      - - {x: -27, y: 65}
+        - {x: -68, y: -26}
+        - {x: -68, y: 84}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Linea-asedio-02
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 37
+        width: 89
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 6.5}
+        - {x: 44.5, y: 1.5}
+        - {x: 44.5, y: -35.5}
+      - - {x: -39.5, y: 6.5}
+        - {x: 10.5, y: 35.5}
+        - {x: 44.5, y: 1.5}
+      - - {x: -44.5, y: -35.5}
+        - {x: -44.5, y: -3.5}
+        - {x: -39.5, y: 6.5}
+      - - {x: 44.5, y: -35.5}
+        - {x: -44.5, y: -35.5}
+        - {x: -39.5, y: 6.5}
+      - - {x: 44.5, y: 1.5}
+        - {x: 10.5, y: 35.5}
+        - {x: 19.5, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Linea-3-06: 21300036
+      Linea-asedio-02: 21300052
+      Linea-1-05: 21300008
+      Linea-1-01: 21300000
+      Linea-2-03: 21300022
+      Linea-1-03: 21300004
+      Linea-2-02: 21300020
+      Linea-1-04: 21300006
+      Linea-1-08: 21300014
+      Linea-asedio-04: 21300056
+      Linea-1-02: 21300002
+      Linea-1-06: 21300010
+      Linea-1-07: 21300012
+      Linea-3-03: 21300030
+      Linea-4-05: 21300048
+      Linea-3-01: 21300026
+      Linea-3-02: 21300028
+      Linea-4-02: 21300042
+      Linea-asedio-01: 21300050
+      Linea-3-05: 21300034
+      Linea-3-07: 21300038
+      Personaje-inicial: 21300058
+      Linea-2-04: 21300024
+      Linea-asedio-03: 21300054
+      Linea-4-03: 21300044
+      Linea-4-01: 21300040
+      Linea-2-01: 21300018
+      Linea-1-09: 21300016
+      Linea-3-04: 21300032
+      Linea-4-04: 21300046
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

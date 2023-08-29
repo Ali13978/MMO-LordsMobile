@@ -1,0 +1,1233 @@
+fileFormatVersion: 2
+guid: 572e329e8d104934a40b6740bbfdef31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ITA_PeasantJavalineS_Attack_0000
+  - first:
+      213: 21300002
+    second: ITA_PeasantJavalineS_Attack_0001
+  - first:
+      213: 21300004
+    second: ITA_PeasantJavalineS_Attack_0002
+  - first:
+      213: 21300006
+    second: ITA_PeasantJavalineS_Attack_0003
+  - first:
+      213: 21300008
+    second: ITA_PeasantJavalineS_Death_0000
+  - first:
+      213: 21300010
+    second: ITA_PeasantJavalineS_Death_0001
+  - first:
+      213: 21300012
+    second: ITA_PeasantJavalineS_Death_0002
+  - first:
+      213: 21300014
+    second: ITA_PeasantJavalineS_Death_0003
+  - first:
+      213: 21300016
+    second: ITA_PeasantJavalineS_Idle_0000
+  - first:
+      213: 21300018
+    second: ITA_PeasantJavalineS_Idle_0001
+  - first:
+      213: 21300020
+    second: ITA_PeasantJavalineS_Idle_0002
+  - first:
+      213: 21300022
+    second: ITA_PeasantJavalineS_Idle_0003
+  - first:
+      213: 21300024
+    second: ITA_PeasantJavalineS_Running_0000
+  - first:
+      213: 21300026
+    second: ITA_PeasantJavalineS_Running_0001
+  - first:
+      213: 21300028
+    second: ITA_PeasantJavalineS_Running_0002
+  - first:
+      213: 21300030
+    second: ITA_PeasantJavalineS_Running_0003
+  - first:
+      213: 21300032
+    second: ITA_PeasantJavaline_Attack_0000
+  - first:
+      213: 21300034
+    second: ITA_PeasantJavaline_Attack_0001
+  - first:
+      213: 21300036
+    second: ITA_PeasantJavaline_Attack_0002
+  - first:
+      213: 21300038
+    second: ITA_PeasantJavaline_Attack_0003
+  - first:
+      213: 21300040
+    second: ITA_PeasantJavaline_Attack_0004
+  - first:
+      213: 21300042
+    second: ITA_PeasantJavaline_Death_0000
+  - first:
+      213: 21300044
+    second: ITA_PeasantJavaline_Death_0001
+  - first:
+      213: 21300046
+    second: ITA_PeasantJavaline_Death_0002
+  - first:
+      213: 21300048
+    second: ITA_PeasantJavaline_Death_0003
+  - first:
+      213: 21300050
+    second: ITA_PeasantJavaline_Idle_0000
+  - first:
+      213: 21300052
+    second: ITA_PeasantJavaline_Idle_0001
+  - first:
+      213: 21300054
+    second: ITA_PeasantJavaline_Idle_0002
+  - first:
+      213: 21300056
+    second: ITA_PeasantJavaline_Idle_0003
+  - first:
+      213: 21300058
+    second: ITA_PeasantJavaline_Running_0000
+  - first:
+      213: 21300060
+    second: ITA_PeasantJavaline_Running_0001
+  - first:
+      213: 21300062
+    second: ITA_PeasantJavaline_Running_0002
+  - first:
+      213: 21300064
+    second: ITA_PeasantJavaline_Running_0003
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 13
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ITA_PeasantJavaline_Running_0003
+      rect:
+        serializedVersion: 2
+        x: 327.0761
+        y: 317
+        width: 74.92388
+        height: 59
+      alignment: 9
+      pivot: {x: 0.2592483, y: -0.08474576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 10.5}
+        - {x: -8, y: 29.5}
+        - {x: 38, y: 29.5}
+      - - {x: 6, y: 10.5}
+        - {x: 1, y: -29.5}
+        - {x: -27, y: -23.5}
+      - - {x: 6, y: 10.5}
+        - {x: -27, y: -23.5}
+        - {x: -38, y: 16.5}
+      - - {x: 6, y: 10.5}
+        - {x: -38, y: 16.5}
+        - {x: -8, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavaline_Idle_0003
+      rect:
+        serializedVersion: 2
+        x: 98.07612
+        y: 269.0761
+        width: 61.92388
+        height: 62.92388
+      alignment: 9
+      pivot: {x: 0.5074598, y: -0.1124551}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -32}
+        - {x: -33, y: 32}
+        - {x: 9, y: 32}
+      - - {x: 33, y: 8}
+        - {x: 33, y: -28}
+        - {x: -10, y: -32}
+      - - {x: 33, y: 8}
+        - {x: -10, y: -32}
+        - {x: 9, y: 32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavalineS_Running_0003
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 397
+        width: 82
+        height: 60
+      alignment: 9
+      pivot: {x: 0.347561, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -30}
+        - {x: -41, y: 20}
+        - {x: 41, y: 30}
+      - - {x: 16, y: -30}
+        - {x: -25, y: -30}
+        - {x: -41, y: 20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavalineS_Running_0001
+      rect:
+        serializedVersion: 2
+        x: 3.07612
+        y: 100.0761
+        width: 69.89713
+        height: 56.84776
+      alignment: 9
+      pivot: {x: 0.2778924, y: -0.1420657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -27.5}
+        - {x: -36, y: 28.5}
+        - {x: 36, y: 28.5}
+      - - {x: 13, y: -27.5}
+        - {x: -33, y: -28.5}
+        - {x: -36, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavaline_Death_0001
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 380
+        width: 66
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5530303, y: -0.1285714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: -5}
+        - {x: -6, y: -35}
+        - {x: -33, y: 8}
+      - - {x: 33, y: -5}
+        - {x: 33, y: -35}
+        - {x: -6, y: -35}
+      - - {x: 33, y: -5}
+        - {x: -33, y: 8}
+        - {x: -7, y: 35}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavalineS_Attack_0002
+      rect:
+        serializedVersion: 2
+        x: 73.07612
+        y: 443
+        width: 81.92388
+        height: 67
+      alignment: 9
+      pivot: {x: 0.298129, y: -0.1044776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: -33.5}
+        - {x: -11, y: 33.5}
+        - {x: 42, y: 33.5}
+      - - {x: -42, y: 2.5}
+        - {x: -1, y: -33.5}
+        - {x: -31, y: -31.5}
+      - - {x: -42, y: 2.5}
+        - {x: -11, y: 33.5}
+        - {x: -1, y: -33.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavalineS_Attack_0003
+      rect:
+        serializedVersion: 2
+        x: 2.07612
+        y: 161
+        width: 54.84776
+        height: 74.92388
+      alignment: 9
+      pivot: {x: 0.4453032, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -4.5}
+        - {x: -29.5, y: 31.5}
+        - {x: -1.5, y: 37.5}
+      - - {x: 29.5, y: 2.5}
+        - {x: 9.5, y: -37.5}
+        - {x: -28.5, y: -4.5}
+      - - {x: 9.5, y: -37.5}
+        - {x: -13.5, y: -37.5}
+        - {x: -28.5, y: -4.5}
+      - - {x: 29.5, y: 2.5}
+        - {x: -28.5, y: -4.5}
+        - {x: -1.5, y: 37.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavalineS_Attack_0000
+      rect:
+        serializedVersion: 2
+        x: 226.0761
+        y: 244
+        width: 60.89713
+        height: 63.92388
+      alignment: 9
+      pivot: {x: 0.5160157, y: -0.1251488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -33}
+        - {x: -33, y: 24}
+        - {x: 18, y: 33}
+      - - {x: 10, y: -33}
+        - {x: -17, y: -33}
+        - {x: -33, y: 24}
+      - - {x: 33, y: -16}
+        - {x: 10, y: -33}
+        - {x: 18, y: 33}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavaline_Death_0000
+      rect:
+        serializedVersion: 2
+        x: 164.0761
+        y: 257
+        width: 62.91097
+        height: 62.97325
+      alignment: 9
+      pivot: {x: 0.4994975, y: -0.1270381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -31.5}
+        - {x: -34, y: 30.5}
+        - {x: 10, y: 31.5}
+      - - {x: 12, y: -31.5}
+        - {x: -11, y: -31.5}
+        - {x: 10, y: 31.5}
+      - - {x: 34, y: -9.499998}
+        - {x: 12, y: -31.5}
+        - {x: 10, y: 31.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavalineS_Idle_0003
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 441
+        width: 65.95709
+        height: 66.92388
+      alignment: 9
+      pivot: {x: 0.5837128, y: -0.07471175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: -31.5}
+        - {x: -35.5, y: 24.5}
+        - {x: 22.5, y: 34.5}
+      - - {x: 35.5, y: -34.5}
+        - {x: -9.5, y: -31.5}
+        - {x: 22.5, y: 34.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavalineS_Attack_0001
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 441
+        width: 82
+        height: 69
+      alignment: 9
+      pivot: {x: 0.6402439, y: -0.07246377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -34.5}
+        - {x: -24, y: 26.5}
+        - {x: 12, y: 34.5}
+      - - {x: 3, y: -34.5}
+        - {x: -41, y: 7.5}
+        - {x: -24, y: 26.5}
+      - - {x: 41, y: 5.5}
+        - {x: 41, y: -28.5}
+        - {x: 3, y: -34.5}
+      - - {x: 41, y: 5.5}
+        - {x: 3, y: -34.5}
+        - {x: 12, y: 34.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavalineS_Running_0002
+      rect:
+        serializedVersion: 2
+        x: 3.07612
+        y: 370.0761
+        width: 77.89713
+        height: 57.84776
+      alignment: 9
+      pivot: {x: 0.3263776, y: -0.122323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: -25}
+        - {x: -30.5, y: 23}
+        - {x: 41.5, y: 35}
+      - - {x: -41.5, y: -18}
+        - {x: -30.5, y: 23}
+        - {x: 13.5, y: -25}
+      - - {x: -41.5, y: -18}
+        - {x: 13.5, y: -25}
+        - {x: -24.5, y: -35}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavaline_Attack_0003
+      rect:
+        serializedVersion: 2
+        x: 3.026751
+        y: 26.07612
+        width: 47.97325
+        height: 69.84776
+      alignment: 9
+      pivot: {x: 0.385074, y: -0.1013078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: -32.5}
+        - {x: -24.5, y: 24.5}
+        - {x: -2.5, y: 36.5}
+      - - {x: 24.5, y: -32.5}
+        - {x: -20.5, y: -36.5}
+        - {x: -24.5, y: 24.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavalineS_Idle_0001
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 323
+        width: 71
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5422535, y: -0.07246377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: -31.5}
+        - {x: -35.5, y: 24.5}
+        - {x: 22.5, y: 34.5}
+      - - {x: 35.5, y: -34.5}
+        - {x: -9.5, y: -31.5}
+        - {x: 22.5, y: 34.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavaline_Attack_0000
+      rect:
+        serializedVersion: 2
+        x: 429.0761
+        y: 372.0761
+        width: 60.91097
+        height: 63.89713
+      alignment: 9
+      pivot: {x: 0.5158986, y: -0.1107422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -28}
+        - {x: -33, y: 34}
+        - {x: 11, y: 34}
+      - - {x: 33, y: -6}
+        - {x: -10, y: -28}
+        - {x: 11, y: 34}
+      - - {x: 33, y: -6}
+        - {x: 10, y: -34}
+        - {x: -10, y: -28}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavalineS_Idle_0002
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 377
+        width: 77
+        height: 66.92388
+      alignment: 9
+      pivot: {x: 0.5, y: -0.0896541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: -33.5}
+        - {x: -38.5, y: 24.5}
+        - {x: 10.5, y: 33.5}
+      - - {x: 38.5, y: -28.5}
+        - {x: -14.5, y: -33.5}
+        - {x: 10.5, y: 33.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavaline_Death_0002
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 328
+        width: 72.92388
+        height: 42
+      alignment: 9
+      pivot: {x: 0.6376512, y: -0.3095238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: -21}
+        - {x: -41, y: 7}
+        - {x: -12, y: 21}
+      - - {x: 45, y: -21}
+        - {x: -45, y: -21}
+        - {x: -12, y: 21}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavaline_Attack_0004
+      rect:
+        serializedVersion: 2
+        x: 378.0761
+        y: 413
+        width: 51.92388
+        height: 79
+      alignment: 9
+      pivot: {x: 0.4126018, y: -0.1012658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: -39.5}
+        - {x: -28.5, y: 2.5}
+        - {x: -3.5, y: 39.5}
+      - - {x: 28.5, y: -39.5}
+        - {x: -19.5, y: -39.5}
+        - {x: -28.5, y: 2.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavalineS_Death_0000
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 312
+        width: 72
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5486111, y: -0.1044776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -33.5}
+        - {x: -36, y: 22.5}
+        - {x: 21, y: 33.5}
+      - - {x: 36, y: -32.5}
+        - {x: -9, y: -33.5}
+        - {x: 21, y: 33.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavaline_Attack_0002
+      rect:
+        serializedVersion: 2
+        x: 2.012913
+        y: 298.0268
+        width: 78.98709
+        height: 67.89713
+      alignment: 9
+      pivot: {x: 0.1707505, y: -0.1182195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 6}
+        - {x: -13.5, y: -34}
+        - {x: -39.5, y: -35}
+      - - {x: 1.5, y: 6}
+        - {x: -39.5, y: -35}
+        - {x: -36.5, y: 26}
+      - - {x: 39.5, y: 35}
+        - {x: 1.5, y: 6}
+        - {x: -36.5, y: 26}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavaline_Running_0000
+      rect:
+        serializedVersion: 2
+        x: 365.0129
+        y: 266.0363
+        width: 69.97418
+        height: 57.96371
+      alignment: 9
+      pivot: {x: 0.3070717, y: -0.104139}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 1}
+        - {x: -4.5, y: 29}
+        - {x: 36.5, y: 29}
+      - - {x: -36.5, y: 17}
+        - {x: 9.5, y: 1}
+        - {x: -28.5, y: -29}
+      - - {x: 9.5, y: 1}
+        - {x: 8.5, y: -28}
+        - {x: -28.5, y: -29}
+      - - {x: -36.5, y: 17}
+        - {x: -4.5, y: 29}
+        - {x: 9.5, y: 1}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavaline_Running_0001
+      rect:
+        serializedVersion: 2
+        x: 3.07612
+        y: 237.0761
+        width: 68.84776
+        height: 55.92388
+      alignment: 9
+      pivot: {x: 0.282128, y: -0.1444128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 10.5}
+        - {x: 2.5, y: -24.5}
+        - {x: -35.5, y: -28.5}
+      - - {x: 4.5, y: 10.5}
+        - {x: -35.5, y: -28.5}
+        - {x: -38.5, y: 28.5}
+      - - {x: 38.5, y: 28.5}
+        - {x: 4.5, y: 10.5}
+        - {x: -38.5, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavaline_Idle_0001
+      rect:
+        serializedVersion: 2
+        x: 98.07612
+        y: 269.0761
+        width: 61.92388
+        height: 62.92388
+      alignment: 9
+      pivot: {x: 0.5074598, y: -0.1124551}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -32}
+        - {x: -33, y: 32}
+        - {x: 9, y: 32}
+      - - {x: 33, y: 8}
+        - {x: 33, y: -28}
+        - {x: -10, y: -32}
+      - - {x: 33, y: 8}
+        - {x: -10, y: -32}
+        - {x: 9, y: 32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavalineS_Death_0001
+      rect:
+        serializedVersion: 2
+        x: 3.07612
+        y: 432.0761
+        width: 77.92388
+        height: 66.84776
+      alignment: 9
+      pivot: {x: 0.5059281, y: -0.1208135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -40.5}
+        - {x: -39.5, y: 5.5}
+        - {x: -11.5, y: 40.5}
+      - - {x: 39.5, y: -27.5}
+        - {x: -8.5, y: -40.5}
+        - {x: -11.5, y: 40.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavalineS_Death_0003
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 337.0761
+        width: 86
+        height: 44.84776
+      alignment: 9
+      pivot: {x: 0.6569768, y: -0.06859007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -23}
+        - {x: -8, y: 17}
+        - {x: 27, y: 23}
+      - - {x: -4, y: -23}
+        - {x: -43, y: -18}
+        - {x: -8, y: 17}
+      - - {x: 43, y: -19}
+        - {x: -4, y: -23}
+        - {x: 27, y: 23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavaline_Attack_0001
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 391.0761
+        width: 76
+        height: 71.92388
+      alignment: 9
+      pivot: {x: 0.6907895, y: -0.09838333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.999999, y: -36.5}
+        - {x: -38, y: 5.5}
+        - {x: -7, y: 36.5}
+      - - {x: 29, y: 21.5}
+        - {x: 38, y: -32.5}
+        - {x: 0.999999, y: -36.5}
+      - - {x: 29, y: 21.5}
+        - {x: 0.999999, y: -36.5}
+        - {x: -7, y: 36.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavaline_Idle_0000
+      rect:
+        serializedVersion: 2
+        x: 164.0761
+        y: 257
+        width: 62.91097
+        height: 62.97325
+      alignment: 9
+      pivot: {x: 0.4994975, y: -0.1270381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -31.5}
+        - {x: -34, y: 30.5}
+        - {x: 10, y: 31.5}
+      - - {x: 12, y: -31.5}
+        - {x: -11, y: -31.5}
+        - {x: 10, y: 31.5}
+      - - {x: 34, y: -9.499998}
+        - {x: 12, y: -31.5}
+        - {x: 10, y: 31.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavalineS_Idle_0000
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 329
+        width: 68.95709
+        height: 64
+      alignment: 9
+      pivot: {x: 0.6018235, y: -0.109375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -31}
+        - {x: -37, y: 32}
+        - {x: 25, y: 32}
+      - - {x: 37, y: -32}
+        - {x: -8, y: -31}
+        - {x: 25, y: 32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavaline_Death_0003
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 30
+        width: 69
+        height: 27
+      alignment: 9
+      pivot: {x: 0.6594203, y: -0.2962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: -13.5}
+        - {x: -34.5, y: 13.5}
+        - {x: 34.5, y: 13.5}
+      - - {x: 34.5, y: -13.5}
+        - {x: -34.5, y: -13.5}
+        - {x: 34.5, y: 13.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavalineS_Death_0002
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 62
+        width: 76.92388
+        height: 39.92388
+      alignment: 9
+      pivot: {x: 0.669493, y: -0.2755243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -16.5}
+        - {x: -39.5, y: 6.5}
+        - {x: -8.5, y: 20.5}
+      - - {x: 30.5, y: 11.5}
+        - {x: 39.5, y: -20.5}
+        - {x: -28.5, y: -16.5}
+      - - {x: 30.5, y: 11.5}
+        - {x: -28.5, y: -16.5}
+        - {x: -8.5, y: 20.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavaline_Idle_0002
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 263
+        width: 67
+        height: 64.97325
+      alignment: 9
+      pivot: {x: 0.5447761, y: -0.09234569}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: -32.5}
+        - {x: 10.5, y: 31.5}
+        - {x: 33.5, y: 8.5}
+      - - {x: -9.5, y: -32.5}
+        - {x: 33.5, y: 8.5}
+        - {x: 33.5, y: -28.5}
+      - - {x: 10.5, y: 31.5}
+        - {x: -9.5, y: -32.5}
+        - {x: -33.5, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavalineS_Running_0000
+      rect:
+        serializedVersion: 2
+        x: 320.0761
+        y: 449
+        width: 79.92388
+        height: 59.95709
+      alignment: 9
+      pivot: {x: 0.2555418, y: -0.08339297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: -24.5}
+        - {x: -40, y: 27.5}
+        - {x: 40, y: 30.5}
+      - - {x: -14, y: -30.5}
+        - {x: -39, y: -18.5}
+        - {x: -40, y: 27.5}
+      - - {x: 8, y: -24.5}
+        - {x: -14, y: -30.5}
+        - {x: -40, y: 27.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantJavaline_Running_0002
+      rect:
+        serializedVersion: 2
+        x: 231.0761
+        y: 453.0268
+        width: 76.84776
+        height: 56.97325
+      alignment: 9
+      pivot: {x: 0.3308343, y: -0.1233344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -27.5}
+        - {x: -45, y: -28.5}
+        - {x: -29, y: 28.5}
+      - - {x: 8, y: 12.5}
+        - {x: 2, y: -27.5}
+        - {x: -29, y: 28.5}
+      - - {x: 45, y: 28.5}
+        - {x: 8, y: 12.5}
+        - {x: -29, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ITA_PeasantJavalineS_Idle_0002: 21300020
+      ITA_PeasantJavalineS_Running_0002: 21300028
+      ITA_PeasantJavaline_Death_0002: 21300046
+      ITA_PeasantJavalineS_Death_0003: 21300014
+      ITA_PeasantJavalineS_Running_0000: 21300024
+      ITA_PeasantJavaline_Idle_0001: 21300052
+      ITA_PeasantJavalineS_Death_0001: 21300010
+      ITA_PeasantJavalineS_Running_0003: 21300030
+      ITA_PeasantJavaline_Idle_0000: 21300050
+      ITA_PeasantJavaline_Death_0003: 21300048
+      ITA_PeasantJavaline_Running_0003: 21300064
+      ITA_PeasantJavaline_Running_0001: 21300060
+      ITA_PeasantJavaline_Running_0002: 21300062
+      ITA_PeasantJavaline_Attack_0000: 21300032
+      ITA_PeasantJavaline_Idle_0002: 21300054
+      ITA_PeasantJavalineS_Running_0001: 21300026
+      ITA_PeasantJavaline_Death_0001: 21300044
+      ITA_PeasantJavalineS_Idle_0000: 21300016
+      ITA_PeasantJavaline_Attack_0002: 21300036
+      ITA_PeasantJavalineS_Death_0002: 21300012
+      ITA_PeasantJavalineS_Attack_0002: 21300004
+      ITA_PeasantJavaline_Death_0000: 21300042
+      ITA_PeasantJavaline_Attack_0003: 21300038
+      ITA_PeasantJavaline_Attack_0004: 21300040
+      ITA_PeasantJavalineS_Attack_0000: 21300000
+      ITA_PeasantJavalineS_Idle_0001: 21300018
+      ITA_PeasantJavaline_Running_0000: 21300058
+      ITA_PeasantJavalineS_Idle_0003: 21300022
+      ITA_PeasantJavaline_Idle_0003: 21300056
+      ITA_PeasantJavalineS_Attack_0001: 21300002
+      ITA_PeasantJavalineS_Attack_0003: 21300006
+      ITA_PeasantJavalineS_Death_0000: 21300008
+      ITA_PeasantJavaline_Attack_0001: 21300034
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

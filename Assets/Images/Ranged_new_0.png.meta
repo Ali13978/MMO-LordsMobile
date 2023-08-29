@@ -1,0 +1,710 @@
+fileFormatVersion: 2
+guid: 4d4879155d664e5984e689f99d1296a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ROM_PeasantJavaline_Attack_0000
+  - first:
+      213: 21300002
+    second: ROM_PeasantJavaline_Attack_0001
+  - first:
+      213: 21300004
+    second: ROM_PeasantJavaline_Attack_0002
+  - first:
+      213: 21300006
+    second: ROM_PeasantJavaline_Attack_0003
+  - first:
+      213: 21300008
+    second: ROM_PeasantJavaline_Attack_0004
+  - first:
+      213: 21300010
+    second: ROM_PeasantJavaline_Death_0000
+  - first:
+      213: 21300012
+    second: ROM_PeasantJavaline_Death_0001
+  - first:
+      213: 21300014
+    second: ROM_PeasantJavaline_Death_0002
+  - first:
+      213: 21300016
+    second: ROM_PeasantJavaline_Death_0003
+  - first:
+      213: 21300018
+    second: ROM_PeasantJavaline_Idle_0000
+  - first:
+      213: 21300020
+    second: ROM_PeasantJavaline_Idle_0001
+  - first:
+      213: 21300022
+    second: ROM_PeasantJavaline_Idle_0002
+  - first:
+      213: 21300024
+    second: ROM_PeasantJavaline_Idle_0003
+  - first:
+      213: 21300026
+    second: ROM_PeasantJavaline_Running_0000
+  - first:
+      213: 21300028
+    second: ROM_PeasantJavaline_Running_0001
+  - first:
+      213: 21300030
+    second: ROM_PeasantJavaline_Running_0002
+  - first:
+      213: 21300032
+    second: ROM_PeasantJavaline_Running_0003
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 13
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ROM_PeasantJavaline_Death_0002
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 390.0761
+        width: 85
+        height: 42.89713
+      alignment: 9
+      pivot: {x: 0.6647059, y: -0.2582017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: -22.5}
+        - {x: -42.5, y: -3.499998}
+        - {x: -18.5, y: 22.5}
+      - - {x: 42.5, y: 10.5}
+        - {x: 42.5, y: -21.5}
+        - {x: -11.5, y: -22.5}
+      - - {x: 42.5, y: 10.5}
+        - {x: -11.5, y: -22.5}
+        - {x: -18.5, y: 22.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantJavaline_Death_0003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 15
+        width: 78
+        height: 31
+      alignment: 9
+      pivot: {x: 0.6089743, y: -0.06451613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: -15.5}
+        - {x: -39, y: 15.5}
+        - {x: 39, y: 15.5}
+      - - {x: 39, y: -15.5}
+        - {x: -39, y: -15.5}
+        - {x: 39, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantJavaline_Running_0003
+      rect:
+        serializedVersion: 2
+        x: 240.0761
+        y: 443.0761
+        width: 68.84776
+        height: 66.8876
+      alignment: 9
+      pivot: {x: 0.2240287, y: -0.06093971}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 14.5}
+        - {x: 12.5, y: -32.5}
+        - {x: -38.5, y: -34.5}
+      - - {x: 13.5, y: 14.5}
+        - {x: -38.5, y: -34.5}
+        - {x: -30.5, y: 34.5}
+      - - {x: 38.5, y: 32.5}
+        - {x: 13.5, y: 14.5}
+        - {x: -30.5, y: 34.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantJavaline_Idle_0001
+      rect:
+        serializedVersion: 2
+        x: 320.0761
+        y: 440
+        width: 58.92388
+        height: 71
+      alignment: 9
+      pivot: {x: 0.4993542, y: -0.04225352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: -0.5}
+        - {x: -30.5, y: 35.5}
+        - {x: 14.5, y: 35.5}
+      - - {x: 30.5, y: -0.5}
+        - {x: 30.5, y: -35.5}
+        - {x: -13.5, y: -35.5}
+      - - {x: 30.5, y: -0.5}
+        - {x: -13.5, y: -35.5}
+        - {x: -30.5, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantJavaline_Attack_0000
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 441
+        width: 58
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5775862, y: -0.04285714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -35}
+        - {x: -29, y: 35}
+        - {x: 29, y: 35}
+      - - {x: 29, y: -35}
+        - {x: -10, y: -35}
+        - {x: 29, y: 35}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantJavaline_Running_0000
+      rect:
+        serializedVersion: 2
+        x: 5.026751
+        y: 197
+        width: 78.97325
+        height: 67
+      alignment: 9
+      pivot: {x: 0.2339178, y: -0.01492537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: -33.5}
+        - {x: -41.5, y: -31.5}
+        - {x: -29.5, y: 33.5}
+      - - {x: 17.5, y: -10.5}
+        - {x: 0.5, y: -33.5}
+        - {x: -29.5, y: 33.5}
+      - - {x: 18.5, y: 19.5}
+        - {x: 17.5, y: -10.5}
+        - {x: -29.5, y: 33.5}
+      - - {x: 41.5, y: 33.5}
+        - {x: 18.5, y: 19.5}
+        - {x: -29.5, y: 33.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantJavaline_Attack_0003
+      rect:
+        serializedVersion: 2
+        x: 433.0761
+        y: 434
+        width: 48.92388
+        height: 74.92388
+      alignment: 9
+      pivot: {x: 0.4583424, y: -0.04004064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 0.5}
+        - {x: -24.5, y: 30.5}
+        - {x: 2.5, y: 38.5}
+      - - {x: 24.5, y: 0.5}
+        - {x: 24.5, y: -38.5}
+        - {x: -23.5, y: -38.5}
+      - - {x: 24.5, y: 0.5}
+        - {x: -23.5, y: -38.5}
+        - {x: -24.5, y: 30.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantJavaline_Running_0001
+      rect:
+        serializedVersion: 2
+        x: 159.0267
+        y: 442.0761
+        width: 73.89713
+        height: 67.8876
+      alignment: 9
+      pivot: {x: 0.2770507, y: -0.04531182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 17}
+        - {x: 13.5, y: -27}
+        - {x: -40.5, y: -36}
+      - - {x: 13.5, y: 17}
+        - {x: -40.5, y: -36}
+        - {x: -29.5, y: 36}
+      - - {x: 40.5, y: 34}
+        - {x: 13.5, y: 17}
+        - {x: -29.5, y: 36}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantJavaline_Attack_0002
+      rect:
+        serializedVersion: 2
+        x: 2.012913
+        y: 351
+        width: 73.98709
+        height: 81.92388
+      alignment: 9
+      pivot: {x: 0.2093215, y: -0.03661936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 11}
+        - {x: 3.5, y: -42}
+        - {x: -35.5, y: -41}
+      - - {x: 7.5, y: 11}
+        - {x: -35.5, y: -41}
+        - {x: -37.5, y: 28}
+      - - {x: 37.5, y: 42}
+        - {x: 7.5, y: 11}
+        - {x: -37.5, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantJavaline_Attack_0004
+      rect:
+        serializedVersion: 2
+        x: 2.042908
+        y: 270.0761
+        width: 69.95709
+        height: 78.92388
+      alignment: 9
+      pivot: {x: 0.3781903, y: -0.02630523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 4.5}
+        - {x: -20.5, y: 34.5}
+        - {x: -2.5, y: 40.5}
+      - - {x: 35.5, y: -40.5}
+        - {x: -35.5, y: 4.5}
+        - {x: -2.5, y: 40.5}
+      - - {x: 35.5, y: -40.5}
+        - {x: -29.5, y: -37.5}
+        - {x: -35.5, y: 4.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantJavaline_Death_0000
+      rect:
+        serializedVersion: 2
+        x: 3.012913
+        y: 123.0761
+        width: 62.98709
+        height: 70.92388
+      alignment: 9
+      pivot: {x: 0.468145, y: -0.02927249}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -34.5}
+        - {x: -32.5, y: 35.5}
+        - {x: 19.5, y: 35.5}
+      - - {x: 32.5, y: -35.5}
+        - {x: -15.5, y: -34.5}
+        - {x: 19.5, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantJavaline_Running_0002
+      rect:
+        serializedVersion: 2
+        x: 6.07612
+        y: 439.0761
+        width: 91.92388
+        height: 70.88097
+      alignment: 9
+      pivot: {x: 0.3418467, y: -0.0292901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 13}
+        - {x: -23.5, y: 34}
+        - {x: 48.5, y: 37}
+      - - {x: 17.5, y: 13}
+        - {x: -23.5, y: 2}
+        - {x: -23.5, y: 34}
+      - - {x: -23.5, y: 2}
+        - {x: 17.5, y: 13}
+        - {x: 13.5, y: -37}
+      - - {x: -23.5, y: 2}
+        - {x: 13.5, y: -37}
+        - {x: -48.5, y: -25}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantJavaline_Idle_0002
+      rect:
+        serializedVersion: 2
+        x: 4.07612
+        y: 48
+        width: 59.92388
+        height: 72.92388
+      alignment: 9
+      pivot: {x: 0.5077088, y: -0.04113879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.5, y: 0.5}
+        - {x: -31.5, y: 36.5}
+        - {x: 15.5, y: 36.5}
+      - - {x: 31.5, y: 0.5}
+        - {x: 31.5, y: -36.5}
+        - {x: -12.5, y: -36.5}
+      - - {x: 31.5, y: 0.5}
+        - {x: -12.5, y: -36.5}
+        - {x: -31.5, y: 36.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantJavaline_Idle_0003
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 136
+        width: 61
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5163934, y: -0.04225352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: -0.5}
+        - {x: -30.5, y: 35.5}
+        - {x: 14.5, y: 35.5}
+      - - {x: 30.5, y: -0.5}
+        - {x: 30.5, y: -35.5}
+        - {x: -13.5, y: -35.5}
+      - - {x: 30.5, y: -0.5}
+        - {x: -13.5, y: -35.5}
+        - {x: -30.5, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantJavaline_Attack_0001
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 433.0761
+        width: 85
+        height: 76.88097
+      alignment: 9
+      pivot: {x: 0.6882353, y: -0.02700422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: -39}
+        - {x: -42.5, y: 14}
+        - {x: 17.5, y: 39}
+      - - {x: 42.5, y: -1}
+        - {x: 42.5, y: -38}
+        - {x: 1.5, y: -39}
+      - - {x: 42.5, y: -1}
+        - {x: 1.5, y: -39}
+        - {x: 17.5, y: 39}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantJavaline_Death_0001
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 284.0268
+        width: 68.95709
+        height: 75.89713
+      alignment: 9
+      pivot: {x: 0.5728199, y: -0.03987982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -30.5}
+        - {x: -35, y: 30.5}
+        - {x: 0, y: 40.5}
+      - - {x: 27, y: -26.5}
+        - {x: 2, y: -40.5}
+        - {x: -16, y: -30.5}
+      - - {x: 35, y: 7.5}
+        - {x: 27, y: -26.5}
+        - {x: -16, y: -30.5}
+      - - {x: 35, y: 7.5}
+        - {x: -16, y: -30.5}
+        - {x: 0, y: 40.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantJavaline_Idle_0000
+      rect:
+        serializedVersion: 2
+        x: 3.012913
+        y: 123.0761
+        width: 62.98709
+        height: 70.92388
+      alignment: 9
+      pivot: {x: 0.468145, y: -0.02927249}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -34.5}
+        - {x: -32.5, y: 35.5}
+        - {x: 19.5, y: 35.5}
+      - - {x: 32.5, y: -35.5}
+        - {x: -15.5, y: -34.5}
+        - {x: 19.5, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ROM_PeasantJavaline_Attack_0001: 21300002
+      ROM_PeasantJavaline_Attack_0004: 21300008
+      ROM_PeasantJavaline_Running_0000: 21300026
+      ROM_PeasantJavaline_Attack_0000: 21300000
+      ROM_PeasantJavaline_Attack_0002: 21300004
+      ROM_PeasantJavaline_Running_0001: 21300028
+      ROM_PeasantJavaline_Death_0000: 21300010
+      ROM_PeasantJavaline_Attack_0003: 21300006
+      ROM_PeasantJavaline_Running_0002: 21300030
+      ROM_PeasantJavaline_Idle_0000: 21300018
+      ROM_PeasantJavaline_Idle_0003: 21300024
+      ROM_PeasantJavaline_Idle_0002: 21300022
+      ROM_PeasantJavaline_Idle_0001: 21300020
+      ROM_PeasantJavaline_Death_0002: 21300014
+      ROM_PeasantJavaline_Death_0001: 21300012
+      ROM_PeasantJavaline_Death_0003: 21300016
+      ROM_PeasantJavaline_Running_0003: 21300032
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

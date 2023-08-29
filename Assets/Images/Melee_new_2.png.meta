@@ -1,0 +1,697 @@
+fileFormatVersion: 2
+guid: 801911e172794f2c8bd3a3cac020f3bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ROM_TownWatchGladius_Attack_0000
+  - first:
+      213: 21300002
+    second: ROM_TownWatchGladius_Attack_0001
+  - first:
+      213: 21300004
+    second: ROM_TownWatchGladius_Attack_0002
+  - first:
+      213: 21300006
+    second: ROM_TownWatchGladius_Attack_0003
+  - first:
+      213: 21300008
+    second: ROM_TownWatchGladius_Death_0000
+  - first:
+      213: 21300010
+    second: ROM_TownWatchGladius_Death_0001
+  - first:
+      213: 21300012
+    second: ROM_TownWatchGladius_Death_0002
+  - first:
+      213: 21300014
+    second: ROM_TownWatchGladius_Death_0003
+  - first:
+      213: 21300016
+    second: ROM_TownWatchGladius_Idle_0000
+  - first:
+      213: 21300018
+    second: ROM_TownWatchGladius_Idle_0001
+  - first:
+      213: 21300020
+    second: ROM_TownWatchGladius_Idle_0002
+  - first:
+      213: 21300022
+    second: ROM_TownWatchGladius_Idle_0003
+  - first:
+      213: 21300024
+    second: ROM_TownWatchGladius_Running_0000
+  - first:
+      213: 21300026
+    second: ROM_TownWatchGladius_Running_0001
+  - first:
+      213: 21300028
+    second: ROM_TownWatchGladius_Running_0002
+  - first:
+      213: 21300030
+    second: ROM_TownWatchGladius_Running_0003
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 13
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ROM_TownWatchGladius_Idle_0002
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 442
+        width: 70.9418
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5286024, y: -0.04347826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: -34.5}
+        - {x: -41.5, y: 34.5}
+        - {x: 6.5, y: 34.5}
+      - - {x: 11.5, y: -34.5}
+        - {x: -18.5, y: -34.5}
+        - {x: 6.5, y: 34.5}
+      - - {x: 41.5, y: -4.5}
+        - {x: 11.5, y: -34.5}
+        - {x: 6.5, y: 34.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_TownWatchGladius_Running_0003
+      rect:
+        serializedVersion: 2
+        x: 1.014355
+        y: 12.07612
+        width: 62.90952
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.2461574, y: -0.05300744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 8.000004}
+        - {x: 12.5, y: -41}
+        - {x: -33.5, y: -43}
+      - - {x: 23.5, y: 8.000004}
+        - {x: 33.5, y: -20}
+        - {x: 12.5, y: -41}
+      - - {x: 23.5, y: 8.000004}
+        - {x: -33.5, y: -43}
+        - {x: -33.5, y: 43}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_TownWatchGladius_Death_0002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 267
+        width: 84
+        height: 75.85065
+      alignment: 9
+      pivot: {x: 0.5297619, y: -0.0131838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -30}
+        - {x: -42, y: 2}
+        - {x: 28, y: 43}
+      - - {x: -42, y: -43}
+        - {x: -42, y: 2}
+        - {x: -11, y: -30}
+      - - {x: -42, y: -43}
+        - {x: -11, y: -30}
+        - {x: -21, y: -43}
+      - - {x: 42, y: -29}
+        - {x: -11, y: -30}
+        - {x: 28, y: 43}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_TownWatchGladius_Attack_0003
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 372
+        width: 61
+        height: 82
+      alignment: 9
+      pivot: {x: 0.3852459, y: -0.03658536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 3}
+        - {x: 11.5, y: -41}
+        - {x: -30.5, y: -1}
+      - - {x: 11.5, y: -41}
+        - {x: -21.5, y: -41}
+        - {x: -30.5, y: -1}
+      - - {x: 30.5, y: 3}
+        - {x: -30.5, y: -1}
+        - {x: -1.5, y: 41}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_TownWatchGladius_Idle_0000
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 198
+        width: 71.92388
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5213845, y: -0.0375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 24}
+        - {x: -14, y: -40}
+        - {x: -37, y: 20}
+      - - {x: 37, y: -9}
+        - {x: 21, y: -40}
+        - {x: -14, y: -40}
+      - - {x: 20, y: 24}
+        - {x: 37, y: -9}
+        - {x: -14, y: -40}
+      - - {x: 20, y: 24}
+        - {x: -37, y: 20}
+        - {x: -14, y: 40}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_TownWatchGladius_Attack_0002
+      rect:
+        serializedVersion: 2
+        x: 4.026751
+        y: 353.0268
+        width: 88.97325
+        height: 77.97325
+      alignment: 9
+      pivot: {x: 0.2525843, y: -0.02599307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: -39.5}
+        - {x: -46, y: 34.5}
+        - {x: -23, y: 39.5}
+      - - {x: 46, y: -24.5}
+        - {x: 46, y: -34.5}
+        - {x: -38, y: -39.5}
+      - - {x: 46, y: -24.5}
+        - {x: -38, y: -39.5}
+        - {x: -23, y: 39.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_TownWatchGladius_Attack_0001
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 428
+        width: 86
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5406977, y: -0.03614458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -41.5}
+        - {x: -43, y: 41.5}
+        - {x: -7, y: 41.5}
+      - - {x: 43, y: -2.5}
+        - {x: 20, y: -41.5}
+        - {x: -11, y: -41.5}
+      - - {x: 43, y: -2.5}
+        - {x: -11, y: -41.5}
+        - {x: -7, y: 41.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_TownWatchGladius_Death_0000
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 198
+        width: 71.92388
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5213845, y: -0.0375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 24}
+        - {x: -14, y: -40}
+        - {x: -37, y: 20}
+      - - {x: 37, y: -9}
+        - {x: 21, y: -40}
+        - {x: -14, y: -40}
+      - - {x: 20, y: 24}
+        - {x: 37, y: -9}
+        - {x: -14, y: -40}
+      - - {x: 20, y: 24}
+        - {x: -37, y: 20}
+        - {x: -14, y: 40}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_TownWatchGladius_Idle_0001
+      rect:
+        serializedVersion: 2
+        x: 79.06212
+        y: 274.0761
+        width: 65.87968
+        height: 70.90026
+      alignment: 9
+      pivot: {x: 0.4923806, y: -0.02928213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: 7}
+        - {x: 27.5, y: -36}
+        - {x: -18.5, y: -35}
+      - - {x: 10.5, y: 34}
+        - {x: 36.5, y: 7}
+        - {x: -18.5, y: -35}
+      - - {x: 10.5, y: 34}
+        - {x: -18.5, y: -35}
+        - {x: -36.5, y: 36}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_TownWatchGladius_Idle_0003
+      rect:
+        serializedVersion: 2
+        x: 79.06212
+        y: 274.0761
+        width: 65.87968
+        height: 70.90026
+      alignment: 9
+      pivot: {x: 0.4923806, y: -0.02928213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: 7}
+        - {x: 27.5, y: -36}
+        - {x: -18.5, y: -35}
+      - - {x: 10.5, y: 34}
+        - {x: 36.5, y: 7}
+        - {x: -18.5, y: -35}
+      - - {x: 10.5, y: 34}
+        - {x: -18.5, y: -35}
+        - {x: -36.5, y: 36}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_TownWatchGladius_Death_0001
+      rect:
+        serializedVersion: 2
+        x: 2.07612
+        y: 427.0761
+        width: 87.92388
+        height: 74.89713
+      alignment: 9
+      pivot: {x: 0.4825069, y: -0.04107114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: 17.5}
+        - {x: -44.5, y: 27.5}
+        - {x: 35.5, y: 42.5}
+      - - {x: 44.5, y: 17.5}
+        - {x: -41.5, y: -13.5}
+        - {x: -44.5, y: 27.5}
+      - - {x: 23.5, y: -30.5}
+        - {x: -41.5, y: -13.5}
+        - {x: 44.5, y: 17.5}
+      - - {x: 23.5, y: -30.5}
+        - {x: -0.5, y: -42.5}
+        - {x: -16.5, y: -38.5}
+      - - {x: 23.5, y: -30.5}
+        - {x: -16.5, y: -38.5}
+        - {x: -41.5, y: -13.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_TownWatchGladius_Running_0000
+      rect:
+        serializedVersion: 2
+        x: 1.042908
+        y: 96.07612
+        width: 69.95709
+        height: 83.92388
+      alignment: 9
+      pivot: {x: 0.2638345, y: -0.01282255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 30}
+        - {x: -12, y: -42}
+        - {x: -35, y: -29}
+      - - {x: 35, y: -9}
+        - {x: 19, y: -41}
+        - {x: -12, y: -42}
+      - - {x: 3, y: 30}
+        - {x: 35, y: -9}
+        - {x: -12, y: -42}
+      - - {x: 3, y: 30}
+        - {x: -35, y: -29}
+        - {x: -29, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_TownWatchGladius_Running_0002
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 429.0761
+        width: 90
+        height: 81.92388
+      alignment: 9
+      pivot: {x: 0.4166667, y: -0.02534195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: -41}
+        - {x: -45, y: -41}
+        - {x: -18, y: 41}
+      - - {x: 45, y: 7}
+        - {x: 32, y: -41}
+        - {x: -18, y: 41}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_TownWatchGladius_Running_0001
+      rect:
+        serializedVersion: 2
+        x: 1.07612
+        y: 183
+        width: 76.92388
+        height: 82
+      alignment: 9
+      pivot: {x: 0.2655077, y: -0.02439024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -41}
+        - {x: -38.5, y: -39}
+        - {x: -30.5, y: 41}
+      - - {x: 19.5, y: 23}
+        - {x: 38.5, y: -30}
+        - {x: -28.5, y: -41}
+      - - {x: 19.5, y: 23}
+        - {x: -28.5, y: -41}
+        - {x: -30.5, y: 41}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_TownWatchGladius_Attack_0000
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 198
+        width: 71.92388
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5213845, y: -0.0375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 24}
+        - {x: -14, y: -40}
+        - {x: -37, y: 20}
+      - - {x: 37, y: -9}
+        - {x: 21, y: -40}
+        - {x: -14, y: -40}
+      - - {x: 20, y: 24}
+        - {x: 37, y: -9}
+        - {x: -14, y: -40}
+      - - {x: 20, y: 24}
+        - {x: -37, y: 20}
+        - {x: -14, y: 40}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_TownWatchGladius_Death_0003
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 155
+        width: 90.99462
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6428952, y: -0.02439024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: -20.5}
+        - {x: -47.5, y: 6.5}
+        - {x: 22.5, y: 20.5}
+      - - {x: 31.5, y: -20.5}
+        - {x: -35.5, y: -20.5}
+        - {x: 22.5, y: 20.5}
+      - - {x: 47.5, y: -4.5}
+        - {x: 31.5, y: -20.5}
+        - {x: 22.5, y: 20.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ROM_TownWatchGladius_Attack_0001: 21300002
+      ROM_TownWatchGladius_Running_0002: 21300028
+      ROM_TownWatchGladius_Running_0001: 21300026
+      ROM_TownWatchGladius_Idle_0003: 21300022
+      ROM_TownWatchGladius_Idle_0000: 21300016
+      ROM_TownWatchGladius_Attack_0003: 21300006
+      ROM_TownWatchGladius_Idle_0002: 21300020
+      ROM_TownWatchGladius_Death_0000: 21300008
+      ROM_TownWatchGladius_Running_0003: 21300030
+      ROM_TownWatchGladius_Death_0002: 21300012
+      ROM_TownWatchGladius_Running_0000: 21300024
+      ROM_TownWatchGladius_Death_0001: 21300010
+      ROM_TownWatchGladius_Idle_0001: 21300018
+      ROM_TownWatchGladius_Attack_0002: 21300004
+      ROM_TownWatchGladius_Death_0003: 21300014
+      ROM_TownWatchGladius_Attack_0000: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

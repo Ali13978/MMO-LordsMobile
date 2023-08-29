@@ -1,0 +1,1281 @@
+fileFormatVersion: 2
+guid: 4b176d7d276e4b7c84fb2bbd7c172a86
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: GAL_2-Javaline_Attack_0000
+  - first:
+      213: 21300002
+    second: GAL_2-Javaline_Attack_0001
+  - first:
+      213: 21300004
+    second: GAL_2-Javaline_Attack_0002
+  - first:
+      213: 21300006
+    second: GAL_2-Javaline_Attack_0003
+  - first:
+      213: 21300008
+    second: GAL_2-Javaline_Death_0000
+  - first:
+      213: 21300010
+    second: GAL_2-Javaline_Death_0001
+  - first:
+      213: 21300012
+    second: GAL_2-Javaline_Death_0002
+  - first:
+      213: 21300014
+    second: GAL_2-Javaline_Death_0003
+  - first:
+      213: 21300016
+    second: GAL_2-Javaline_Idle_0000
+  - first:
+      213: 21300018
+    second: GAL_2-Javaline_Idle_0001
+  - first:
+      213: 21300020
+    second: GAL_2-Javaline_Idle_0002
+  - first:
+      213: 21300022
+    second: GAL_2-Javaline_Idle_0003
+  - first:
+      213: 21300024
+    second: GAL_2-Javaline_Running_0000
+  - first:
+      213: 21300026
+    second: GAL_2-Javaline_Running_0001
+  - first:
+      213: 21300028
+    second: GAL_2-Javaline_Running_0002
+  - first:
+      213: 21300030
+    second: GAL_2-Javaline_Running_0003
+  - first:
+      213: 21300032
+    second: GAL_Javaline_Attack_0000
+  - first:
+      213: 21300034
+    second: GAL_Javaline_Attack_0001
+  - first:
+      213: 21300036
+    second: GAL_Javaline_Attack_0002
+  - first:
+      213: 21300038
+    second: GAL_Javaline_Attack_0003
+  - first:
+      213: 21300040
+    second: GAL_Javaline_Attack_0004
+  - first:
+      213: 21300042
+    second: GAL_Javaline_Death_0000
+  - first:
+      213: 21300044
+    second: GAL_Javaline_Death_0001
+  - first:
+      213: 21300046
+    second: GAL_Javaline_Death_0002
+  - first:
+      213: 21300048
+    second: GAL_Javaline_Death_0003
+  - first:
+      213: 21300050
+    second: GAL_Javaline_Idle_0000
+  - first:
+      213: 21300052
+    second: GAL_Javaline_Idle_0001
+  - first:
+      213: 21300054
+    second: GAL_Javaline_Idle_0002
+  - first:
+      213: 21300056
+    second: GAL_Javaline_Idle_0003
+  - first:
+      213: 21300058
+    second: GAL_Javaline_Running_0000
+  - first:
+      213: 21300060
+    second: GAL_Javaline_Running_0001
+  - first:
+      213: 21300062
+    second: GAL_Javaline_Running_0002
+  - first:
+      213: 21300064
+    second: GAL_Javaline_Running_0003
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 13
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GAL_2-Javaline_Death_0002
+      rect:
+        serializedVersion: 2
+        x: 4.07612
+        y: 20.02675
+        width: 99.92388
+        height: 52.97325
+      alignment: 9
+      pivot: {x: 0.5046229, y: -0.1704021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: -27}
+        - {x: -46, y: 9}
+        - {x: -5, y: 27}
+      - - {x: 51, y: -25}
+        - {x: -51, y: -27}
+        - {x: -5, y: 27}
+      - - {x: 28, y: 22}
+        - {x: 51, y: -25}
+        - {x: -5, y: 27}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Javaline_Running_0003
+      rect:
+        serializedVersion: 2
+        x: 7.07612
+        y: 77
+        width: 78.92388
+        height: 77.92388
+      alignment: 9
+      pivot: {x: 0.2587795, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -39.5}
+        - {x: -42, y: 24.5}
+        - {x: -2.999999, y: 39.5}
+      - - {x: 22, y: -39.5}
+        - {x: -20, y: -39.5}
+        - {x: -2.999999, y: 39.5}
+      - - {x: 42, y: 28.5}
+        - {x: 22, y: -39.5}
+        - {x: -2.999999, y: 39.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Javaline_Idle_0003
+      rect:
+        serializedVersion: 2
+        x: 233.0761
+        y: 131
+        width: 67.92388
+        height: 62
+      alignment: 9
+      pivot: {x: 0.477356, y: -0.06451613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: -4.999998}
+        - {x: 23.5, y: -31}
+        - {x: -12.5, y: -31}
+      - - {x: 17.5, y: 30}
+        - {x: 35.5, y: -4.999998}
+        - {x: -12.5, y: -31}
+      - - {x: 17.5, y: 30}
+        - {x: -12.5, y: -31}
+        - {x: -35.5, y: 31}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Javaline_Idle_0000
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 207
+        width: 75
+        height: 64
+      alignment: 9
+      pivot: {x: 0.46, y: -0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -32}
+        - {x: -37.5, y: 32}
+        - {x: 17.5, y: 32}
+      - - {x: 37.5, y: -25}
+        - {x: -15.5, y: -32}
+        - {x: 17.5, y: 32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Javaline_Idle_0000
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 342
+        width: 74.93537
+        height: 83
+      alignment: 9
+      pivot: {x: 0.4737416, y: -0.02409638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: 2.5}
+        - {x: -37.5, y: 23.5}
+        - {x: -7.5, y: 41.5}
+      - - {x: 37.5, y: 2.5}
+        - {x: 33.5, y: -41.5}
+        - {x: -13.5, y: -41.5}
+      - - {x: 37.5, y: 2.5}
+        - {x: -13.5, y: -41.5}
+        - {x: -37.5, y: 23.5}
+      - - {x: 27.5, y: 40.5}
+        - {x: 37.5, y: 2.5}
+        - {x: -7.5, y: 41.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Javaline_Idle_0002
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 177
+        width: 74
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4797297, y: -0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 31}
+        - {x: 37, y: -10}
+        - {x: 19, y: -29}
+      - - {x: 17, y: 31}
+        - {x: 19, y: -29}
+        - {x: -14, y: -32}
+      - - {x: 17, y: 31}
+        - {x: -14, y: -32}
+        - {x: -37, y: 32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Javaline_Death_0001
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 128.0761
+        width: 78
+        height: 64.84776
+      alignment: 9
+      pivot: {x: 0.5192308, y: -0.06285685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 33.5}
+        - {x: 39, y: -18.5}
+        - {x: -3, y: -34.5}
+      - - {x: -3, y: 33.5}
+        - {x: -3, y: -34.5}
+        - {x: -32, y: -5.499998}
+      - - {x: -3, y: 33.5}
+        - {x: 39, y: 17.5}
+        - {x: 39, y: -18.5}
+      - - {x: -3, y: 33.5}
+        - {x: -32, y: -5.499998}
+        - {x: -39, y: 34.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Javaline_Idle_0001
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 426.0761
+        width: 77
+        height: 83.84776
+      alignment: 9
+      pivot: {x: 0.5, y: -0.02476048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -38.5}
+        - {x: -38.5, y: 34.5}
+        - {x: 6.5, y: 42.5}
+      - - {x: 38.5, y: 18.5}
+        - {x: 38.5, y: -42.5}
+        - {x: -12.5, y: -38.5}
+      - - {x: 38.5, y: 18.5}
+        - {x: -12.5, y: -38.5}
+        - {x: 6.5, y: 42.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Javaline_Running_0002
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 245.0513
+        width: 85.98709
+        height: 77.87257
+      alignment: 9
+      pivot: {x: 0.3081858, y: -0.0006589651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 0.5}
+        - {x: 12.5, y: -40.5}
+        - {x: -43.5, y: 3.5}
+      - - {x: 12.5, y: -40.5}
+        - {x: -43.5, y: -27.5}
+        - {x: -43.5, y: 3.5}
+      - - {x: 25.5, y: 0.5}
+        - {x: 20.5, y: -39.5}
+        - {x: 12.5, y: -40.5}
+      - - {x: 25.5, y: 0.5}
+        - {x: -43.5, y: 3.5}
+        - {x: -14.5, y: 40.5}
+      - - {x: 43.5, y: 27.5}
+        - {x: 25.5, y: 0.5}
+        - {x: -14.5, y: 40.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Javaline_Running_0001
+      rect:
+        serializedVersion: 2
+        x: 148.0761
+        y: 341
+        width: 78.89038
+        height: 78.98709
+      alignment: 9
+      pivot: {x: 0.2588893, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 0.5}
+        - {x: -40, y: 31.5}
+        - {x: -5, y: 39.5}
+      - - {x: 24, y: 0.5}
+        - {x: 19, y: -39.5}
+        - {x: -39, y: -39.5}
+      - - {x: 24, y: 0.5}
+        - {x: -39, y: -39.5}
+        - {x: -40, y: 31.5}
+      - - {x: 40, y: 28.5}
+        - {x: 24, y: 0.5}
+        - {x: -5, y: 39.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Javaline_Attack_0000
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 215
+        width: 67.92388
+        height: 65.97325
+      alignment: 9
+      pivot: {x: 0.5079215, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: -2}
+        - {x: 25, y: -28}
+        - {x: -12, y: -33}
+      - - {x: 17, y: 32}
+        - {x: 35, y: -2}
+        - {x: -12, y: -33}
+      - - {x: 17, y: 32}
+        - {x: -12, y: -33}
+        - {x: -35, y: 33}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Javaline_Idle_0003
+      rect:
+        serializedVersion: 2
+        x: 339.0761
+        y: 426.0761
+        width: 71.92388
+        height: 83.84776
+      alignment: 9
+      pivot: {x: 0.464712, y: -0.02476048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -38.5}
+        - {x: -38.5, y: 34.5}
+        - {x: 6.5, y: 42.5}
+      - - {x: 38.5, y: 18.5}
+        - {x: 38.5, y: -42.5}
+        - {x: -12.5, y: -38.5}
+      - - {x: 38.5, y: 18.5}
+        - {x: -12.5, y: -38.5}
+        - {x: 6.5, y: 42.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Javaline_Death_0003
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 244.0513
+        width: 89.92388
+        height: 45.94868
+      alignment: 9
+      pivot: {x: 0.6616707, y: -0.0228802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: -23}
+        - {x: -47, y: -22}
+        - {x: -8, y: 23}
+      - - {x: 47, y: 12}
+        - {x: 36, y: -23}
+        - {x: -8, y: 23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Javaline_Attack_0002
+      rect:
+        serializedVersion: 2
+        x: 94.05132
+        y: 259
+        width: 76.93578
+        height: 73.92388
+      alignment: 9
+      pivot: {x: 0.1878019, y: -0.04058228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -37.5}
+        - {x: -41, y: 29.5}
+        - {x: 41, y: 37.5}
+      - - {x: -7, y: -37.5}
+        - {x: -37, y: -36.5}
+        - {x: -41, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Javaline_Attack_0003
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 133
+        width: 61
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5163934, y: -0.05479452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: -36.5}
+        - {x: 30.5, y: 7.5}
+        - {x: 30.5, y: -36.5}
+      - - {x: -11.5, y: -36.5}
+        - {x: -30.5, y: 4.5}
+        - {x: 30.5, y: 7.5}
+      - - {x: 30.5, y: 7.5}
+        - {x: -30.5, y: 4.5}
+        - {x: -3.5, y: 36.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Javaline_Attack_0001
+      rect:
+        serializedVersion: 2
+        x: 233.0761
+        y: 356
+        width: 83.92388
+        height: 67
+      alignment: 9
+      pivot: {x: 0.6484909, y: -0.05970149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -9.5}
+        - {x: -45.5, y: 9.5}
+        - {x: 12.5, y: 33.5}
+      - - {x: 45.5, y: 14.5}
+        - {x: 45.5, y: -33.5}
+        - {x: -6.5, y: -9.5}
+      - - {x: 45.5, y: -33.5}
+        - {x: 3.5, y: -33.5}
+        - {x: -6.5, y: -9.5}
+      - - {x: 45.5, y: 14.5}
+        - {x: -6.5, y: -9.5}
+        - {x: 12.5, y: 33.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Javaline_Running_0002
+      rect:
+        serializedVersion: 2
+        x: 81.07612
+        y: 195.0761
+        width: 83.87257
+        height: 62.84776
+      alignment: 9
+      pivot: {x: 0.315048, y: -0.03303421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -32.5}
+        - {x: -7, y: 28.5}
+        - {x: 43, y: 32.5}
+      - - {x: -42, y: -26.5}
+        - {x: -43, y: 12.5}
+        - {x: -7, y: 28.5}
+      - - {x: 17, y: -32.5}
+        - {x: -42, y: -26.5}
+        - {x: -7, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Javaline_Idle_0002
+      rect:
+        serializedVersion: 2
+        x: 4.07612
+        y: 157.0761
+        width: 72.92388
+        height: 82.84776
+      alignment: 9
+      pivot: {x: 0.4720522, y: -0.03712986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: 18}
+        - {x: -37.5, y: 19}
+        - {x: 0.5, y: 44}
+      - - {x: 37.5, y: 18}
+        - {x: 37.5, y: -44}
+        - {x: -13.5, y: -41}
+      - - {x: 37.5, y: 18}
+        - {x: -13.5, y: -41}
+        - {x: -37.5, y: 19}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Javaline_Attack_0002
+      rect:
+        serializedVersion: 2
+        x: 100.0761
+        y: 423.0761
+        width: 81.92388
+        height: 84.87617
+      alignment: 9
+      pivot: {x: 0.5544645, y: -0.02446047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -1.5}
+        - {x: -5, y: -43.5}
+        - {x: -42, y: -1.5}
+      - - {x: 42, y: -1.5}
+        - {x: 42, y: -43.5}
+        - {x: -5, y: -43.5}
+      - - {x: 42, y: -1.5}
+        - {x: -42, y: -1.5}
+        - {x: -16, y: 43.5}
+      - - {x: 31, y: 36.5}
+        - {x: 42, y: -1.5}
+        - {x: -16, y: 43.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Javaline_Idle_0001
+      rect:
+        serializedVersion: 2
+        x: 233.0761
+        y: 131
+        width: 67.92388
+        height: 62
+      alignment: 9
+      pivot: {x: 0.477356, y: -0.06451613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: -4.999998}
+        - {x: 23.5, y: -31}
+        - {x: -12.5, y: -31}
+      - - {x: 17.5, y: 30}
+        - {x: 35.5, y: -4.999998}
+        - {x: -12.5, y: -31}
+      - - {x: 17.5, y: 30}
+        - {x: -12.5, y: -31}
+        - {x: -35.5, y: 31}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Javaline_Attack_0000
+      rect:
+        serializedVersion: 2
+        x: 184.0761
+        y: 418
+        width: 78.92388
+        height: 84.92388
+      alignment: 9
+      pivot: {x: 0.3601429, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -45.5}
+        - {x: 26, y: -2.5}
+        - {x: 26, y: -45.5}
+      - - {x: -21, y: -45.5}
+        - {x: -40, y: 8.500004}
+        - {x: 26, y: -2.5}
+      - - {x: 26, y: -2.5}
+        - {x: -40, y: 8.500004}
+        - {x: -18, y: 45.5}
+      - - {x: 40, y: 23.5}
+        - {x: 26, y: -2.5}
+        - {x: -18, y: 45.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Javaline_Running_0001
+      rect:
+        serializedVersion: 2
+        x: 334.0761
+        y: 275.0129
+        width: 75.92388
+        height: 62.91096
+      alignment: 9
+      pivot: {x: 0.2558337, y: -0.03199615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -32}
+        - {x: -38, y: 28}
+        - {x: 38, y: 32}
+      - - {x: 14, y: -32}
+        - {x: -38, y: -29}
+        - {x: -38, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Javaline_Attack_0001
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 422.0761
+        width: 76
+        height: 86.84776
+      alignment: 9
+      pivot: {x: 0.5065789, y: -0.0008763708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 29}
+        - {x: -18, y: 38}
+        - {x: -3, y: 44}
+      - - {x: 38, y: 29}
+        - {x: -38, y: 4}
+        - {x: -18, y: 38}
+      - - {x: 38, y: -40}
+        - {x: 34, y: -44}
+        - {x: -13, y: -39}
+      - - {x: 38, y: 29}
+        - {x: 38, y: -40}
+        - {x: -13, y: -39}
+      - - {x: 38, y: 29}
+        - {x: -13, y: -39}
+        - {x: -38, y: 4}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Javaline_Running_0003
+      rect:
+        serializedVersion: 2
+        x: 260.0761
+        y: 290.0129
+        width: 74.87257
+        height: 62.91096
+      alignment: 9
+      pivot: {x: 0.259426, y: -0.03199615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: -32}
+        - {x: -10.5, y: 29}
+        - {x: 39.5, y: 32}
+      - - {x: -22.5, y: -30}
+        - {x: -39.5, y: 16}
+        - {x: -10.5, y: 29}
+      - - {x: 15.5, y: -32}
+        - {x: -22.5, y: -30}
+        - {x: -10.5, y: 29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Javaline_Death_0000
+      rect:
+        serializedVersion: 2
+        x: 395.0761
+        y: 340
+        width: 70.84776
+        height: 84.92388
+      alignment: 9
+      pivot: {x: 0.4717706, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: 3.5}
+        - {x: -36.5, y: 24.5}
+        - {x: -6.5, y: 42.5}
+      - - {x: 34.5, y: 3.5}
+        - {x: 36.5, y: -40.5}
+        - {x: 34.5, y: -42.5}
+      - - {x: 34.5, y: 3.5}
+        - {x: 34.5, y: -42.5}
+        - {x: -11.5, y: -42.5}
+      - - {x: 34.5, y: 3.5}
+        - {x: -11.5, y: -42.5}
+        - {x: -36.5, y: 24.5}
+      - - {x: 18.5, y: 41.5}
+        - {x: 34.5, y: 3.5}
+        - {x: -6.5, y: 42.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Javaline_Death_0002
+      rect:
+        serializedVersion: 2
+        x: 195.0761
+        y: 197.0513
+        width: 89.92388
+        height: 41.89737
+      alignment: 9
+      pivot: {x: 0.5162575, y: -0.2160354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: -16}
+        - {x: -45, y: 15}
+        - {x: 22, y: 23}
+      - - {x: 45, y: -23}
+        - {x: -44, y: -16}
+        - {x: 22, y: 23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Javaline_Attack_0003
+      rect:
+        serializedVersion: 2
+        x: 2.07612
+        y: 330
+        width: 80.92388
+        height: 85.97325
+      alignment: 9
+      pivot: {x: 0.2276693, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: -3.5}
+        - {x: 17.5, y: -44.5}
+        - {x: -40.5, y: -44.5}
+      - - {x: 13.5, y: 16.5}
+        - {x: 23.5, y: -3.5}
+        - {x: -40.5, y: -44.5}
+      - - {x: 13.5, y: 16.5}
+        - {x: -40.5, y: -44.5}
+        - {x: -40.5, y: 44.5}
+      - - {x: 40.5, y: 36.5}
+        - {x: 13.5, y: 16.5}
+        - {x: -40.5, y: 44.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Javaline_Running_0000
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 333
+        width: 79.9665
+        height: 78.97325
+      alignment: 9
+      pivot: {x: 0.2938731, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -40}
+        - {x: -40, y: 20}
+        - {x: -6, y: 40}
+      - - {x: 22, y: -40}
+        - {x: -31, y: -40}
+        - {x: -40, y: 20}
+      - - {x: 40, y: 28}
+        - {x: 22, y: -40}
+        - {x: -6, y: 40}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Javaline_Running_0000
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 57
+        width: 74.94868
+        height: 64.92388
+      alignment: 9
+      pivot: {x: 0.2868629, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: -21.5}
+        - {x: -38.5, y: 26.5}
+        - {x: 38.5, y: 33.5}
+      - - {x: -32.5, y: -27.5}
+        - {x: -38.5, y: 26.5}
+        - {x: 18.5, y: -21.5}
+      - - {x: -32.5, y: -27.5}
+        - {x: 18.5, y: -21.5}
+        - {x: 6.5, y: -33.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Javaline_Attack_0004
+      rect:
+        serializedVersion: 2
+        x: 197.0761
+        y: 277
+        width: 69.92388
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4350999, y: -0.05714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -35}
+        - {x: -36, y: 21}
+        - {x: 5, y: 35}
+      - - {x: 36, y: -11}
+        - {x: 20, y: -35}
+        - {x: -23, y: -35}
+      - - {x: 36, y: -11}
+        - {x: -23, y: -35}
+        - {x: 5, y: 35}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Javaline_Death_0001
+      rect:
+        serializedVersion: 2
+        x: 7.07612
+        y: 423.0429
+        width: 83.89713
+        height: 83.93034
+      alignment: 9
+      pivot: {x: 0.457988, y: -0.06008444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -45}
+        - {x: -49, y: 20}
+        - {x: -20, y: 45}
+      - - {x: 28, y: -36}
+        - {x: -24, y: -45}
+        - {x: -20, y: 45}
+      - - {x: 49, y: 15}
+        - {x: 28, y: -36}
+        - {x: -20, y: 45}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Javaline_Death_0000
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 208.0267
+        width: 75
+        height: 61.97325
+      alignment: 9
+      pivot: {x: 0.46, y: -0.0488396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -32}
+        - {x: -37.5, y: 32}
+        - {x: 17.5, y: 32}
+      - - {x: 37.5, y: -25}
+        - {x: -15.5, y: -32}
+        - {x: 17.5, y: 32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Javaline_Death_0003
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 284.0761
+        width: 85
+        height: 51.92388
+      alignment: 9
+      pivot: {x: 0.5941176, y: -0.03998374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.5, y: -21}
+        - {x: -16.5, y: 18}
+        - {x: 15.5, y: 27}
+      - - {x: -42.5, y: -27}
+        - {x: -42.5, y: -8}
+        - {x: -16.5, y: 18}
+      - - {x: 42.5, y: -21}
+        - {x: -42.5, y: -27}
+        - {x: -16.5, y: 18}
+      - - {x: 42.5, y: 12}
+        - {x: 42.5, y: -21}
+        - {x: 15.5, y: 27}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GAL_2-Javaline_Attack_0001: 21300002
+      GAL_Javaline_Attack_0004: 21300040
+      GAL_2-Javaline_Running_0002: 21300028
+      GAL_2-Javaline_Death_0003: 21300014
+      GAL_2-Javaline_Running_0001: 21300026
+      GAL_2-Javaline_Idle_0003: 21300022
+      GAL_Javaline_Idle_0003: 21300056
+      GAL_2-Javaline_Idle_0000: 21300016
+      GAL_Javaline_Death_0001: 21300044
+      GAL_Javaline_Attack_0000: 21300032
+      GAL_2-Javaline_Running_0000: 21300024
+      GAL_2-Javaline_Death_0001: 21300010
+      GAL_2-Javaline_Attack_0000: 21300000
+      GAL_2-Javaline_Death_0002: 21300012
+      GAL_2-Javaline_Idle_0002: 21300020
+      GAL_Javaline_Running_0001: 21300060
+      GAL_Javaline_Running_0002: 21300062
+      GAL_2-Javaline_Death_0000: 21300008
+      GAL_Javaline_Idle_0000: 21300050
+      GAL_2-Javaline_Attack_0003: 21300006
+      GAL_Javaline_Death_0003: 21300048
+      GAL_2-Javaline_Idle_0001: 21300018
+      GAL_Javaline_Attack_0001: 21300034
+      GAL_Javaline_Idle_0001: 21300052
+      GAL_Javaline_Death_0000: 21300042
+      GAL_Javaline_Attack_0003: 21300038
+      GAL_Javaline_Running_0003: 21300064
+      GAL_Javaline_Death_0002: 21300046
+      GAL_Javaline_Running_0000: 21300058
+      GAL_2-Javaline_Running_0003: 21300030
+      GAL_Javaline_Idle_0002: 21300054
+      GAL_Javaline_Attack_0002: 21300036
+      GAL_2-Javaline_Attack_0002: 21300004
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

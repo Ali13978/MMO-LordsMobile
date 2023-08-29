@@ -1,0 +1,1020 @@
+fileFormatVersion: 2
+guid: 3b20ccdcbf1545968019d765afbe84d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Barra-Upgrade-Bg
+  - first:
+      213: 21300002
+    second: "Habilidades-general-pesta\xF1a-Base"
+  - first:
+      213: 21300004
+    second: "Habilidades-general-pesta\xF1a-Gral"
+  - first:
+      213: 21300006
+    second: "Habilidades-general-pesta\xF1a-ejercito"
+  - first:
+      213: 21300008
+    second: ICO_Espada
+  - first:
+      213: 21300010
+    second: ICO_Jabalina
+  - first:
+      213: 21300012
+    second: IconsUpgrade_01
+  - first:
+      213: 21300014
+    second: IconsUpgrade_02
+  - first:
+      213: 21300016
+    second: IconsUpgrade_03
+  - first:
+      213: 21300018
+    second: IconsUpgrade_04
+  - first:
+      213: 21300020
+    second: IconsUpgrade_05.png
+  - first:
+      213: 21300022
+    second: IconsUpgrade_06
+  - first:
+      213: 21300024
+    second: IconsUpgrade_07
+  - first:
+      213: 21300026
+    second: IconsUpgrade_08
+  - first:
+      213: 21300028
+    second: IconsUpgrade_09
+  - first:
+      213: 21300030
+    second: IconsUpgrade_10
+  - first:
+      213: 21300032
+    second: IconsUpgrade_11
+  - first:
+      213: 21300034
+    second: IconsUpgrade_12
+  - first:
+      213: 21300036
+    second: IconsUpgrade_13
+  - first:
+      213: 21300038
+    second: IconsUpgrade_14
+  - first:
+      213: 21300040
+    second: IconsUpgrade_15
+  - first:
+      213: 21300042
+    second: IconsUpgrade_16
+  - first:
+      213: 21300044
+    second: generalSkill_01
+  - first:
+      213: 21300046
+    second: generalSkill_02
+  - first:
+      213: 21300048
+    second: generalSkill_03
+  - first:
+      213: 21300050
+    second: Glow-arbol-tecnologias
+  - first:
+      213: 21300052
+    second: ICO_Arquero
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IconsUpgrade_12
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 243
+        width: 117
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4954955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: -55.5}
+        - {x: -58.5, y: 55.5}
+        - {x: 58.5, y: 55.5}
+      - - {x: 58.5, y: -55.5}
+        - {x: -58.5, y: -55.5}
+        - {x: 58.5, y: 55.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Habilidades-general-pesta\xF1a-Gral"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 623
+        width: 742
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5050505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -371, y: -99}
+        - {x: -371, y: 99}
+        - {x: 371, y: 99}
+      - - {x: 371, y: -99}
+        - {x: -371, y: -99}
+        - {x: 371, y: 99}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsUpgrade_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 113
+        width: 117
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4954955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: -55.5}
+        - {x: -58.5, y: 55.5}
+        - {x: 58.5, y: 55.5}
+      - - {x: 58.5, y: -55.5}
+        - {x: -58.5, y: -55.5}
+        - {x: 58.5, y: 55.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsUpgrade_08
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 227
+        width: 117
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4954955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: -55.5}
+        - {x: -58.5, y: 55.5}
+        - {x: 58.5, y: 55.5}
+      - - {x: 58.5, y: -55.5}
+        - {x: -58.5, y: -55.5}
+        - {x: 58.5, y: 55.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra-Upgrade-Bg
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 328
+        width: 86
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: -10}
+        - {x: -43, y: 10}
+        - {x: 43, y: 10}
+      - - {x: 43, y: -10}
+        - {x: -43, y: -10}
+        - {x: 43, y: 10}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsUpgrade_02
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 797
+        width: 117
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4954955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: -55.5}
+        - {x: -58.5, y: 55.5}
+        - {x: 58.5, y: 55.5}
+      - - {x: 58.5, y: -55.5}
+        - {x: -58.5, y: -55.5}
+        - {x: 58.5, y: 55.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsUpgrade_04
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 569
+        width: 117
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4954955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: -55.5}
+        - {x: -58.5, y: 55.5}
+        - {x: 58.5, y: 55.5}
+      - - {x: 58.5, y: -55.5}
+        - {x: -58.5, y: -55.5}
+        - {x: 58.5, y: 55.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsUpgrade_09
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 113
+        width: 117
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4954955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: -55.5}
+        - {x: -58.5, y: 55.5}
+        - {x: 58.5, y: 55.5}
+      - - {x: 58.5, y: -55.5}
+        - {x: -58.5, y: -55.5}
+        - {x: 58.5, y: 55.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO_Arquero
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 340
+        width: 78
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: -21.5}
+        - {x: -14, y: 39.5}
+        - {x: -4, y: 39.5}
+      - - {x: 19, y: -39.5}
+        - {x: -39, y: -21.5}
+        - {x: -4, y: 39.5}
+      - - {x: 19, y: -39.5}
+        - {x: -39, y: -32.5}
+        - {x: -39, y: -21.5}
+      - - {x: 39, y: 17.5}
+        - {x: 30, y: -39.5}
+        - {x: 19, y: -39.5}
+      - - {x: 39, y: 17.5}
+        - {x: 19, y: -39.5}
+        - {x: -4, y: 39.5}
+      - - {x: 39, y: 23.5}
+        - {x: 39, y: 17.5}
+        - {x: -4, y: 39.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: generalSkill_02
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 729
+        width: 151
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.5, y: -72.5}
+        - {x: -75.5, y: 72.5}
+        - {x: 75.5, y: 72.5}
+      - - {x: 75.5, y: -72.5}
+        - {x: -75.5, y: -72.5}
+        - {x: 75.5, y: 72.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsUpgrade_13
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 113
+        width: 117
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4954955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: -55.5}
+        - {x: -58.5, y: 55.5}
+        - {x: 58.5, y: 55.5}
+      - - {x: 58.5, y: -55.5}
+        - {x: -58.5, y: -55.5}
+        - {x: 58.5, y: 55.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: generalSkill_01
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 877
+        width: 151
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.5, y: -72.5}
+        - {x: -75.5, y: 72.5}
+        - {x: 75.5, y: 72.5}
+      - - {x: 75.5, y: -72.5}
+        - {x: -75.5, y: -72.5}
+        - {x: 75.5, y: 72.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-arbol-tecnologias
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 437
+        width: 149
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.5, y: -61.5}
+        - {x: 74.5, y: -70.5}
+        - {x: -74.5, y: -70.5}
+      - - {x: -65.5, y: 59.5}
+        - {x: -63.5, y: -61.5}
+        - {x: -74.5, y: -70.5}
+      - - {x: -65.5, y: 59.5}
+        - {x: -74.5, y: -70.5}
+        - {x: -74.5, y: 70.5}
+      - - {x: 63.5, y: 61.5}
+        - {x: -74.5, y: 70.5}
+        - {x: 74.5, y: 70.5}
+      - - {x: 63.5, y: 61.5}
+        - {x: -65.5, y: 59.5}
+        - {x: -74.5, y: 70.5}
+      - - {x: 65.5, y: -59.5}
+        - {x: 63.5, y: 61.5}
+        - {x: 74.5, y: 70.5}
+      - - {x: 74.5, y: -70.5}
+        - {x: -63.5, y: -61.5}
+        - {x: 65.5, y: -59.5}
+      - - {x: 74.5, y: 70.5}
+        - {x: 74.5, y: -70.5}
+        - {x: 65.5, y: -59.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsUpgrade_16
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 308
+        width: 117
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4954955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: -55.5}
+        - {x: -58.5, y: 55.5}
+        - {x: 58.5, y: 55.5}
+      - - {x: 58.5, y: -55.5}
+        - {x: -58.5, y: -55.5}
+        - {x: 58.5, y: 55.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsUpgrade_06
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 341
+        width: 117
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4954955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: -55.5}
+        - {x: -58.5, y: 55.5}
+        - {x: 58.5, y: 55.5}
+      - - {x: 58.5, y: -55.5}
+        - {x: -58.5, y: -55.5}
+        - {x: 58.5, y: 55.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Habilidades-general-pesta\xF1a-ejercito"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 422
+        width: 742
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5050505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -371, y: -99}
+        - {x: -371, y: 99}
+        - {x: 371, y: 99}
+      - - {x: 371, y: -99}
+        - {x: -371, y: -99}
+        - {x: 371, y: 99}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsUpgrade_14
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 308
+        width: 117
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4954955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: -55.5}
+        - {x: -58.5, y: 55.5}
+        - {x: 58.5, y: 55.5}
+      - - {x: 58.5, y: -55.5}
+        - {x: -58.5, y: -55.5}
+        - {x: 58.5, y: 55.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsUpgrade_15
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 113
+        width: 117
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4954955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: -55.5}
+        - {x: -58.5, y: 55.5}
+        - {x: 58.5, y: 55.5}
+      - - {x: 58.5, y: -55.5}
+        - {x: -58.5, y: -55.5}
+        - {x: 58.5, y: 55.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: generalSkill_03
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 581
+        width: 151
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.5, y: -72.5}
+        - {x: -75.5, y: 72.5}
+        - {x: 75.5, y: 72.5}
+      - - {x: 75.5, y: -72.5}
+        - {x: -75.5, y: -72.5}
+        - {x: 75.5, y: 72.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Habilidades-general-pesta\xF1a-Base"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 824
+        width: 742
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5050505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -371, y: -99}
+        - {x: -371, y: 99}
+        - {x: 371, y: 99}
+      - - {x: 371, y: -99}
+        - {x: -371, y: -99}
+        - {x: 371, y: 99}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsUpgrade_07
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 323
+        width: 117
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4954955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: -55.5}
+        - {x: -58.5, y: 55.5}
+        - {x: 58.5, y: 55.5}
+      - - {x: 58.5, y: -55.5}
+        - {x: -58.5, y: -55.5}
+        - {x: 58.5, y: 55.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsUpgrade_03
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 683
+        width: 117
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4954955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: -55.5}
+        - {x: -58.5, y: 55.5}
+        - {x: 58.5, y: 55.5}
+      - - {x: 58.5, y: -55.5}
+        - {x: -58.5, y: -55.5}
+        - {x: 58.5, y: 55.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO_Jabalina
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 235
+        width: 86
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 10.5}
+        - {x: 37, y: 42.5}
+        - {x: 43, y: 42.5}
+      - - {x: 29, y: 10.5}
+        - {x: 12, y: 29.5}
+        - {x: 37, y: 42.5}
+      - - {x: -43, y: -27.5}
+        - {x: -36, y: -42.5}
+        - {x: -43, y: -42.5}
+      - - {x: -43, y: -27.5}
+        - {x: 29, y: 10.5}
+        - {x: -36, y: -42.5}
+      - - {x: -43, y: -27.5}
+        - {x: 12, y: 29.5}
+        - {x: 29, y: 10.5}
+      - - {x: 43, y: 10.5}
+        - {x: 29, y: 10.5}
+        - {x: 37, y: 42.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsUpgrade_01
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 911
+        width: 117
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4954955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: -55.5}
+        - {x: -58.5, y: 55.5}
+        - {x: 58.5, y: 55.5}
+      - - {x: 58.5, y: -55.5}
+        - {x: -58.5, y: -55.5}
+        - {x: 58.5, y: 55.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsUpgrade_05.png
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 455
+        width: 117
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4954955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: -55.5}
+        - {x: -58.5, y: 55.5}
+        - {x: 58.5, y: 55.5}
+      - - {x: 58.5, y: -55.5}
+        - {x: -58.5, y: -55.5}
+        - {x: 58.5, y: 55.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO_Espada
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 351
+        width: 85
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.5, y: 7}
+        - {x: -0.5, y: 34}
+        - {x: 42.5, y: 34}
+      - - {x: -42.5, y: -8}
+        - {x: -10.5, y: -34}
+        - {x: -42.5, y: -34}
+      - - {x: -42.5, y: -8}
+        - {x: -0.5, y: 34}
+        - {x: -10.5, y: -34}
+      - - {x: 42.5, y: 7}
+        - {x: -10.5, y: -34}
+        - {x: -0.5, y: 34}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsUpgrade_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 113
+        width: 117
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4954955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: -55.5}
+        - {x: -58.5, y: 55.5}
+        - {x: 58.5, y: 55.5}
+      - - {x: 58.5, y: -55.5}
+        - {x: -58.5, y: -55.5}
+        - {x: 58.5, y: 55.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      IconsUpgrade_03: 21300016
+      IconsUpgrade_12: 21300034
+      ICO_Jabalina: 21300010
+      "Habilidades-general-pesta\xF1a-Gral": 21300004
+      IconsUpgrade_09: 21300028
+      generalSkill_03: 21300048
+      IconsUpgrade_04: 21300018
+      Glow-arbol-tecnologias: 21300050
+      IconsUpgrade_10: 21300030
+      ICO_Arquero: 21300052
+      IconsUpgrade_07: 21300024
+      IconsUpgrade_11: 21300032
+      ICO_Espada: 21300008
+      "Habilidades-general-pesta\xF1a-ejercito": 21300006
+      generalSkill_01: 21300044
+      IconsUpgrade_13: 21300036
+      IconsUpgrade_05.png: 21300020
+      IconsUpgrade_02: 21300014
+      IconsUpgrade_06: 21300022
+      IconsUpgrade_08: 21300026
+      IconsUpgrade_15: 21300040
+      generalSkill_02: 21300046
+      Barra-Upgrade-Bg: 21300000
+      "Habilidades-general-pesta\xF1a-Base": 21300002
+      IconsUpgrade_16: 21300042
+      IconsUpgrade_14: 21300038
+      IconsUpgrade_01: 21300012
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

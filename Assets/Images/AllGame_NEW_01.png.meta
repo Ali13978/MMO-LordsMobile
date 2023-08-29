@@ -1,0 +1,1346 @@
+fileFormatVersion: 2
+guid: a75a1d7a41434f01aa9f6b97d7c56ac6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: IONO-XP
+  - first:
+      213: 21300002
+    second: LEVEL-UP-INFERIOR
+  - first:
+      213: 21300004
+    second: LEVEL-UP-SUPERIOR
+  - first:
+      213: 21300006
+    second: Popup-Lose 01
+  - first:
+      213: 21300008
+    second: Popup-Lose 02
+  - first:
+      213: 21300010
+    second: Popup-win01
+  - first:
+      213: 21300012
+    second: Popup-win02
+  - first:
+      213: 21300014
+    second: Upgrades_Banderin-contenedor
+  - first:
+      213: 21300016
+    second: "M\xE1scara-scrooll"
+  - first:
+      213: 21300018
+    second: ICO-Hero-Barbarian
+  - first:
+      213: 21300020
+    second: ICO-Heroe-Arcani
+  - first:
+      213: 21300022
+    second: ICO-Heroe-Gladiador
+  - first:
+      213: 21300024
+    second: ICO-Heroe-ecuestre
+  - first:
+      213: 21300026
+    second: ICO-Mercenario
+  - first:
+      213: 21300028
+    second: Popup-Desbloqueo heroe-Popup win
+  - first:
+      213: 21300030
+    second: flare
+  - first:
+      213: 21300032
+    second: sword
+  - first:
+      213: 21300034
+    second: GameCenter
+  - first:
+      213: 21300036
+    second: ShareIOS
+  - first:
+      213: 21300038
+    second: ICO-Esqueletos
+  - first:
+      213: 21300040
+    second: ICO-Gobblins
+  - first:
+      213: 21300042
+    second: ICO-Lobos
+  - first:
+      213: 21300044
+    second: ICO-Orkos
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flare
+      rect:
+        serializedVersion: 2
+        x: 861.0761
+        y: 558
+        width: 121.8478
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -128}
+        - {x: -62, y: 128}
+        - {x: 62, y: 128}
+      - - {x: 32, y: -128}
+        - {x: -32, y: -128}
+        - {x: 62, y: 128}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IONO-XP
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 90
+        width: 94
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 23}
+        - {x: -20, y: 53}
+        - {x: 47, y: 53}
+      - - {x: -47, y: 26}
+        - {x: 47, y: 23}
+        - {x: -47, y: -13}
+      - - {x: -47, y: 26}
+        - {x: -20, y: 53}
+        - {x: 47, y: 23}
+      - - {x: -47, y: -13}
+        - {x: 47, y: 23}
+        - {x: -17, y: -44}
+      - - {x: -1, y: -53}
+        - {x: -17, y: -44}
+        - {x: 47, y: 23}
+      - - {x: -1, y: -53}
+        - {x: 47, y: 23}
+        - {x: 37, y: -53}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVEL-UP-SUPERIOR
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 136
+        width: 157
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -12}
+        - {x: -78.5, y: 22}
+        - {x: 78.5, y: 22}
+      - - {x: -78.5, y: 9}
+        - {x: -78.5, y: 22}
+        - {x: -49.5, y: -22}
+      - - {x: -78.5, y: 9}
+        - {x: -49.5, y: -22}
+        - {x: -56.5, y: -22}
+      - - {x: -7.5, y: -12}
+        - {x: -49.5, y: -22}
+        - {x: -78.5, y: 22}
+      - - {x: 47.5, y: -22}
+        - {x: -7.5, y: -12}
+        - {x: 78.5, y: 22}
+      - - {x: 78.5, y: 10}
+        - {x: 47.5, y: -22}
+        - {x: 78.5, y: 22}
+      - - {x: 78.5, y: 10}
+        - {x: 57.5, y: -22}
+        - {x: 47.5, y: -22}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-Orkos
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 103
+        width: 77
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: -18.5}
+        - {x: -38.5, y: 46.5}
+        - {x: 38.5, y: 46.5}
+      - - {x: -10.5, y: -46.5}
+        - {x: -38.5, y: -46.5}
+        - {x: -38.5, y: 46.5}
+      - - {x: 38.5, y: -18.5}
+        - {x: -10.5, y: -46.5}
+        - {x: -38.5, y: 46.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-Hero-Barbarian
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 473
+        width: 267
+        height: 306
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 90}
+        - {x: -41.5, y: 153}
+        - {x: 2.5, y: 153}
+      - - {x: -88.5, y: 121}
+        - {x: 20.5, y: 90}
+        - {x: -90.5, y: 53}
+      - - {x: -116.5, y: -13}
+        - {x: -119.5, y: 43}
+        - {x: -90.5, y: 53}
+      - - {x: -116.5, y: -13}
+        - {x: -133.5, y: 21}
+        - {x: -119.5, y: 43}
+      - - {x: -116.5, y: -13}
+        - {x: 30.5, y: 8}
+        - {x: 18.5, y: -80}
+      - - {x: -133.5, y: -41}
+        - {x: -133.5, y: -34}
+        - {x: -116.5, y: -13}
+      - - {x: -116.5, y: -13}
+        - {x: 18.5, y: -80}
+        - {x: -107.5, y: -78}
+      - - {x: -107.5, y: -78}
+        - {x: -133.5, y: -41}
+        - {x: -116.5, y: -13}
+      - - {x: -98.5, y: -128}
+        - {x: -130.5, y: -92}
+        - {x: -107.5, y: -78}
+      - - {x: 18.5, y: -80}
+        - {x: 18.5, y: -89}
+        - {x: -107.5, y: -78}
+      - - {x: -98.5, y: -128}
+        - {x: -129.5, y: -125}
+        - {x: -130.5, y: -92}
+      - - {x: 18.5, y: -89}
+        - {x: -98.5, y: -128}
+        - {x: -107.5, y: -78}
+      - - {x: 18.5, y: -89}
+        - {x: 66.5, y: -137}
+        - {x: 36.5, y: -153}
+      - - {x: -98.5, y: -128}
+        - {x: 18.5, y: -89}
+        - {x: 36.5, y: -153}
+      - - {x: -98.5, y: -128}
+        - {x: 36.5, y: -153}
+        - {x: -102.5, y: -153}
+      - - {x: -116.5, y: -13}
+        - {x: -90.5, y: 53}
+        - {x: 30.5, y: 8}
+      - - {x: 51.5, y: -10}
+        - {x: 133.5, y: -22}
+        - {x: 86.5, y: -82}
+      - - {x: 133.5, y: -22}
+        - {x: 51.5, y: -10}
+        - {x: 109.5, y: 29}
+      - - {x: 133.5, y: -22}
+        - {x: 109.5, y: 29}
+        - {x: 133.5, y: 5}
+      - - {x: 51.5, y: -10}
+        - {x: 86.5, y: -82}
+        - {x: 18.5, y: -80}
+      - - {x: 30.5, y: 8}
+        - {x: 51.5, y: -10}
+        - {x: 18.5, y: -80}
+      - - {x: -90.5, y: 53}
+        - {x: 20.5, y: 90}
+        - {x: 30.5, y: 8}
+      - - {x: 48.5, y: 58}
+        - {x: 48.5, y: 28}
+        - {x: 30.5, y: 8}
+      - - {x: 20.5, y: 90}
+        - {x: 48.5, y: 58}
+        - {x: 30.5, y: 8}
+      - - {x: -88.5, y: 121}
+        - {x: -41.5, y: 153}
+        - {x: 20.5, y: 90}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-Heroe-ecuestre
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 127
+        width: 261
+        height: 321
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: 77.5}
+        - {x: -43.5, y: 160.5}
+        - {x: 17.5, y: 160.5}
+      - - {x: -130.5, y: -2.5}
+        - {x: -130.5, y: 9.5}
+        - {x: -96.5, y: 16.5}
+      - - {x: -116.5, y: -16.5}
+        - {x: -130.5, y: -2.5}
+        - {x: -96.5, y: 16.5}
+      - - {x: 66.5, y: -111.5}
+        - {x: 51.5, y: -160.5}
+        - {x: 24.5, y: -160.5}
+      - - {x: -91.5, y: -104.5}
+        - {x: -116.5, y: -16.5}
+        - {x: -96.5, y: 16.5}
+      - - {x: -91.5, y: -104.5}
+        - {x: -125.5, y: -70.5}
+        - {x: -116.5, y: -16.5}
+      - - {x: 24.5, y: -160.5}
+        - {x: -112.5, y: -142.5}
+        - {x: -91.5, y: -104.5}
+      - - {x: -91.5, y: -104.5}
+        - {x: -96.5, y: 16.5}
+        - {x: 74.5, y: -71.5}
+      - - {x: 66.5, y: -111.5}
+        - {x: 64.5, y: -159.5}
+        - {x: 51.5, y: -160.5}
+      - - {x: -91.5, y: -104.5}
+        - {x: 74.5, y: -71.5}
+        - {x: 66.5, y: -111.5}
+      - - {x: 66.5, y: -111.5}
+        - {x: 100.5, y: -137.5}
+        - {x: 64.5, y: -159.5}
+      - - {x: -96.5, y: 16.5}
+        - {x: 32.5, y: 77.5}
+        - {x: 74.5, y: -71.5}
+      - - {x: 100.5, y: -50.5}
+        - {x: 130.5, y: -62.5}
+        - {x: 130.5, y: -67.5}
+      - - {x: 100.5, y: -50.5}
+        - {x: 130.5, y: -67.5}
+        - {x: 74.5, y: -71.5}
+      - - {x: 32.5, y: 77.5}
+        - {x: 119.5, y: 10.5}
+        - {x: 100.5, y: -50.5}
+      - - {x: 32.5, y: 77.5}
+        - {x: 81.5, y: 71.5}
+        - {x: 119.5, y: 10.5}
+      - - {x: 32.5, y: 77.5}
+        - {x: 100.5, y: -50.5}
+        - {x: 74.5, y: -71.5}
+      - - {x: -91.5, y: -104.5}
+        - {x: 66.5, y: -111.5}
+        - {x: 24.5, y: -160.5}
+      - - {x: 32.5, y: 77.5}
+        - {x: -96.5, y: 16.5}
+        - {x: -43.5, y: 160.5}
+      - - {x: 35.5, y: 150.5}
+        - {x: 32.5, y: 77.5}
+        - {x: 17.5, y: 160.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEVEL-UP-INFERIOR
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 344
+        width: 114
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: -50}
+        - {x: -57, y: 50}
+        - {x: 57, y: 50}
+      - - {x: 57, y: -50}
+        - {x: -57, y: -50}
+        - {x: 57, y: 50}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popup-win02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 450
+        width: 312
+        height: 329
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 103.5}
+        - {x: -22, y: 164.5}
+        - {x: 18, y: 164.5}
+      - - {x: -83, y: 103.5}
+        - {x: -68, y: 146.5}
+        - {x: -22, y: 164.5}
+      - - {x: 32, y: -164.5}
+        - {x: 107, y: 63.5}
+        - {x: 94, y: -136.5}
+      - - {x: -156, y: 9.5}
+        - {x: -130, y: 73.5}
+        - {x: -83, y: 103.5}
+      - - {x: -93, y: -133.5}
+        - {x: -156, y: 9.5}
+        - {x: -83, y: 103.5}
+      - - {x: -93, y: -133.5}
+        - {x: -156, y: -75.5}
+        - {x: -156, y: 9.5}
+      - - {x: -93, y: -133.5}
+        - {x: 107, y: 63.5}
+        - {x: 32, y: -164.5}
+      - - {x: 32, y: -164.5}
+        - {x: -43, y: -164.5}
+        - {x: -93, y: -133.5}
+      - - {x: -93, y: -133.5}
+        - {x: -83, y: 103.5}
+        - {x: 107, y: 63.5}
+      - - {x: 94, y: -136.5}
+        - {x: 107, y: 63.5}
+        - {x: 156, y: 1.5}
+      - - {x: 94, y: -136.5}
+        - {x: 156, y: 1.5}
+        - {x: 156, y: -83.5}
+      - - {x: 107, y: 63.5}
+        - {x: 119, y: 58.5}
+        - {x: 156, y: 1.5}
+      - - {x: 107, y: 63.5}
+        - {x: -83, y: 103.5}
+        - {x: 18, y: 164.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-Esqueletos
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 849
+        width: 67
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: -17}
+        - {x: -13.5, y: 42}
+        - {x: 33.5, y: 42}
+      - - {x: 33.5, y: -17}
+        - {x: -28.5, y: 13}
+        - {x: -13.5, y: 42}
+      - - {x: 33.5, y: -17}
+        - {x: -33.5, y: -2}
+        - {x: -28.5, y: 13}
+      - - {x: -2.5, y: -42}
+        - {x: -33.5, y: -42}
+        - {x: -33.5, y: -2}
+      - - {x: 33.5, y: -17}
+        - {x: -2.5, y: -42}
+        - {x: -33.5, y: -2}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "M\xE1scara-scrooll"
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 198
+        width: 372
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 186, y: -29.5}
+        - {x: -53, y: 29.5}
+        - {x: 186, y: 29.5}
+      - - {x: -186, y: -29.5}
+        - {x: -186, y: 24.5}
+        - {x: -53, y: 29.5}
+      - - {x: 186, y: -29.5}
+        - {x: -186, y: -29.5}
+        - {x: -53, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popup-Desbloqueo heroe-Popup win
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 47
+        width: 127
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 18.5}
+        - {x: -33.5, y: 43.5}
+        - {x: -23.5, y: 43.5}
+      - - {x: -63.5, y: -29.5}
+        - {x: -12.5, y: 18.5}
+        - {x: 7.5, y: -30.5}
+      - - {x: -63.5, y: -29.5}
+        - {x: -63.5, y: 19.5}
+        - {x: -12.5, y: 18.5}
+      - - {x: 63.5, y: -32.5}
+        - {x: 63.5, y: -43.5}
+        - {x: 53.5, y: -43.5}
+      - - {x: 63.5, y: -32.5}
+        - {x: 53.5, y: -43.5}
+        - {x: 7.5, y: -30.5}
+      - - {x: -12.5, y: 18.5}
+        - {x: 63.5, y: -32.5}
+        - {x: 7.5, y: -30.5}
+      - - {x: -12.5, y: 18.5}
+        - {x: -63.5, y: 19.5}
+        - {x: -33.5, y: 43.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCenter
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 89
+        width: 89
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: -1.5}
+        - {x: -44.5, y: 45.5}
+        - {x: 43.5, y: 45.5}
+      - - {x: -24.5, y: -45.5}
+        - {x: 44.5, y: -9.5}
+        - {x: 44.5, y: -45.5}
+      - - {x: -24.5, y: -45.5}
+        - {x: -44.5, y: -1.5}
+        - {x: 44.5, y: -9.5}
+      - - {x: 44.5, y: -9.5}
+        - {x: -44.5, y: -1.5}
+        - {x: 43.5, y: 45.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-Heroe-Gladiador
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 259
+        width: 242
+        height: 288
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 104}
+        - {x: -6, y: 144}
+        - {x: 40, y: 144}
+      - - {x: -35, y: 104}
+        - {x: -8, y: 143}
+        - {x: -6, y: 144}
+      - - {x: 104, y: 82}
+        - {x: -35, y: 104}
+        - {x: 40, y: 144}
+      - - {x: -121, y: 56}
+        - {x: -112, y: 70}
+        - {x: -82, y: 53}
+      - - {x: -121, y: 56}
+        - {x: -121, y: 70}
+        - {x: -112, y: 70}
+      - - {x: -88, y: 35}
+        - {x: -121, y: 56}
+        - {x: -82, y: 53}
+      - - {x: -88, y: 35}
+        - {x: -82, y: 53}
+        - {x: -47, y: 62}
+      - - {x: -43, y: -72}
+        - {x: -88, y: 35}
+        - {x: -47, y: 62}
+      - - {x: 104, y: 82}
+        - {x: 60, y: -71}
+        - {x: -47, y: 62}
+      - - {x: 60, y: -71}
+        - {x: -43, y: -72}
+        - {x: -47, y: 62}
+      - - {x: -49, y: -130}
+        - {x: -43, y: -72}
+        - {x: 60, y: -71}
+      - - {x: 83, y: -105}
+        - {x: 110, y: -119}
+        - {x: 110, y: -144}
+      - - {x: 83, y: -105}
+        - {x: 110, y: -144}
+        - {x: -42, y: -144}
+      - - {x: 60, y: -71}
+        - {x: 83, y: -105}
+        - {x: -42, y: -144}
+      - - {x: -49, y: -130}
+        - {x: 60, y: -71}
+        - {x: -42, y: -144}
+      - - {x: 107, y: -57}
+        - {x: 121, y: -72}
+        - {x: 121, y: -78}
+      - - {x: 107, y: -57}
+        - {x: 121, y: -78}
+        - {x: 60, y: -71}
+      - - {x: 104, y: 82}
+        - {x: 107, y: -57}
+        - {x: 60, y: -71}
+      - - {x: 104, y: 82}
+        - {x: -47, y: 62}
+        - {x: -35, y: 104}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-Lobos
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 108
+        width: 80
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: -11}
+        - {x: -40, y: 44}
+        - {x: 40, y: 44}
+      - - {x: -14, y: -44}
+        - {x: -40, y: -44}
+        - {x: -40, y: 44}
+      - - {x: 0, y: -40}
+        - {x: -14, y: -44}
+        - {x: -40, y: 44}
+      - - {x: 40, y: -11}
+        - {x: 0, y: -40}
+        - {x: -40, y: 44}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popup-Lose 01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 781
+        width: 466
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -197, y: -121}
+        - {x: -223, y: -121}
+        - {x: -197, y: -108}
+      - - {x: 57, y: 99}
+        - {x: 82, y: 121}
+        - {x: 107, y: 121}
+      - - {x: -37, y: 94}
+        - {x: -6, y: 119}
+        - {x: 57, y: 99}
+      - - {x: -202, y: -21}
+        - {x: -135, y: 98}
+        - {x: -37, y: 94}
+      - - {x: -37, y: 94}
+        - {x: 114, y: 36}
+        - {x: -172, y: -121}
+      - - {x: 114, y: 36}
+        - {x: 57, y: 99}
+        - {x: 107, y: 121}
+      - - {x: -172, y: -121}
+        - {x: -202, y: -21}
+        - {x: -37, y: 94}
+      - - {x: -233, y: -43}
+        - {x: -233, y: -38}
+        - {x: -202, y: -21}
+      - - {x: -172, y: -121}
+        - {x: -233, y: -43}
+        - {x: -202, y: -21}
+      - - {x: 184, y: -34}
+        - {x: 233, y: -50}
+        - {x: 233, y: -121}
+      - - {x: 184, y: -34}
+        - {x: 233, y: -121}
+        - {x: -172, y: -121}
+      - - {x: 114, y: 36}
+        - {x: 184, y: -34}
+        - {x: -172, y: -121}
+      - - {x: -37, y: 94}
+        - {x: 57, y: 99}
+        - {x: 114, y: 36}
+      - - {x: 127, y: 114}
+        - {x: 114, y: 36}
+        - {x: 107, y: 121}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-Mercenario
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 182
+        width: 241
+        height: 289
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.5, y: 124.5}
+        - {x: -32.5, y: 144.5}
+        - {x: -25.5, y: 144.5}
+      - - {x: 11.5, y: 120.5}
+        - {x: -60.5, y: 124.5}
+        - {x: -25.5, y: 144.5}
+      - - {x: -67.5, y: -91.5}
+        - {x: -120.5, y: 33.5}
+        - {x: -59.5, y: 67.5}
+      - - {x: -67.5, y: -91.5}
+        - {x: -120.5, y: -58.5}
+        - {x: -120.5, y: 33.5}
+      - - {x: 120.5, y: -70.5}
+        - {x: 81.5, y: -133.5}
+        - {x: 49.5, y: -144.5}
+      - - {x: 49.5, y: -144.5}
+        - {x: -78.5, y: -144.5}
+        - {x: -67.5, y: -91.5}
+      - - {x: 120.5, y: -70.5}
+        - {x: 49.5, y: -144.5}
+        - {x: -67.5, y: -91.5}
+      - - {x: 50.5, y: 56.5}
+        - {x: 120.5, y: -70.5}
+        - {x: -67.5, y: -91.5}
+      - - {x: 50.5, y: 56.5}
+        - {x: -67.5, y: -91.5}
+        - {x: -59.5, y: 67.5}
+      - - {x: 50.5, y: 56.5}
+        - {x: 120.5, y: 6.5}
+        - {x: 120.5, y: -70.5}
+      - - {x: 11.5, y: 120.5}
+        - {x: 50.5, y: 56.5}
+        - {x: -59.5, y: 67.5}
+      - - {x: 11.5, y: 120.5}
+        - {x: 38.5, y: 143.5}
+        - {x: 50.5, y: 56.5}
+      - - {x: 11.5, y: 120.5}
+        - {x: -59.5, y: 67.5}
+        - {x: -60.5, y: 124.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShareIOS
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 935
+        width: 72
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 14}
+        - {x: -6, y: 44}
+        - {x: 4, y: 44}
+      - - {x: 36, y: 19}
+        - {x: 36, y: -44}
+        - {x: -36, y: 14}
+      - - {x: 36, y: -44}
+        - {x: -36, y: -44}
+        - {x: -36, y: 14}
+      - - {x: 36, y: 19}
+        - {x: -36, y: 14}
+        - {x: 4, y: 44}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popup-Lose 02
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 816
+        width: 478
+        height: 207
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -239, y: 61.5}
+        - {x: -239, y: 103.5}
+        - {x: -228, y: 103.5}
+      - - {x: -197, y: 65.5}
+        - {x: -239, y: 61.5}
+        - {x: -228, y: 103.5}
+      - - {x: -189, y: -55.5}
+        - {x: -178, y: -103.5}
+        - {x: -195, y: -103.5}
+      - - {x: -189, y: -55.5}
+        - {x: -195, y: -103.5}
+        - {x: -230, y: 43.5}
+      - - {x: -230, y: 43.5}
+        - {x: -197, y: 65.5}
+        - {x: -152, y: -41.5}
+      - - {x: -230, y: 43.5}
+        - {x: -152, y: -41.5}
+        - {x: -189, y: -55.5}
+      - - {x: 218, y: 12.5}
+        - {x: 239, y: -22.5}
+        - {x: 53, y: -34.5}
+      - - {x: 218, y: 12.5}
+        - {x: 239, y: -15.5}
+        - {x: 239, y: -22.5}
+      - - {x: 53, y: -34.5}
+        - {x: 74, y: 66.5}
+        - {x: 172, y: 58.5}
+      - - {x: -52, y: 73.5}
+        - {x: 74, y: 66.5}
+        - {x: 53, y: -34.5}
+      - - {x: 172, y: 58.5}
+        - {x: 236, y: 62.5}
+        - {x: 218, y: 12.5}
+      - - {x: 53, y: -34.5}
+        - {x: 172, y: 58.5}
+        - {x: 218, y: 12.5}
+      - - {x: 74, y: 66.5}
+        - {x: 158, y: 72.5}
+        - {x: 172, y: 58.5}
+      - - {x: -52, y: 73.5}
+        - {x: 53, y: -34.5}
+        - {x: -45, y: -34.5}
+      - - {x: -52, y: 73.5}
+        - {x: -45, y: -34.5}
+        - {x: -152, y: -41.5}
+      - - {x: -197, y: 65.5}
+        - {x: -52, y: 73.5}
+        - {x: -152, y: -41.5}
+      - - {x: -197, y: 65.5}
+        - {x: -230, y: 43.5}
+        - {x: -239, y: 61.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword
+      rect:
+        serializedVersion: 2
+        x: 265.0129
+        y: 115
+        width: 121.9871
+        height: 333
+      alignment: 9
+      pivot: {x: 0.4712555, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 135.5}
+        - {x: -19.5, y: 166.5}
+        - {x: 2.5, y: 166.5}
+      - - {x: 55.5, y: 88.5}
+        - {x: -61.5, y: 117.5}
+        - {x: -28.5, y: 135.5}
+      - - {x: -54.5, y: -36.5}
+        - {x: 55.5, y: 88.5}
+        - {x: 55.5, y: -72.5}
+      - - {x: 61.5, y: -122.5}
+        - {x: 48.5, y: -161.5}
+        - {x: 26.5, y: -166.5}
+      - - {x: 61.5, y: -122.5}
+        - {x: 1.5, y: -166.5}
+        - {x: -59.5, y: -112.5}
+      - - {x: -59.5, y: -112.5}
+        - {x: 1.5, y: -166.5}
+        - {x: -45.5, y: -145.5}
+      - - {x: 61.5, y: -122.5}
+        - {x: 26.5, y: -166.5}
+        - {x: 1.5, y: -166.5}
+      - - {x: 55.5, y: -72.5}
+        - {x: 61.5, y: -122.5}
+        - {x: -59.5, y: -112.5}
+      - - {x: 55.5, y: -72.5}
+        - {x: -59.5, y: -112.5}
+        - {x: -54.5, y: -36.5}
+      - - {x: 55.5, y: -72.5}
+        - {x: 61.5, y: -72.5}
+        - {x: 61.5, y: -122.5}
+      - - {x: 55.5, y: 88.5}
+        - {x: -54.5, y: -36.5}
+        - {x: -61.5, y: 117.5}
+      - - {x: 16.5, y: 152.5}
+        - {x: 55.5, y: 88.5}
+        - {x: -28.5, y: 135.5}
+      - - {x: 16.5, y: 152.5}
+        - {x: -28.5, y: 135.5}
+        - {x: 2.5, y: 166.5}
+      - - {x: 48.5, y: 131.5}
+        - {x: 33.5, y: 131.5}
+        - {x: 33.5, y: 141.5}
+      - - {x: -58.5, y: 154.5}
+        - {x: -58.5, y: 157.5}
+        - {x: -55.5, y: 157.5}
+      - - {x: -55.5, y: 154.5}
+        - {x: -58.5, y: 154.5}
+        - {x: -55.5, y: 157.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popup-win01
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 446
+        width: 102
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: 10}
+        - {x: -1, y: 55}
+        - {x: 51, y: 55}
+      - - {x: 51, y: 10}
+        - {x: -13, y: 48}
+        - {x: -1, y: 55}
+      - - {x: -19, y: -23}
+        - {x: -51, y: -41}
+        - {x: -13, y: 48}
+      - - {x: -51, y: -41}
+        - {x: -19, y: -23}
+        - {x: -41, y: -55}
+      - - {x: -51, y: -41}
+        - {x: -41, y: -55}
+        - {x: -51, y: -55}
+      - - {x: 51, y: 10}
+        - {x: -19, y: -23}
+        - {x: -13, y: 48}
+      - - {x: 20, y: -45}
+        - {x: -6, y: -44}
+        - {x: -19, y: -23}
+      - - {x: 51, y: 10}
+        - {x: 20, y: -45}
+        - {x: -19, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrades_Banderin-contenedor
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 88
+        width: 197
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55.5, y: -13.5}
+        - {x: -98.5, y: 18.5}
+        - {x: 98.5, y: 18.5}
+      - - {x: 55.5, y: -13.5}
+        - {x: -98.5, y: -13.5}
+        - {x: -98.5, y: 18.5}
+      - - {x: 61.5, y: -18.5}
+        - {x: 55.5, y: -13.5}
+        - {x: 98.5, y: 18.5}
+      - - {x: 98.5, y: -18.5}
+        - {x: 61.5, y: -18.5}
+        - {x: 98.5, y: 18.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-Heroe-Arcani
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 549
+        width: 274
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: 26.5}
+        - {x: -34, y: 132.5}
+        - {x: 37, y: 132.5}
+      - - {x: -132, y: 85.5}
+        - {x: 49, y: 26.5}
+        - {x: -137, y: -7.5}
+      - - {x: -132, y: 85.5}
+        - {x: -34, y: 132.5}
+        - {x: 49, y: 26.5}
+      - - {x: -92, y: -82.5}
+        - {x: -137, y: -31.5}
+        - {x: -137, y: -7.5}
+      - - {x: 19, y: -61.5}
+        - {x: -92, y: -82.5}
+        - {x: -137, y: -7.5}
+      - - {x: 22, y: -85.5}
+        - {x: 61, y: -107.5}
+        - {x: 61, y: -132.5}
+      - - {x: 22, y: -85.5}
+        - {x: 61, y: -132.5}
+        - {x: -102, y: -132.5}
+      - - {x: -92, y: -82.5}
+        - {x: 19, y: -61.5}
+        - {x: 22, y: -85.5}
+      - - {x: -92, y: -82.5}
+        - {x: 22, y: -85.5}
+        - {x: -102, y: -132.5}
+      - - {x: 49, y: 26.5}
+        - {x: 137, y: 3.5}
+        - {x: 67, y: -66.5}
+      - - {x: 49, y: 26.5}
+        - {x: 137, y: 9.5}
+        - {x: 137, y: 3.5}
+      - - {x: 49, y: 26.5}
+        - {x: 67, y: -66.5}
+        - {x: 19, y: -61.5}
+      - - {x: 49, y: 26.5}
+        - {x: 19, y: -61.5}
+        - {x: -137, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-Gobblins
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 77
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: -7}
+        - {x: -38.5, y: 41}
+        - {x: 38.5, y: 41}
+      - - {x: 15.5, y: -41}
+        - {x: -38.5, y: -41}
+        - {x: -38.5, y: 41}
+      - - {x: 38.5, y: -7}
+        - {x: 15.5, y: -41}
+        - {x: -38.5, y: 41}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LEVEL-UP-INFERIOR: 21300002
+      ICO-Heroe-Arcani: 21300020
+      ICO-Lobos: 21300042
+      flare: 21300030
+      Popup-win02: 21300012
+      ICO-Esqueletos: 21300038
+      ICO-Gobblins: 21300040
+      ICO-Heroe-ecuestre: 21300024
+      GameCenter: 21300034
+      ICO-Hero-Barbarian: 21300018
+      Popup-win01: 21300010
+      sword: 21300032
+      ShareIOS: 21300036
+      Upgrades_Banderin-contenedor: 21300014
+      Popup-Lose 02: 21300008
+      ICO-Heroe-Gladiador: 21300022
+      ICO-Orkos: 21300044
+      Popup-Desbloqueo heroe-Popup win: 21300028
+      IONO-XP: 21300000
+      LEVEL-UP-SUPERIOR: 21300004
+      Popup-Lose 01: 21300006
+      ICO-Mercenario: 21300026
+      "M\xE1scara-scrooll": 21300016
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

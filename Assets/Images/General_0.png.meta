@@ -1,0 +1,551 @@
+fileFormatVersion: 2
+guid: 20c8d2158cf34e56b446dccaa446535f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ROM_General_Command_0000
+  - first:
+      213: 21300002
+    second: ROM_General_Command_0001
+  - first:
+      213: 21300004
+    second: ROM_General_Command_0002
+  - first:
+      213: 21300006
+    second: ROM_General_Command_0003
+  - first:
+      213: 21300008
+    second: ROM_General_Command_0004
+  - first:
+      213: 21300010
+    second: ROM_General_Command_0005
+  - first:
+      213: 21300012
+    second: ROM_General_Command_0006
+  - first:
+      213: 21300014
+    second: ROM_General_Idle_0000
+  - first:
+      213: 21300016
+    second: ROM_General_Idle_0001
+  - first:
+      213: 21300018
+    second: ROM_General_Idle_0002
+  - first:
+      213: 21300020
+    second: ROM_General_Idle_0003
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 13
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ROM_General_Idle_0000
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 428.0268
+        width: 66
+        height: 73.9465
+      alignment: 9
+      pivot: {x: 0.5378788, y: -0.02740852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: -9}
+        - {x: 16, y: -39}
+        - {x: -5, y: -42}
+      - - {x: 33, y: -9}
+        - {x: -5, y: -42}
+        - {x: -33, y: -22}
+      - - {x: 33, y: -9}
+        - {x: -33, y: -22}
+        - {x: -14, y: 42}
+      - - {x: 33, y: 25}
+        - {x: 33, y: -9}
+        - {x: -14, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_General_Idle_0002
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 349.0268
+        width: 70.92388
+        height: 76.97325
+      alignment: 9
+      pivot: {x: 0.5710347, y: -0.02633076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -39}
+        - {x: 37, y: 2}
+        - {x: 17, y: -36}
+      - - {x: -4, y: -39}
+        - {x: -37, y: -18}
+        - {x: -8, y: 33}
+      - - {x: -4, y: -39}
+        - {x: -8, y: 33}
+        - {x: 37, y: 2}
+      - - {x: 37, y: 2}
+        - {x: -8, y: 33}
+        - {x: 15, y: 39}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_General_Idle_0003
+      rect:
+        serializedVersion: 2
+        x: 422.0761
+        y: 433.0268
+        width: 61.92388
+        height: 73.9465
+      alignment: 9
+      pivot: {x: 0.50746, y: -0.02740852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.5, y: -5.5}
+        - {x: 14.5, y: -36.5}
+        - {x: -26.5, y: 9.5}
+      - - {x: -6.5, y: -39.5}
+        - {x: -31.5, y: -22.5}
+        - {x: -26.5, y: 9.5}
+      - - {x: 14.5, y: -36.5}
+        - {x: -6.5, y: -39.5}
+        - {x: -26.5, y: 9.5}
+      - - {x: 31.5, y: -5.5}
+        - {x: -26.5, y: 9.5}
+        - {x: -4.5, y: 39.5}
+      - - {x: 31.5, y: 28.5}
+        - {x: 31.5, y: -5.5}
+        - {x: -4.5, y: 39.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_General_Command_0004
+      rect:
+        serializedVersion: 2
+        x: 5.036285
+        y: 424
+        width: 90.96371
+        height: 84.92388
+      alignment: 9
+      pivot: {x: 0.3348996, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.5, y: 27.5}
+        - {x: -30.5, y: 29.5}
+        - {x: 45.5, y: 43.5}
+      - - {x: -47.5, y: -24.5}
+        - {x: -30.5, y: 29.5}
+        - {x: 0.500001, y: -39.5}
+      - - {x: -47.5, y: -24.5}
+        - {x: 0.500001, y: -39.5}
+        - {x: -22.5, y: -43.5}
+      - - {x: 47.5, y: 27.5}
+        - {x: 0.500001, y: -39.5}
+        - {x: -30.5, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_General_Command_0005
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 427
+        width: 89
+        height: 83.92388
+      alignment: 9
+      pivot: {x: 0.3314607, y: -0.01191556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.499999, y: -39}
+        - {x: -36.5, y: 12}
+        - {x: -9.5, y: 42}
+      - - {x: -22.5, y: -42}
+        - {x: -44.5, y: -26}
+        - {x: -36.5, y: 12}
+      - - {x: -1.499999, y: -39}
+        - {x: -22.5, y: -42}
+        - {x: -36.5, y: 12}
+      - - {x: 44.5, y: 27}
+        - {x: -1.499999, y: -39}
+        - {x: -9.5, y: 42}
+      - - {x: 44.5, y: 41}
+        - {x: 44.5, y: 27}
+        - {x: -9.5, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_General_Command_0000
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 428.0268
+        width: 66
+        height: 73.9465
+      alignment: 9
+      pivot: {x: 0.5378788, y: -0.02740852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: -9}
+        - {x: 16, y: -39}
+        - {x: -5, y: -42}
+      - - {x: 33, y: -9}
+        - {x: -5, y: -42}
+        - {x: -33, y: -22}
+      - - {x: 33, y: -9}
+        - {x: -33, y: -22}
+        - {x: -14, y: 42}
+      - - {x: 33, y: 25}
+        - {x: 33, y: -9}
+        - {x: -14, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_General_Command_0001
+      rect:
+        serializedVersion: 2
+        x: 3.026751
+        y: 270.0429
+        width: 63.96034
+        height: 73.93034
+      alignment: 9
+      pivot: {x: 0.4920745, y: -0.02763287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: 1}
+        - {x: 20.5, y: -37}
+        - {x: -30.5, y: 6}
+      - - {x: 20.5, y: -37}
+        - {x: -33.5, y: -36}
+        - {x: -30.5, y: 6}
+      - - {x: 13.5, y: 36}
+        - {x: 33.5, y: 1}
+        - {x: -30.5, y: 6}
+      - - {x: 13.5, y: 36}
+        - {x: -30.5, y: 6}
+        - {x: -7.5, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_General_Command_0006
+      rect:
+        serializedVersion: 2
+        x: 4.07612
+        y: 347.0429
+        width: 84.92388
+        height: 84.95709
+      alignment: 9
+      pivot: {x: 0.2875973, y: -0.02404635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: 27}
+        - {x: -35, y: 29}
+        - {x: 42, y: 43}
+      - - {x: -44, y: -31}
+        - {x: -35, y: 29}
+        - {x: -2.999999, y: -40}
+      - - {x: -44, y: -31}
+        - {x: -2.999999, y: -40}
+        - {x: -24, y: -43}
+      - - {x: 44, y: 27}
+        - {x: -2.999999, y: -40}
+        - {x: -35, y: 29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_General_Idle_0001
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 430.0268
+        width: 69
+        height: 73.9465
+      alignment: 9
+      pivot: {x: 0.557971, y: -0.02740852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: -6.5}
+        - {x: -7.5, y: 32.5}
+        - {x: 34.5, y: 41.5}
+      - - {x: -34.5, y: -13.5}
+        - {x: -7.5, y: 32.5}
+        - {x: 34.5, y: -6.5}
+      - - {x: 34.5, y: -6.5}
+        - {x: 17.5, y: -37.5}
+        - {x: -6.5, y: -41.5}
+      - - {x: 34.5, y: -6.5}
+        - {x: -6.5, y: -41.5}
+        - {x: -34.5, y: -13.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_General_Command_0003
+      rect:
+        serializedVersion: 2
+        x: 227.0513
+        y: 438
+        width: 76.94868
+        height: 72.92388
+      alignment: 9
+      pivot: {x: 0.3957012, y: -0.04113879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: -17.5}
+        - {x: 8, y: -36.5}
+        - {x: -17, y: -36.5}
+      - - {x: 8, y: -17.5}
+        - {x: -17, y: -36.5}
+        - {x: -40, y: -13.5}
+      - - {x: 8, y: -17.5}
+        - {x: -40, y: -13.5}
+        - {x: -25, y: 36.5}
+      - - {x: 40, y: 14.5}
+        - {x: 8, y: -17.5}
+        - {x: -25, y: 36.5}
+      - - {x: 40, y: 34.5}
+        - {x: 40, y: 14.5}
+        - {x: -25, y: 36.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_General_Command_0002
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 428.0429
+        width: 71
+        height: 82.88097
+      alignment: 9
+      pivot: {x: 0.5704225, y: -0.02464869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: -42.5}
+        - {x: 35.5, y: -8.5}
+        - {x: 18.5, y: -38.5}
+      - - {x: -5.5, y: -42.5}
+        - {x: -35.5, y: -9.5}
+        - {x: 35.5, y: -8.5}
+      - - {x: 35.5, y: -8.5}
+        - {x: -35.5, y: -9.5}
+        - {x: -3.5, y: 42.5}
+      - - {x: 35.5, y: 23.5}
+        - {x: 35.5, y: -8.5}
+        - {x: -3.5, y: 42.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ROM_General_Command_0004: 21300008
+      ROM_General_Command_0000: 21300000
+      ROM_General_Command_0003: 21300006
+      ROM_General_Idle_0000: 21300014
+      ROM_General_Idle_0003: 21300020
+      ROM_General_Command_0005: 21300010
+      ROM_General_Command_0001: 21300002
+      ROM_General_Idle_0001: 21300016
+      ROM_General_Command_0002: 21300004
+      ROM_General_Command_0006: 21300012
+      ROM_General_Idle_0002: 21300018
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

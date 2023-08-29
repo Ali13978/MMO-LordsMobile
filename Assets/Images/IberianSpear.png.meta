@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: a1ad563ab78a4187828e7115da334074
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SPA_2-Spear_Attack_0000
+  - first:
+      213: 21300002
+    second: SPA_2-Spear_Attack_0001
+  - first:
+      213: 21300004
+    second: SPA_2-Spear_Attack_0002
+  - first:
+      213: 21300006
+    second: SPA_2-Spear_Attack_0003
+  - first:
+      213: 21300008
+    second: SPA_2-Spear_Death_0000
+  - first:
+      213: 21300010
+    second: SPA_2-Spear_Death_0001
+  - first:
+      213: 21300012
+    second: SPA_2-Spear_Death_0002
+  - first:
+      213: 21300014
+    second: SPA_2-Spear_Death_0003
+  - first:
+      213: 21300016
+    second: SPA_2-Spear_Idle_0000
+  - first:
+      213: 21300018
+    second: SPA_2-Spear_Idle_0001
+  - first:
+      213: 21300020
+    second: SPA_2-Spear_Idle_0002
+  - first:
+      213: 21300022
+    second: SPA_2-Spear_Idle_0003
+  - first:
+      213: 21300024
+    second: SPA_2-Spear_Running_0000
+  - first:
+      213: 21300026
+    second: SPA_2-Spear_Running_0001
+  - first:
+      213: 21300028
+    second: SPA_2-Spear_Running_0002
+  - first:
+      213: 21300030
+    second: SPA_2-Spear_Running_0003
+  - first:
+      213: 21300032
+    second: SPA_Spear_Attack_0000
+  - first:
+      213: 21300034
+    second: SPA_Spear_Attack_0001
+  - first:
+      213: 21300036
+    second: SPA_Spear_Attack_0002
+  - first:
+      213: 21300038
+    second: SPA_Spear_Attack_0003
+  - first:
+      213: 21300040
+    second: SPA_Spear_Death_0000
+  - first:
+      213: 21300042
+    second: SPA_Spear_Death_0001
+  - first:
+      213: 21300044
+    second: SPA_Spear_Death_0002
+  - first:
+      213: 21300046
+    second: SPA_Spear_Death_0003
+  - first:
+      213: 21300048
+    second: SPA_Spear_Idle_0000
+  - first:
+      213: 21300050
+    second: SPA_Spear_Idle_0001
+  - first:
+      213: 21300052
+    second: SPA_Spear_Idle_0002
+  - first:
+      213: 21300054
+    second: SPA_Spear_Idle_0003
+  - first:
+      213: 21300056
+    second: SPA_Spear_Running_0000
+  - first:
+      213: 21300058
+    second: SPA_Spear_Running_0001
+  - first:
+      213: 21300060
+    second: SPA_Spear_Running_0002
+  - first:
+      213: 21300062
+    second: SPA_Spear_Running_0003
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 13
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPA_Spear_Attack_0003
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 305.0689
+        width: 68.92388
+        height: 63.93106
+      alignment: 9
+      pivot: {x: 0.3554646, y: -0.04800388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -29.5}
+        - {x: -39, y: 1.5}
+        - {x: -16, y: 32.5}
+      - - {x: 4, y: -29.5}
+        - {x: -29, y: -32.5}
+        - {x: -39, y: 1.5}
+      - - {x: 39, y: 5.5}
+        - {x: 4, y: -29.5}
+        - {x: -16, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_2-Spear_Attack_0000
+      rect:
+        serializedVersion: 2
+        x: 162.0761
+        y: 432.0761
+        width: 69.84776
+        height: 69.86176
+      alignment: 9
+      pivot: {x: 0.4498909, y: -0.04403139}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 17}
+        - {x: -41, y: -2}
+        - {x: -4, y: 40}
+      - - {x: 27, y: 17}
+        - {x: 41, y: -40}
+        - {x: -14, y: -36}
+      - - {x: 27, y: 17}
+        - {x: -14, y: -36}
+        - {x: -41, y: -2}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_2-Spear_Attack_0001
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 119.0477
+        width: 65.92388
+        height: 66.95229
+      alignment: 9
+      pivot: {x: 0.5991759, y: -0.06045658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: -4}
+        - {x: -13.5, y: 34}
+        - {x: 24.5, y: 34}
+      - - {x: -34.5, y: -6.999998}
+        - {x: -13.5, y: 34}
+        - {x: 34.5, y: -4}
+      - - {x: 34.5, y: -4}
+        - {x: 24.5, y: -31}
+        - {x: -5.5, y: -34}
+      - - {x: -34.5, y: -6.999998}
+        - {x: 34.5, y: -4}
+        - {x: -5.5, y: -34}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_2-Spear_Death_0003
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 8
+        width: 74
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6148649, y: -0.02564103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: -19.5}
+        - {x: -37, y: 19.5}
+        - {x: 37, y: 19.5}
+      - - {x: 37, y: -19.5}
+        - {x: -37, y: -19.5}
+        - {x: 37, y: 19.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Spear_Idle_0001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 63
+        width: 70
+        height: 61.92388
+      alignment: 9
+      pivot: {x: 0.4214286, y: -0.06459544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: -6.5}
+        - {x: 18, y: -38.5}
+        - {x: -35, y: -9.5}
+      - - {x: 18, y: -38.5}
+        - {x: -35, y: -38.5}
+        - {x: -35, y: -9.5}
+      - - {x: 35, y: -6.5}
+        - {x: -35, y: -9.5}
+        - {x: -12, y: 38.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Spear_Attack_0001
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 260.0225
+        width: 76.92388
+        height: 66.97749
+      alignment: 9
+      pivot: {x: 0.6564931, y: -0.04512743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -33.5}
+        - {x: -42.5, y: -14.5}
+        - {x: -2.5, y: 33.5}
+      - - {x: 42.5, y: 20.5}
+        - {x: 30.5, y: -31.5}
+        - {x: -0.5, y: -33.5}
+      - - {x: 42.5, y: 20.5}
+        - {x: -0.5, y: -33.5}
+        - {x: -2.5, y: 33.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_2-Spear_Idle_0002
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 360.0761
+        width: 80.98709
+        height: 68.84776
+      alignment: 9
+      pivot: {x: 0.5124273, y: -0.0446799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 17}
+        - {x: 41, y: -24}
+        - {x: 32, y: -38}
+      - - {x: 32, y: -38}
+        - {x: -41, y: -30}
+        - {x: -22, y: 19}
+      - - {x: 27, y: 17}
+        - {x: 32, y: -38}
+        - {x: -22, y: 19}
+      - - {x: 27, y: 17}
+        - {x: -22, y: 19}
+        - {x: 6, y: 38}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_2-Spear_Death_0000
+      rect:
+        serializedVersion: 2
+        x: 7.07612
+        y: 430.0761
+        width: 69.84776
+        height: 69.86176
+      alignment: 9
+      pivot: {x: 0.449891, y: -0.04403139}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 16.5}
+        - {x: -40, y: -7.5}
+        - {x: -9, y: 41.5}
+      - - {x: 25, y: 16.5}
+        - {x: 40, y: -41.5}
+        - {x: -16, y: -36.5}
+      - - {x: 25, y: 16.5}
+        - {x: -16, y: -36.5}
+        - {x: -40, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_2-Spear_Death_0001
+      rect:
+        serializedVersion: 2
+        x: 4.051317
+        y: 357.0761
+        width: 75.87257
+        height: 69.89713
+      alignment: 9
+      pivot: {x: 0.5067534, y: -0.07262259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -37.5}
+        - {x: -42.5, y: -23.5}
+        - {x: -32.5, y: 37.5}
+      - - {x: 21.5, y: -24.5}
+        - {x: -0.5, y: -37.5}
+        - {x: -32.5, y: 37.5}
+      - - {x: 25.5, y: 31.5}
+        - {x: 42.5, y: 8.5}
+        - {x: 21.5, y: -24.5}
+      - - {x: 25.5, y: 31.5}
+        - {x: 21.5, y: -24.5}
+        - {x: -32.5, y: 37.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_2-Spear_Death_0002
+      rect:
+        serializedVersion: 2
+        x: 4.07612
+        y: 293
+        width: 83.92388
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5531664, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: -6}
+        - {x: -34, y: 8}
+        - {x: 29, y: 35}
+      - - {x: 14, y: -35}
+        - {x: -43, y: -33}
+        - {x: -34, y: 8}
+      - - {x: 43, y: -6}
+        - {x: 14, y: -35}
+        - {x: -34, y: 8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Spear_Death_0000
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 51
+        width: 68
+        height: 62.92388
+      alignment: 9
+      pivot: {x: 0.4338235, y: -0.04767666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 4.5}
+        - {x: 23, y: -37.5}
+        - {x: -34, y: -6.5}
+      - - {x: 23, y: -37.5}
+        - {x: -34, y: -36.5}
+        - {x: -34, y: -6.5}
+      - - {x: 34, y: 4.5}
+        - {x: -34, y: -6.5}
+        - {x: -14, y: 37.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Spear_Idle_0003
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 63
+        width: 70
+        height: 61.92388
+      alignment: 9
+      pivot: {x: 0.4214286, y: -0.06459544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: -6.5}
+        - {x: 18, y: -38.5}
+        - {x: -35, y: -9.5}
+      - - {x: 18, y: -38.5}
+        - {x: -35, y: -38.5}
+        - {x: -35, y: -9.5}
+      - - {x: 35, y: -6.5}
+        - {x: -35, y: -9.5}
+        - {x: -12, y: 38.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_2-Spear_Idle_0001
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 437.0761
+        width: 80.94027
+        height: 69.89713
+      alignment: 9
+      pivot: {x: 0.5250785, y: -0.04400911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -34}
+        - {x: -43, y: -1}
+        - {x: -2, y: 38}
+      - - {x: 26, y: 25}
+        - {x: 43, y: -38}
+        - {x: -13, y: -34}
+      - - {x: 26, y: 25}
+        - {x: -13, y: -34}
+        - {x: -2, y: 38}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Spear_Running_0000
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 123
+        width: 84
+        height: 62
+      alignment: 9
+      pivot: {x: 0.4107143, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -31}
+        - {x: -20, y: 25}
+        - {x: 21, y: 31}
+      - - {x: 4, y: -31}
+        - {x: -42, y: -15}
+        - {x: -20, y: 25}
+      - - {x: 42, y: -18}
+        - {x: 4, y: -31}
+        - {x: 21, y: 31}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Spear_Attack_0002
+      rect:
+        serializedVersion: 2
+        x: 239.0363
+        y: 383
+        width: 83.96371
+        height: 62
+      alignment: 9
+      pivot: {x: 0.231811, y: -0.0483871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -31}
+        - {x: -43, y: -31}
+        - {x: -30, y: 31}
+      - - {x: 43, y: 7}
+        - {x: 0, y: -31}
+        - {x: -30, y: 31}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_2-Spear_Attack_0002
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 241
+        width: 78
+        height: 61.97325
+      alignment: 9
+      pivot: {x: 0.25, y: -0.08067998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: -31}
+        - {x: -39, y: 28}
+        - {x: -9, y: 31}
+      - - {x: 6, y: -31}
+        - {x: -39, y: -31}
+        - {x: -9, y: 31}
+      - - {x: 39, y: 2}
+        - {x: 6, y: -31}
+        - {x: -9, y: 31}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Spear_Running_0002
+      rect:
+        serializedVersion: 2
+        x: 204.0761
+        y: 57
+        width: 64.84776
+        height: 54.85065
+      alignment: 9
+      pivot: {x: 0.4383169, y: -0.0729253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -30}
+        - {x: -33, y: 6}
+        - {x: 4, y: 30}
+      - - {x: 21, y: -30}
+        - {x: -36, y: -30}
+        - {x: -33, y: 6}
+      - - {x: 36, y: 3}
+        - {x: 21, y: -30}
+        - {x: 4, y: 30}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Spear_Idle_0000
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 378.0225
+        width: 68
+        height: 74.97749
+      alignment: 9
+      pivot: {x: 0.4338235, y: -0.04031239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 4.5}
+        - {x: 23, y: -37.5}
+        - {x: -34, y: -6.5}
+      - - {x: 23, y: -37.5}
+        - {x: -34, y: -36.5}
+        - {x: -34, y: -6.5}
+      - - {x: 34, y: 4.5}
+        - {x: -34, y: -6.5}
+        - {x: -14, y: 37.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Spear_Death_0003
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 30
+        width: 88
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6193182, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: -20.5}
+        - {x: -44, y: -20.5}
+        - {x: -23, y: 20.5}
+      - - {x: 19, y: 17.5}
+        - {x: 44, y: -3.5}
+        - {x: 27, y: -20.5}
+      - - {x: 19, y: 17.5}
+        - {x: 27, y: -20.5}
+        - {x: -23, y: 20.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_2-Spear_Running_0001
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 189
+        width: 78
+        height: 69
+      alignment: 9
+      pivot: {x: 0.3525641, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: -34.5}
+        - {x: -39, y: 16.5}
+        - {x: 6, y: 34.5}
+      - - {x: 20, y: -34.5}
+        - {x: -39, y: -34.5}
+        - {x: -39, y: 16.5}
+      - - {x: 39, y: -11.5}
+        - {x: 20, y: -34.5}
+        - {x: 6, y: 34.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_2-Spear_Running_0000
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 190
+        width: 68
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4338235, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 4}
+        - {x: -22, y: 17}
+        - {x: 14, y: 35}
+      - - {x: -11, y: -35}
+        - {x: -34, y: -7.999998}
+        - {x: -22, y: 17}
+      - - {x: 34, y: 4}
+        - {x: 34, y: -35}
+        - {x: -11, y: -35}
+      - - {x: 34, y: 4}
+        - {x: -11, y: -35}
+        - {x: -22, y: 17}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_2-Spear_Attack_0003
+      rect:
+        serializedVersion: 2
+        x: 139.0761
+        y: 74
+        width: 61.92388
+        height: 64.94868
+      alignment: 9
+      pivot: {x: 0.3298222, y: -0.07698385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -34.5}
+        - {x: 32.5, y: 8.5}
+        - {x: 32.5, y: -34.5}
+      - - {x: -25.5, y: -34.5}
+        - {x: -32.5, y: 13.5}
+        - {x: 32.5, y: 8.5}
+      - - {x: 32.5, y: 8.5}
+        - {x: -32.5, y: 13.5}
+        - {x: -5.5, y: 34.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_2-Spear_Running_0002
+      rect:
+        serializedVersion: 2
+        x: 390.0761
+        y: 443
+        width: 66.84776
+        height: 64.94363
+      alignment: 9
+      pivot: {x: 0.4401627, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -33.5}
+        - {x: -38, y: -20.5}
+        - {x: -12, y: 33.5}
+      - - {x: 38, y: -22.5}
+        - {x: 27, y: -33.5}
+        - {x: 10, y: -33.5}
+      - - {x: 31, y: 29.5}
+        - {x: 38, y: -22.5}
+        - {x: 10, y: -33.5}
+      - - {x: 31, y: 29.5}
+        - {x: 10, y: -33.5}
+        - {x: -12, y: 33.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Spear_Running_0003
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 320.0761
+        width: 65
+        height: 53.92388
+      alignment: 9
+      pivot: {x: 0.4384615, y: -0.07559009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: -27.5}
+        - {x: -18.5, y: 27.5}
+        - {x: 32.5, y: 27.5}
+      - - {x: -14.5, y: -27.5}
+        - {x: -32.5, y: -7.5}
+        - {x: -18.5, y: 27.5}
+      - - {x: 32.5, y: -25.5}
+        - {x: -14.5, y: -27.5}
+        - {x: 32.5, y: 27.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Spear_Running_0001
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 146
+        width: 80
+        height: 61
+      alignment: 9
+      pivot: {x: 0.44375, y: -0.04918033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -30.5}
+        - {x: -40, y: 3.5}
+        - {x: 5, y: 30.5}
+      - - {x: 23, y: -29.5}
+        - {x: -21, y: -30.5}
+        - {x: 5, y: 30.5}
+      - - {x: 40, y: 3.5}
+        - {x: 23, y: -29.5}
+        - {x: 5, y: 30.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Spear_Idle_0002
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 433.0225
+        width: 76.92388
+        height: 76.74051
+      alignment: 9
+      pivot: {x: 0.5654941, y: -0.03938626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -39}
+        - {x: -41.5, y: -36}
+        - {x: -3.5, y: 39}
+      - - {x: 41.5, y: -6}
+        - {x: 25.5, y: -39}
+        - {x: -3.5, y: 39}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Spear_Attack_0000
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 341
+        width: 67
+        height: 74
+      alignment: 9
+      pivot: {x: 0.4552239, y: -0.01351351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: 1}
+        - {x: 25.5, y: -33}
+        - {x: -32.5, y: 7}
+      - - {x: 25.5, y: -33}
+        - {x: -33.5, y: -37}
+        - {x: -32.5, y: 7}
+      - - {x: 33.5, y: 1}
+        - {x: -32.5, y: 7}
+        - {x: -2.5, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_2-Spear_Running_0003
+      rect:
+        serializedVersion: 2
+        x: 159.0477
+        y: 357
+        width: 73.90939
+        height: 65.94868
+      alignment: 9
+      pivot: {x: 0.4796725, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -36}
+        - {x: -38.5, y: -7}
+        - {x: -1.5, y: 36}
+      - - {x: 38.5, y: -25}
+        - {x: 29.5, y: -36}
+        - {x: -0.5, y: -36}
+      - - {x: 33.5, y: 19}
+        - {x: 38.5, y: -25}
+        - {x: -0.5, y: -36}
+      - - {x: 33.5, y: 19}
+        - {x: -0.5, y: -36}
+        - {x: -1.5, y: 36}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Spear_Death_0001
+      rect:
+        serializedVersion: 2
+        x: 242.0761
+        y: 442.0761
+        width: 84.92388
+        height: 67.84776
+      alignment: 9
+      pivot: {x: 0.417125, y: -0.04533843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: -18.5}
+        - {x: -21.5, y: 33.5}
+        - {x: 46.5, y: 34.5}
+      - - {x: -0.5, y: -34.5}
+        - {x: -46.5, y: -23.5}
+        - {x: -21.5, y: 33.5}
+      - - {x: 27.5, y: -18.5}
+        - {x: -0.5, y: -34.5}
+        - {x: -21.5, y: 33.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Spear_Death_0002
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 140
+        width: 80
+        height: 66.92388
+      alignment: 9
+      pivot: {x: 0.53125, y: -0.0298847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: 4}
+        - {x: -40, y: 18}
+        - {x: 27, y: 35}
+      - - {x: 14, y: -35}
+        - {x: -40, y: -28}
+        - {x: -40, y: 18}
+      - - {x: 40, y: 4}
+        - {x: 14, y: -35}
+        - {x: -40, y: 18}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_2-Spear_Idle_0000
+      rect:
+        serializedVersion: 2
+        x: 3.07612
+        y: 214.0761
+        width: 74.92388
+        height: 75.88097
+      alignment: 9
+      pivot: {x: 0.4327576, y: -0.04053883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 9.5}
+        - {x: -29, y: 15.5}
+        - {x: 3, y: 38.5}
+      - - {x: -17, y: -35.5}
+        - {x: -38, y: -10.5}
+        - {x: -29, y: 15.5}
+      - - {x: 25, y: 9.5}
+        - {x: 38, y: -38.5}
+        - {x: -17, y: -35.5}
+      - - {x: 25, y: 9.5}
+        - {x: -17, y: -35.5}
+        - {x: -29, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_2-Spear_Idle_0003
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 437.0761
+        width: 80.94027
+        height: 69.89713
+      alignment: 9
+      pivot: {x: 0.5250785, y: -0.04400911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -34}
+        - {x: -43, y: -1}
+        - {x: -2, y: 38}
+      - - {x: 26, y: 25}
+        - {x: 43, y: -38}
+        - {x: -13, y: -34}
+      - - {x: 26, y: 25}
+        - {x: -13, y: -34}
+        - {x: -2, y: 38}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SPA_2-Spear_Running_0000: 21300024
+      SPA_Spear_Death_0001: 21300042
+      SPA_2-Spear_Death_0002: 21300012
+      SPA_Spear_Attack_0000: 21300032
+      SPA_Spear_Death_0002: 21300044
+      SPA_2-Spear_Idle_0000: 21300016
+      SPA_Spear_Death_0003: 21300046
+      SPA_Spear_Idle_0001: 21300050
+      SPA_Spear_Running_0001: 21300058
+      SPA_Spear_Running_0002: 21300060
+      SPA_2-Spear_Attack_0003: 21300006
+      SPA_Spear_Attack_0003: 21300038
+      SPA_Spear_Attack_0001: 21300034
+      SPA_Spear_Running_0000: 21300056
+      SPA_2-Spear_Running_0001: 21300026
+      SPA_2-Spear_Death_0003: 21300014
+      SPA_Spear_Running_0003: 21300062
+      SPA_2-Spear_Attack_0000: 21300000
+      SPA_2-Spear_Attack_0001: 21300002
+      SPA_2-Spear_Death_0000: 21300008
+      SPA_2-Spear_Idle_0003: 21300022
+      SPA_2-Spear_Running_0002: 21300028
+      SPA_Spear_Idle_0002: 21300052
+      SPA_2-Spear_Idle_0002: 21300020
+      SPA_Spear_Idle_0003: 21300054
+      SPA_Spear_Death_0000: 21300040
+      SPA_Spear_Attack_0002: 21300036
+      SPA_2-Spear_Idle_0001: 21300018
+      SPA_2-Spear_Running_0003: 21300030
+      SPA_2-Spear_Death_0001: 21300010
+      SPA_2-Spear_Attack_0002: 21300004
+      SPA_Spear_Idle_0000: 21300048
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

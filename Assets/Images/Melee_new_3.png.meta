@@ -1,0 +1,836 @@
+fileFormatVersion: 2
+guid: 07e20e90170f4cc1a3e318c5bf9e17dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ROM_EarlyHastati_Attack_0000
+  - first:
+      213: 21300002
+    second: ROM_EarlyHastati_Attack_0001
+  - first:
+      213: 21300004
+    second: ROM_EarlyHastati_Attack_0002
+  - first:
+      213: 21300006
+    second: ROM_EarlyHastati_Attack_0003
+  - first:
+      213: 21300008
+    second: ROM_EarlyHastati_Death_0000
+  - first:
+      213: 21300010
+    second: ROM_EarlyHastati_Death_0001
+  - first:
+      213: 21300012
+    second: ROM_EarlyHastati_Death_0002
+  - first:
+      213: 21300014
+    second: ROM_EarlyHastati_Death_0003
+  - first:
+      213: 21300016
+    second: ROM_EarlyHastati_Idle_0000
+  - first:
+      213: 21300018
+    second: ROM_EarlyHastati_Idle_0001
+  - first:
+      213: 21300020
+    second: ROM_EarlyHastati_Idle_0002
+  - first:
+      213: 21300022
+    second: ROM_EarlyHastati_Idle_0003
+  - first:
+      213: 21300024
+    second: ROM_EarlyHastati_Javaline_0000
+  - first:
+      213: 21300026
+    second: ROM_EarlyHastati_Javaline_0001
+  - first:
+      213: 21300028
+    second: ROM_EarlyHastati_Javaline_0002
+  - first:
+      213: 21300030
+    second: ROM_EarlyHastati_Javaline_0003
+  - first:
+      213: 21300032
+    second: ROM_EarlyHastati_Running_0000
+  - first:
+      213: 21300034
+    second: ROM_EarlyHastati_Running_0001
+  - first:
+      213: 21300036
+    second: ROM_EarlyHastati_Running_0002
+  - first:
+      213: 21300038
+    second: ROM_EarlyHastati_Running_0003
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 13
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ROM_EarlyHastati_Idle_0003
+      rect:
+        serializedVersion: 2
+        x: 5.062115
+        y: 95
+        width: 84.93788
+        height: 73.97325
+      alignment: 9
+      pivot: {x: 0.3819013, y: -0.0270368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: -41}
+        - {x: -44.5, y: 18}
+        - {x: -22.5, y: 42}
+      - - {x: 44.5, y: 10}
+        - {x: 20.5, y: -42}
+        - {x: -22.5, y: -41}
+      - - {x: 44.5, y: 10}
+        - {x: -22.5, y: -41}
+        - {x: -22.5, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_EarlyHastati_Javaline_0001
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 427
+        width: 86
+        height: 80.92388
+      alignment: 9
+      pivot: {x: 0.3313954, y: -0.02471458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 8.999996}
+        - {x: -43, y: 23}
+        - {x: 28, y: 42}
+      - - {x: 2, y: -42}
+        - {x: -43, y: -42}
+        - {x: -43, y: 23}
+      - - {x: 43, y: 8.999996}
+        - {x: 2, y: -42}
+        - {x: -43, y: 23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_EarlyHastati_Death_0000
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 263
+        width: 88
+        height: 73
+      alignment: 9
+      pivot: {x: 0.4829545, y: -0.02739726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -35.5}
+        - {x: -44, y: 36.5}
+        - {x: 8, y: 36.5}
+      - - {x: 44, y: 10.5}
+        - {x: 33, y: -36.5}
+        - {x: -16, y: -35.5}
+      - - {x: 44, y: 10.5}
+        - {x: -16, y: -35.5}
+        - {x: 8, y: 36.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_EarlyHastati_Attack_0001
+      rect:
+        serializedVersion: 2
+        x: 94.07612
+        y: 337
+        width: 85.92388
+        height: 83.92388
+      alignment: 9
+      pivot: {x: 0.4820997, y: -0.03574668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.5, y: 4}
+        - {x: 30.5, y: -44}
+        - {x: -15.5, y: -44}
+      - - {x: 0.5, y: 30}
+        - {x: 43.5, y: 4}
+        - {x: -15.5, y: -44}
+      - - {x: 0.5, y: 30}
+        - {x: -15.5, y: -44}
+        - {x: -43.5, y: 29}
+      - - {x: 0.5, y: 30}
+        - {x: -43.5, y: 29}
+        - {x: -40.5, y: 44}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_EarlyHastati_Running_0001
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 339
+        width: 75
+        height: 82.92388
+      alignment: 9
+      pivot: {x: 0.3133333, y: -0.01205925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: 7}
+        - {x: 24.5, y: -44}
+        - {x: -37.5, y: -44}
+      - - {x: 37.5, y: 7}
+        - {x: -37.5, y: -44}
+        - {x: -14.5, y: 44}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_EarlyHastati_Idle_0001
+      rect:
+        serializedVersion: 2
+        x: 5.062115
+        y: 9.026751
+        width: 84.93788
+        height: 83.97325
+      alignment: 9
+      pivot: {x: 0.3819013, y: -0.02413567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: -41}
+        - {x: -44.5, y: 18}
+        - {x: -22.5, y: 42}
+      - - {x: 44.5, y: 10}
+        - {x: 20.5, y: -42}
+        - {x: -22.5, y: -41}
+      - - {x: 44.5, y: 10}
+        - {x: -22.5, y: -41}
+        - {x: -22.5, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_EarlyHastati_Running_0002
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 425.0761
+        width: 86.92388
+        height: 81.84776
+      alignment: 9
+      pivot: {x: 0.4314119, y: -0.01314771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: -43}
+        - {x: -46.5, y: -37}
+        - {x: -6.5, y: 43}
+      - - {x: 46.5, y: 11}
+        - {x: 26.5, y: -43}
+        - {x: -6.5, y: 43}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_EarlyHastati_Death_0001
+      rect:
+        serializedVersion: 2
+        x: 2.07612
+        y: 343
+        width: 94.92388
+        height: 84
+      alignment: 9
+      pivot: {x: 0.4469253, y: -0.02380952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: -13}
+        - {x: -48, y: 36}
+        - {x: 28, y: 42}
+      - - {x: 11, y: -42}
+        - {x: -45, y: -13}
+        - {x: 28, y: 42}
+      - - {x: 11, y: -42}
+        - {x: -16, y: -42}
+        - {x: -45, y: -13}
+      - - {x: 48, y: 8}
+        - {x: 11, y: -42}
+        - {x: 28, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_EarlyHastati_Death_0003
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 23.07612
+        width: 107.9637
+        height: 39.86567
+      alignment: 9
+      pivot: {x: 0.5603734, y: -0.001909422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 19}
+        - {x: 46.5, y: -20}
+        - {x: -55.5, y: -20}
+      - - {x: 17.5, y: 19}
+        - {x: 55.5, y: 1}
+        - {x: 46.5, y: -20}
+      - - {x: 17.5, y: 19}
+        - {x: -55.5, y: -20}
+        - {x: -34.5, y: 20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_EarlyHastati_Attack_0002
+      rect:
+        serializedVersion: 2
+        x: 2.036285
+        y: 269.0268
+        width: 91.96371
+        height: 83.97325
+      alignment: 9
+      pivot: {x: 0.2768887, y: -0.02413583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: -42.5}
+        - {x: 12.5, y: 12.5}
+        - {x: 46.5, y: -30.5}
+      - - {x: -36.5, y: -42.5}
+        - {x: -46.5, y: 26.5}
+        - {x: 12.5, y: 12.5}
+      - - {x: -36.5, y: -42.5}
+        - {x: 46.5, y: -30.5}
+        - {x: 46.5, y: -38.5}
+      - - {x: 12.5, y: 12.5}
+        - {x: -46.5, y: 26.5}
+        - {x: -34.5, y: 42.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_EarlyHastati_Death_0002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 425
+        width: 96
+        height: 77.98709
+      alignment: 9
+      pivot: {x: 0.484375, y: -0.01282263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -30}
+        - {x: -48, y: 1}
+        - {x: 12, y: 43}
+      - - {x: -48, y: -43}
+        - {x: -48, y: 1}
+        - {x: -15, y: -30}
+      - - {x: -48, y: -43}
+        - {x: -15, y: -30}
+        - {x: -25, y: -43}
+      - - {x: 20, y: -29}
+        - {x: -15, y: -30}
+        - {x: 12, y: 43}
+      - - {x: 48, y: 7}
+        - {x: 20, y: -29}
+        - {x: 12, y: 43}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_EarlyHastati_Running_0000
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 230.006
+        width: 66.9665
+        height: 84.95112
+      alignment: 9
+      pivot: {x: 0.2911904, y: -0.01184171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: 18.5}
+        - {x: -11.5, y: -43.5}
+        - {x: -34.5, y: -29.5}
+      - - {x: 34.5, y: 18.5}
+        - {x: 26.5, y: -43.5}
+        - {x: -11.5, y: -43.5}
+      - - {x: 34.5, y: 18.5}
+        - {x: -34.5, y: -29.5}
+        - {x: -17.5, y: 43.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_EarlyHastati_Running_0003
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 318.0761
+        width: 63.92388
+        height: 82.84776
+      alignment: 9
+      pivot: {x: 0.2424759, y: -0.01298902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: 6.5}
+        - {x: 20.5, y: -44.5}
+        - {x: -33.5, y: -19.5}
+      - - {x: 20.5, y: -44.5}
+        - {x: -21.5, y: -43.5}
+        - {x: -33.5, y: -19.5}
+      - - {x: 33.5, y: 6.5}
+        - {x: -33.5, y: -19.5}
+        - {x: -19.5, y: 44.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_EarlyHastati_Javaline_0000
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 433
+        width: 78.92388
+        height: 75.97325
+      alignment: 9
+      pivot: {x: 0.4498005, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -39}
+        - {x: -42.5, y: 32}
+        - {x: -1.5, y: 39}
+      - - {x: 16.5, y: -39}
+        - {x: -24.5, y: -39}
+        - {x: -1.5, y: 39}
+      - - {x: 42.5, y: 7}
+        - {x: 28.5, y: -34}
+        - {x: 16.5, y: -39}
+      - - {x: 42.5, y: 7}
+        - {x: 16.5, y: -39}
+        - {x: -1.5, y: 39}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_EarlyHastati_Idle_0000
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 262.018
+        width: 87.9212
+        height: 72.98196
+      alignment: 9
+      pivot: {x: 0.4833874, y: -0.02765116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -35.5}
+        - {x: -44, y: 36.5}
+        - {x: 8, y: 36.5}
+      - - {x: 44, y: 10.5}
+        - {x: 33, y: -36.5}
+        - {x: -16, y: -35.5}
+      - - {x: 44, y: 10.5}
+        - {x: -16, y: -35.5}
+        - {x: 8, y: 36.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_EarlyHastati_Javaline_0002
+      rect:
+        serializedVersion: 2
+        x: 173.0761
+        y: 430
+        width: 89.92388
+        height: 80.92388
+      alignment: 9
+      pivot: {x: 0.3605702, y: -0.03707188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: -0.5}
+        - {x: -13, y: 36.5}
+        - {x: 46, y: 40.5}
+      - - {x: -46, y: 8.5}
+        - {x: 6, y: -40.5}
+        - {x: -41, y: -40.5}
+      - - {x: -46, y: 8.5}
+        - {x: -13, y: 36.5}
+        - {x: 6, y: -40.5}
+      - - {x: 46, y: -0.5}
+        - {x: 6, y: -40.5}
+        - {x: -13, y: 36.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_EarlyHastati_Attack_0003
+      rect:
+        serializedVersion: 2
+        x: 312.0268
+        y: 372
+        width: 60.97325
+        height: 89
+      alignment: 9
+      pivot: {x: 0.3521747, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: -40.5}
+        - {x: 8.5, y: -44.5}
+        - {x: -30.5, y: 3.5}
+      - - {x: 8.5, y: -44.5}
+        - {x: -29.5, y: -44.5}
+        - {x: -30.5, y: 3.5}
+      - - {x: 30.5, y: 0.5}
+        - {x: 13.5, y: -40.5}
+        - {x: -30.5, y: 3.5}
+      - - {x: 30.5, y: 0.5}
+        - {x: -30.5, y: 3.5}
+        - {x: -2.5, y: 44.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_EarlyHastati_Javaline_0003
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 66.07612
+        width: 66.92388
+        height: 79.92388
+      alignment: 9
+      pivot: {x: 0.470684, y: -0.01346429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -38.5}
+        - {x: 25.5, y: 15.5}
+        - {x: 35.5, y: -40.5}
+      - - {x: -23.5, y: -38.5}
+        - {x: -35.5, y: -2.5}
+        - {x: 25.5, y: 15.5}
+      - - {x: 25.5, y: 15.5}
+        - {x: -35.5, y: -2.5}
+        - {x: -12.5, y: 40.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_EarlyHastati_Idle_0002
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 436.0268
+        width: 85
+        height: 73.89713
+      alignment: 9
+      pivot: {x: 0.4764706, y: -0.02742683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: -38}
+        - {x: 6.5, y: 36}
+        - {x: 42.5, y: 11}
+      - - {x: 6.5, y: 36}
+        - {x: 20.5, y: -38}
+        - {x: -16.5, y: -36}
+      - - {x: 20.5, y: -38}
+        - {x: 42.5, y: 11}
+        - {x: 42.5, y: -16}
+      - - {x: 6.5, y: 36}
+        - {x: -16.5, y: -36}
+        - {x: -42.5, y: 38}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_EarlyHastati_Attack_0000
+      rect:
+        serializedVersion: 2
+        x: 5.042908
+        y: 179.0347
+        width: 77.88097
+        height: 74.9386
+      alignment: 9
+      pivot: {x: 0.4295926, y: -0.01380667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.5, y: 5}
+        - {x: -43.5, y: 19}
+        - {x: -16.5, y: 44}
+      - - {x: 43.5, y: 5}
+        - {x: 25.5, y: -44}
+        - {x: -20.5, y: -41}
+      - - {x: 43.5, y: 5}
+        - {x: -20.5, y: -41}
+        - {x: -43.5, y: 19}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ROM_EarlyHastati_Idle_0000: 21300016
+      ROM_EarlyHastati_Attack_0002: 21300004
+      ROM_EarlyHastati_Javaline_0000: 21300024
+      ROM_EarlyHastati_Death_0002: 21300012
+      ROM_EarlyHastati_Attack_0000: 21300000
+      ROM_EarlyHastati_Death_0001: 21300010
+      ROM_EarlyHastati_Javaline_0001: 21300026
+      ROM_EarlyHastati_Javaline_0003: 21300030
+      ROM_EarlyHastati_Idle_0003: 21300022
+      ROM_EarlyHastati_Attack_0003: 21300006
+      ROM_EarlyHastati_Running_0002: 21300036
+      ROM_EarlyHastati_Running_0000: 21300032
+      ROM_EarlyHastati_Idle_0002: 21300020
+      ROM_EarlyHastati_Idle_0001: 21300018
+      ROM_EarlyHastati_Attack_0001: 21300002
+      ROM_EarlyHastati_Javaline_0002: 21300028
+      ROM_EarlyHastati_Death_0003: 21300014
+      ROM_EarlyHastati_Running_0001: 21300034
+      ROM_EarlyHastati_Death_0000: 21300008
+      ROM_EarlyHastati_Running_0003: 21300038
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

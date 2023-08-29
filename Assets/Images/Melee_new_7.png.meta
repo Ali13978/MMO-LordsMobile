@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: b11d9f0dbe244214be297e836a0ddf79
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ROM_Legionary_Attack_0000
+  - first:
+      213: 21300002
+    second: ROM_Legionary_Attack_0001
+  - first:
+      213: 21300004
+    second: ROM_Legionary_Attack_0002
+  - first:
+      213: 21300006
+    second: ROM_Legionary_Attack_0003
+  - first:
+      213: 21300008
+    second: ROM_Legionary_Death_0000
+  - first:
+      213: 21300010
+    second: ROM_Legionary_Death_0001
+  - first:
+      213: 21300012
+    second: ROM_Legionary_Death_0002
+  - first:
+      213: 21300014
+    second: ROM_Legionary_Death_0003
+  - first:
+      213: 21300016
+    second: ROM_Legionary_Idle_0000
+  - first:
+      213: 21300018
+    second: ROM_Legionary_Idle_0001
+  - first:
+      213: 21300020
+    second: ROM_Legionary_Idle_0002
+  - first:
+      213: 21300022
+    second: ROM_Legionary_Idle_0003
+  - first:
+      213: 21300024
+    second: ROM_Legionary_Javaline_0000
+  - first:
+      213: 21300026
+    second: ROM_Legionary_Javaline_0001
+  - first:
+      213: 21300028
+    second: ROM_Legionary_Javaline_0002
+  - first:
+      213: 21300030
+    second: ROM_Legionary_Javaline_0003
+  - first:
+      213: 21300032
+    second: ROM_Legionary_Running_0000
+  - first:
+      213: 21300034
+    second: ROM_Legionary_Running_0001
+  - first:
+      213: 21300036
+    second: ROM_Legionary_Running_0002
+  - first:
+      213: 21300038
+    second: ROM_Legionary_Running_0003
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 13
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ROM_Legionary_Attack_0001
+      rect:
+        serializedVersion: 2
+        x: 6.058743
+        y: 7.042908
+        width: 77.94125
+        height: 84.88097
+      alignment: 9
+      pivot: {x: 0.5316986, y: -0.02406791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: -45}
+        - {x: 11.5, y: 35}
+        - {x: 41.5, y: 5}
+      - - {x: -19.5, y: -45}
+        - {x: 41.5, y: 5}
+        - {x: 41.5, y: -42}
+      - - {x: 11.5, y: 35}
+        - {x: -19.5, y: -45}
+        - {x: -41.5, y: 45}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Legionary_Running_0000
+      rect:
+        serializedVersion: 2
+        x: 268.0429
+        y: 428.0429
+        width: 71.92081
+        height: 81.93034
+      alignment: 9
+      pivot: {x: 0.2566308, y: -0.0005237097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 35.5}
+        - {x: 41.5, y: -3.5}
+        - {x: 25.5, y: -40.5}
+      - - {x: -1.5, y: 35.5}
+        - {x: 25.5, y: -40.5}
+        - {x: -41.5, y: -41.5}
+      - - {x: -1.5, y: 35.5}
+        - {x: -41.5, y: -41.5}
+        - {x: -34.5, y: 41.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Legionary_Idle_0003
+      rect:
+        serializedVersion: 2
+        x: 236.0429
+        y: 350.0429
+        width: 70.94418
+        height: 75.88097
+      alignment: 9
+      pivot: {x: 0.4575018, y: -0.02692253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -39}
+        - {x: -38, y: 33}
+        - {x: 5, y: 39}
+      - - {x: 38, y: 6}
+        - {x: 33, y: -35}
+        - {x: -28, y: -39}
+      - - {x: 38, y: 6}
+        - {x: -28, y: -39}
+        - {x: 5, y: 39}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Legionary_Attack_0000
+      rect:
+        serializedVersion: 2
+        x: 308.0268
+        y: 351.0429
+        width: 71.89713
+        height: 76.88097
+      alignment: 9
+      pivot: {x: 0.4655712, y: -0.02657234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -39}
+        - {x: -38.5, y: 31}
+        - {x: 4.5, y: 39}
+      - - {x: 38.5, y: 5}
+        - {x: 33.5, y: -36}
+        - {x: -21.5, y: -39}
+      - - {x: 38.5, y: 5}
+        - {x: -21.5, y: -39}
+        - {x: 4.5, y: 39}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Legionary_Idle_0002
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 351
+        width: 82
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5304878, y: -0.04054054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -37}
+        - {x: -41, y: 37}
+        - {x: 13, y: 37}
+      - - {x: 41, y: 9}
+        - {x: 41, y: -37}
+        - {x: -12, y: -37}
+      - - {x: 41, y: 9}
+        - {x: -12, y: -37}
+        - {x: 13, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Legionary_Attack_0002
+      rect:
+        serializedVersion: 2
+        x: 3.051317
+        y: 184
+        width: 91.94868
+        height: 78.97325
+      alignment: 9
+      pivot: {x: 0.2767705, y: -0.05065006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: -42}
+        - {x: -47, y: 28}
+        - {x: -23, y: 42}
+      - - {x: 47, y: -33}
+        - {x: 47, y: -42}
+        - {x: -36, y: -42}
+      - - {x: 47, y: -33}
+        - {x: -36, y: -42}
+        - {x: -23, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Legionary_Death_0003
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 35
+        width: 95
+        height: 38
+      alignment: 9
+      pivot: {x: 0.531579, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: -19}
+        - {x: -47.5, y: 19}
+        - {x: 47.5, y: 19}
+      - - {x: 47.5, y: -19}
+        - {x: -47.5, y: -19}
+        - {x: 47.5, y: 19}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Legionary_Death_0002
+      rect:
+        serializedVersion: 2
+        x: 3.042908
+        y: 270.0761
+        width: 92.93034
+        height: 81.92388
+      alignment: 9
+      pivot: {x: 0.5537168, y: -0.0009290434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -25}
+        - {x: -48, y: 5}
+        - {x: 24, y: 41}
+      - - {x: -37, y: -40}
+        - {x: -48, y: 5}
+        - {x: -4, y: -25}
+      - - {x: -37, y: -40}
+        - {x: -4, y: -25}
+        - {x: -19, y: -41}
+      - - {x: 31, y: -25}
+        - {x: -4, y: -25}
+        - {x: 24, y: 41}
+      - - {x: 48, y: 17}
+        - {x: 31, y: -25}
+        - {x: 24, y: 41}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Legionary_Javaline_0002
+      rect:
+        serializedVersion: 2
+        x: 4.026751
+        y: 428
+        width: 103.9733
+        height: 82.98709
+      alignment: 9
+      pivot: {x: 0.3507945, y: -0.0361502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53.5, y: 37.5}
+        - {x: -24.5, y: 34.5}
+        - {x: 53.5, y: 41.5}
+      - - {x: -53.5, y: -7.5}
+        - {x: 7.5, y: -8.5}
+        - {x: -39.5, y: -41.5}
+      - - {x: 7.5, y: -8.5}
+        - {x: 7.5, y: -41.5}
+        - {x: -39.5, y: -41.5}
+      - - {x: -53.5, y: -7.5}
+        - {x: -24.5, y: 34.5}
+        - {x: 7.5, y: -8.5}
+      - - {x: 37.5, y: -0.5}
+        - {x: 7.5, y: -8.5}
+        - {x: -24.5, y: 34.5}
+      - - {x: 53.5, y: 37.5}
+        - {x: 37.5, y: -0.5}
+        - {x: -24.5, y: 34.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Legionary_Idle_0001
+      rect:
+        serializedVersion: 2
+        x: 236.0429
+        y: 350.0429
+        width: 70.94418
+        height: 75.88097
+      alignment: 9
+      pivot: {x: 0.4575018, y: -0.02692253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -39}
+        - {x: -38, y: 33}
+        - {x: 5, y: 39}
+      - - {x: 38, y: 6}
+        - {x: 33, y: -35}
+        - {x: -28, y: -39}
+      - - {x: 38, y: 6}
+        - {x: -28, y: -39}
+        - {x: 5, y: 39}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Legionary_Javaline_0003
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 78.04291
+        width: 73.98709
+        height: 85.95709
+      alignment: 9
+      pivot: {x: 0.4798134, y: -0.0237666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -43.5}
+        - {x: 31, y: 7.5}
+        - {x: 39, y: -40.5}
+      - - {x: -21, y: -43.5}
+        - {x: -39, y: -3.5}
+        - {x: 31, y: 7.5}
+      - - {x: 31, y: 7.5}
+        - {x: -39, y: -3.5}
+        - {x: -11, y: 43.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Legionary_Attack_0003
+      rect:
+        serializedVersion: 2
+        x: 168.0761
+        y: 330.0268
+        width: 64.84776
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.4074755, y: -0.0003480483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 3.5}
+        - {x: -16, y: 38.5}
+        - {x: 10, y: 38.5}
+      - - {x: 8, y: -38.5}
+        - {x: 34, y: 0.5}
+        - {x: 22, y: -32.5}
+      - - {x: 8, y: -38.5}
+        - {x: -23, y: -35.5}
+        - {x: -34, y: 3.5}
+      - - {x: 8, y: -38.5}
+        - {x: -34, y: 3.5}
+        - {x: 34, y: 0.5}
+      - - {x: 34, y: 0.5}
+        - {x: -34, y: 3.5}
+        - {x: 10, y: 38.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Legionary_Death_0000
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 351.0429
+        width: 79.92388
+        height: 76.88097
+      alignment: 9
+      pivot: {x: 0.5192441, y: -0.02657234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: 5}
+        - {x: 36.5, y: -36}
+        - {x: -17.5, y: -39}
+      - - {x: 8.5, y: 38}
+        - {x: 41.5, y: 5}
+        - {x: -17.5, y: -39}
+      - - {x: 8.5, y: 38}
+        - {x: -17.5, y: -39}
+        - {x: -41.5, y: 39}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Legionary_Javaline_0000
+      rect:
+        serializedVersion: 2
+        x: 185.0429
+        y: 430
+        width: 80.88097
+        height: 80.94027
+      alignment: 9
+      pivot: {x: 0.4136584, y: -0.03706437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 9.499996}
+        - {x: -45, y: 26.5}
+        - {x: 33, y: 40.5}
+      - - {x: 11, y: -40.5}
+        - {x: -20, y: -40.5}
+        - {x: -45, y: 26.5}
+      - - {x: 45, y: 9.499996}
+        - {x: 11, y: -40.5}
+        - {x: -45, y: 26.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Legionary_Running_0003
+      rect:
+        serializedVersion: 2
+        x: 351.0268
+        y: 428.0513
+        width: 71.89713
+        height: 80.92194
+      alignment: 9
+      pivot: {x: 0.2569398, y: -0.000634322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 4.5}
+        - {x: 39.5, y: -41.5}
+        - {x: -38.5, y: -41.5}
+      - - {x: -1.5, y: 34.5}
+        - {x: 30.5, y: 4.5}
+        - {x: -38.5, y: -41.5}
+      - - {x: -1.5, y: 34.5}
+        - {x: -38.5, y: -41.5}
+        - {x: -39.5, y: 41.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Legionary_Running_0002
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 429.0335
+        width: 84.92388
+        height: 81.95359
+      alignment: 9
+      pivot: {x: 0.3709204, y: -0.0004088692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 29}
+        - {x: 4.5, y: -41}
+        - {x: -47.5, y: -29}
+      - - {x: 47.5, y: -4}
+        - {x: 28.5, y: -39}
+        - {x: 4.5, y: -41}
+      - - {x: 9.5, y: 29}
+        - {x: 47.5, y: -4}
+        - {x: 4.5, y: -41}
+      - - {x: 9.5, y: 29}
+        - {x: -47.5, y: -29}
+        - {x: -27.5, y: 41}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Legionary_Death_0001
+      rect:
+        serializedVersion: 2
+        x: 1.07612
+        y: 339
+        width: 91.89713
+        height: 85.92388
+      alignment: 9
+      pivot: {x: 0.4616453, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -9}
+        - {x: -47, y: 26}
+        - {x: -11, y: 43}
+      - - {x: 19, y: -9}
+        - {x: 19, y: -29}
+        - {x: -8, y: -43}
+      - - {x: 19, y: -9}
+        - {x: -8, y: -43}
+        - {x: -46, y: -17}
+      - - {x: 19, y: -9}
+        - {x: -46, y: -17}
+        - {x: -47, y: 26}
+      - - {x: 38, y: 35}
+        - {x: 47, y: -1}
+        - {x: 19, y: -9}
+      - - {x: 38, y: 35}
+        - {x: 19, y: -9}
+        - {x: -11, y: 43}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Legionary_Idle_0000
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 351.0429
+        width: 79.92388
+        height: 76.88097
+      alignment: 9
+      pivot: {x: 0.5192441, y: -0.02657234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: 5}
+        - {x: 36.5, y: -36}
+        - {x: -17.5, y: -39}
+      - - {x: 8.5, y: 38}
+        - {x: 41.5, y: 5}
+        - {x: -17.5, y: -39}
+      - - {x: 8.5, y: 38}
+        - {x: -17.5, y: -39}
+        - {x: -41.5, y: 39}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Legionary_Running_0001
+      rect:
+        serializedVersion: 2
+        x: 432.0761
+        y: 425.0513
+        width: 73.84776
+        height: 80.92194
+      alignment: 9
+      pivot: {x: 0.2765675, y: -0.000634322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 1}
+        - {x: 32, y: -43}
+        - {x: -37, y: -43}
+      - - {x: 7, y: 28}
+        - {x: 38, y: 1}
+        - {x: -37, y: -43}
+      - - {x: 7, y: 28}
+        - {x: -37, y: -43}
+        - {x: -38, y: 43}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Legionary_Javaline_0001
+      rect:
+        serializedVersion: 2
+        x: 2.07612
+        y: 95
+        width: 86.92388
+        height: 85.96803
+      alignment: 9
+      pivot: {x: 0.3730147, y: -0.01163223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: 8.999996}
+        - {x: -44, y: 25}
+        - {x: 44, y: 43}
+      - - {x: 4, y: -43}
+        - {x: -42, y: -39}
+        - {x: -44, y: 25}
+      - - {x: 44, y: 8.999996}
+        - {x: 4, y: -43}
+        - {x: -44, y: 25}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ROM_Legionary_Running_0001: 21300034
+      ROM_Legionary_Idle_0002: 21300020
+      ROM_Legionary_Death_0000: 21300008
+      ROM_Legionary_Running_0000: 21300032
+      ROM_Legionary_Death_0003: 21300014
+      ROM_Legionary_Idle_0003: 21300022
+      ROM_Legionary_Attack_0003: 21300006
+      ROM_Legionary_Death_0001: 21300010
+      ROM_Legionary_Idle_0001: 21300018
+      ROM_Legionary_Death_0002: 21300012
+      ROM_Legionary_Running_0002: 21300036
+      ROM_Legionary_Attack_0000: 21300000
+      ROM_Legionary_Javaline_0002: 21300028
+      ROM_Legionary_Idle_0000: 21300016
+      ROM_Legionary_Javaline_0001: 21300026
+      ROM_Legionary_Javaline_0003: 21300030
+      ROM_Legionary_Javaline_0000: 21300024
+      ROM_Legionary_Running_0003: 21300038
+      ROM_Legionary_Attack_0001: 21300002
+      ROM_Legionary_Attack_0002: 21300004
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

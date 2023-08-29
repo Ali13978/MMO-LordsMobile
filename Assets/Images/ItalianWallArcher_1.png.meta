@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: d447986c52164c9fb5f520018497dec9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ITA_PeasantArcher-2_Attack_0000
+  - first:
+      213: 21300002
+    second: ITA_PeasantArcher-2_Attack_0001
+  - first:
+      213: 21300004
+    second: ITA_PeasantArcher-2_Attack_0002
+  - first:
+      213: 21300006
+    second: ITA_PeasantArcher-2_Attack_0003
+  - first:
+      213: 21300008
+    second: ITA_PeasantArcher-2_Attack_0004
+  - first:
+      213: 21300010
+    second: ITA_PeasantArcher-2_Idle_0000
+  - first:
+      213: 21300012
+    second: ITA_PeasantArcher-2_Idle_0001
+  - first:
+      213: 21300014
+    second: ITA_PeasantArcher-2_Idle_0002
+  - first:
+      213: 21300016
+    second: ITA_PeasantArcher-2_Idle_0003
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 13
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ITA_PeasantArcher-2_Attack_0001
+      rect:
+        serializedVersion: 2
+        x: 192.0267
+        y: 179.0761
+        width: 48.97325
+        height: 65.89038
+      alignment: 9
+      pivot: {x: 0.5609848, y: -0.1073924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: -37}
+        - {x: -9.5, y: -38}
+        - {x: -24.5, y: -7}
+      - - {x: 24.5, y: 19}
+        - {x: 24.5, y: -37}
+        - {x: -24.5, y: -7}
+      - - {x: 24.5, y: 19}
+        - {x: -24.5, y: -7}
+        - {x: -21.5, y: 38}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantArcher-2_Attack_0002
+      rect:
+        serializedVersion: 2
+        x: 66.02675
+        y: 45.07612
+        width: 56.92776
+        height: 65.91097
+      alignment: 9
+      pivot: {x: 0.5177307, y: -0.1073588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -2}
+        - {x: -24.5, y: 33}
+        - {x: 14.5, y: 33}
+      - - {x: 28.5, y: 8}
+        - {x: 14.5, y: -32}
+        - {x: -28.5, y: -2}
+      - - {x: 14.5, y: -32}
+        - {x: -11.5, y: -33}
+        - {x: -28.5, y: -2}
+      - - {x: 28.5, y: 8}
+        - {x: -28.5, y: -2}
+        - {x: 14.5, y: 33}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantArcher-2_Idle_0001
+      rect:
+        serializedVersion: 2
+        x: 10.01979
+        y: 178.0761
+        width: 57.98021
+        height: 65.84776
+      alignment: 9
+      pivot: {x: 0.4567112, y: -0.1074619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -40.5}
+        - {x: 33.5, y: -1.5}
+        - {x: 33.5, y: -29.5}
+      - - {x: -8.5, y: -40.5}
+        - {x: -33.5, y: 8.5}
+        - {x: 33.5, y: -1.5}
+      - - {x: 33.5, y: -1.5}
+        - {x: -33.5, y: 8.5}
+        - {x: 5.5, y: 40.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantArcher-2_Idle_0000
+      rect:
+        serializedVersion: 2
+        x: 6.026751
+        y: 37.07612
+        width: 58.89713
+        height: 64.84776
+      alignment: 9
+      pivot: {x: 0.4494829, y: -0.109119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: -13}
+        - {x: -33, y: 20}
+        - {x: 13, y: 35}
+      - - {x: 12, y: -34}
+        - {x: -21, y: -35}
+        - {x: -33, y: 20}
+      - - {x: 33, y: -13}
+        - {x: 12, y: -34}
+        - {x: -33, y: 20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantArcher-2_Attack_0004
+      rect:
+        serializedVersion: 2
+        x: 64.02675
+        y: 113.0761
+        width: 57.89713
+        height: 64.92388
+      alignment: 9
+      pivot: {x: 0.4917904, y: -0.108991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 2.5}
+        - {x: -12, y: 32.5}
+        - {x: 18, y: 32.5}
+      - - {x: -33, y: 11.5}
+        - {x: -12, y: 32.5}
+        - {x: 33, y: 2.5}
+      - - {x: 33, y: 2.5}
+        - {x: 18, y: -32.5}
+        - {x: -11, y: -32.5}
+      - - {x: -33, y: 11.5}
+        - {x: 33, y: 2.5}
+        - {x: -11, y: -32.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantArcher-2_Attack_0000
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 188.0761
+        width: 70.92388
+        height: 65.84776
+      alignment: 9
+      pivot: {x: 0.5428355, y: -0.1074619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -27.5}
+        - {x: -36.5, y: 34.5}
+        - {x: 17.5, y: 36.5}
+      - - {x: 36.5, y: -9.5}
+        - {x: -15.5, y: -27.5}
+        - {x: 17.5, y: 36.5}
+      - - {x: 36.5, y: -9.5}
+        - {x: 10.5, y: -36.5}
+        - {x: -15.5, y: -27.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantArcher-2_Idle_0003
+      rect:
+        serializedVersion: 2
+        x: 10.01979
+        y: 178.0761
+        width: 57.98021
+        height: 65.84776
+      alignment: 9
+      pivot: {x: 0.4567112, y: -0.1074619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -40.5}
+        - {x: 33.5, y: -1.5}
+        - {x: 33.5, y: -29.5}
+      - - {x: -8.5, y: -40.5}
+        - {x: -33.5, y: 8.5}
+        - {x: 33.5, y: -1.5}
+      - - {x: 33.5, y: -1.5}
+        - {x: -33.5, y: 8.5}
+        - {x: 5.5, y: 40.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantArcher-2_Idle_0002
+      rect:
+        serializedVersion: 2
+        x: 1.019787
+        y: 107.0761
+        width: 65.98021
+        height: 65.84776
+      alignment: 9
+      pivot: {x: 0.4013357, y: -0.1074618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -35}
+        - {x: -33, y: 25}
+        - {x: 13, y: 35}
+      - - {x: 33, y: -32}
+        - {x: -32, y: -35}
+        - {x: 13, y: 35}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantArcher-2_Attack_0003
+      rect:
+        serializedVersion: 2
+        x: 129.0267
+        y: 188.0761
+        width: 58.89713
+        height: 66.84776
+      alignment: 9
+      pivot: {x: 0.5173979, y: -0.1058543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 0.5}
+        - {x: -20.5, y: 33.5}
+        - {x: 16.5, y: 34.5}
+      - - {x: 31.5, y: 11.5}
+        - {x: -31.5, y: 0.5}
+        - {x: 16.5, y: 34.5}
+      - - {x: -16.5, y: -30.5}
+        - {x: -31.5, y: 0.5}
+        - {x: 31.5, y: 11.5}
+      - - {x: -16.5, y: -30.5}
+        - {x: 31.5, y: 11.5}
+        - {x: 11.5, y: -34.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ITA_PeasantArcher-2_Idle_0000: 21300010
+      ITA_PeasantArcher-2_Attack_0003: 21300006
+      ITA_PeasantArcher-2_Attack_0000: 21300000
+      ITA_PeasantArcher-2_Idle_0003: 21300016
+      ITA_PeasantArcher-2_Idle_0002: 21300014
+      ITA_PeasantArcher-2_Attack_0004: 21300008
+      ITA_PeasantArcher-2_Attack_0002: 21300004
+      ITA_PeasantArcher-2_Attack_0001: 21300002
+      ITA_PeasantArcher-2_Idle_0001: 21300012
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

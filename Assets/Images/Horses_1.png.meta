@@ -1,0 +1,1221 @@
+fileFormatVersion: 2
+guid: f2e14e9e6ddd423ea53c40219210e881
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: horse-Sabino_death_0000
+  - first:
+      213: 21300002
+    second: horse-Sabino_death_0001
+  - first:
+      213: 21300004
+    second: horse-Sabino_death_0002
+  - first:
+      213: 21300006
+    second: horse-Sabino_death_0003
+  - first:
+      213: 21300008
+    second: horse-Sabino_death_0004
+  - first:
+      213: 21300010
+    second: horse-Sabino_idle_0000
+  - first:
+      213: 21300012
+    second: horse-Sabino_idle_0001
+  - first:
+      213: 21300014
+    second: horse-Sabino_idle_0002
+  - first:
+      213: 21300016
+    second: horse-Sabino_idle_0003
+  - first:
+      213: 21300018
+    second: horse-Sabino_running_0000
+  - first:
+      213: 21300020
+    second: horse-Sabino_running_0001
+  - first:
+      213: 21300022
+    second: horse-Sabino_running_0002
+  - first:
+      213: 21300024
+    second: horse-Sabino_running_0003
+  - first:
+      213: 21300026
+    second: horse-Sabino_running_0004
+  - first:
+      213: 21300028
+    second: horse-Sabino_running_0005
+  - first:
+      213: 21300030
+    second: horse-White_death_0000
+  - first:
+      213: 21300032
+    second: horse-White_death_0001
+  - first:
+      213: 21300034
+    second: horse-White_death_0002
+  - first:
+      213: 21300036
+    second: horse-White_death_0003
+  - first:
+      213: 21300038
+    second: horse-White_death_0004
+  - first:
+      213: 21300040
+    second: horse-White_idle_0000
+  - first:
+      213: 21300042
+    second: horse-White_idle_0001
+  - first:
+      213: 21300044
+    second: horse-White_idle_0002
+  - first:
+      213: 21300046
+    second: horse-White_idle_0003
+  - first:
+      213: 21300048
+    second: horse-White_running_0000
+  - first:
+      213: 21300050
+    second: horse-White_running_0001
+  - first:
+      213: 21300052
+    second: horse-White_running_0002
+  - first:
+      213: 21300054
+    second: horse-White_running_0003
+  - first:
+      213: 21300056
+    second: horse-White_running_0004
+  - first:
+      213: 21300058
+    second: horse-White_running_0005
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: horse-White_idle_0003
+      rect:
+        serializedVersion: 2
+        x: 1.051317
+        y: 39
+        width: 85.94868
+        height: 83
+      alignment: 9
+      pivot: {x: 0.8254772, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 15.5}
+        - {x: -39, y: 11.5}
+        - {x: 24, y: 41.5}
+      - - {x: -28, y: -38.5}
+        - {x: -43, y: -15.5}
+        - {x: -39, y: 11.5}
+      - - {x: 20, y: -41.5}
+        - {x: -28, y: -38.5}
+        - {x: -39, y: 11.5}
+      - - {x: 43, y: 15.5}
+        - {x: 20, y: -41.5}
+        - {x: -39, y: 11.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse-White_running_0001
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2
+        width: 88.96371
+        height: 74
+      alignment: 9
+      pivot: {x: 0.8093187, y: -0.02702703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 21}
+        - {x: 9, y: 33}
+        - {x: 33, y: 37}
+      - - {x: -45, y: -8.999998}
+        - {x: -38, y: 18}
+        - {x: 3, y: 21}
+      - - {x: 45, y: 14}
+        - {x: 3, y: 21}
+        - {x: 33, y: 37}
+      - - {x: -17, y: -37}
+        - {x: -45, y: -8.999998}
+        - {x: 3, y: 21}
+      - - {x: 26, y: -37}
+        - {x: -17, y: -37}
+        - {x: 3, y: 21}
+      - - {x: 45, y: 14}
+        - {x: 26, y: -37}
+        - {x: 3, y: 21}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse-White_idle_0001
+      rect:
+        serializedVersion: 2
+        x: 1.051317
+        y: 176.0761
+        width: 85.94868
+        height: 81.92388
+      alignment: 9
+      pivot: {x: 0.8254772, y: -0.01313568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 15.5}
+        - {x: -39, y: 11.5}
+        - {x: 24, y: 41.5}
+      - - {x: -28, y: -38.5}
+        - {x: -43, y: -15.5}
+        - {x: -39, y: 11.5}
+      - - {x: 20, y: -41.5}
+        - {x: -28, y: -38.5}
+        - {x: -39, y: 11.5}
+      - - {x: 43, y: 15.5}
+        - {x: 20, y: -41.5}
+        - {x: -39, y: 11.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse-Sabino_running_0005
+      rect:
+        serializedVersion: 2
+        x: 15.07612
+        y: 434.0761
+        width: 84.8876
+        height: 72.84776
+      alignment: 9
+      pivot: {x: 0.8001626, y: -0.02849931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50, y: 11.5}
+        - {x: -33, y: 14.5}
+        - {x: 34, y: 39.5}
+      - - {x: 26, y: -39.5}
+        - {x: -50, y: -32.5}
+        - {x: -33, y: 14.5}
+      - - {x: 50, y: 11.5}
+        - {x: 26, y: -39.5}
+        - {x: -33, y: 14.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse-Sabino_running_0000
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 138
+        width: 90
+        height: 76
+      alignment: 9
+      pivot: {x: 0.8444445, y: -0.02631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 15}
+        - {x: -33, y: 17}
+        - {x: 30, y: 38}
+      - - {x: -16, y: -38}
+        - {x: -45, y: -9}
+        - {x: -33, y: 17}
+      - - {x: 45, y: 15}
+        - {x: 34, y: -38}
+        - {x: -16, y: -38}
+      - - {x: 45, y: 15}
+        - {x: -16, y: -38}
+        - {x: -33, y: 17}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse-Sabino_idle_0000
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 316.0761
+        width: 86
+        height: 79.92388
+      alignment: 9
+      pivot: {x: 0.8372093, y: -0.0134642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 13.5}
+        - {x: -38, y: 13.5}
+        - {x: 27, y: 40.5}
+      - - {x: -27, y: -37.5}
+        - {x: -43, y: -12.5}
+        - {x: -38, y: 13.5}
+      - - {x: 21, y: -40.5}
+        - {x: -27, y: -37.5}
+        - {x: -38, y: 13.5}
+      - - {x: 43, y: 13.5}
+        - {x: 21, y: -40.5}
+        - {x: -38, y: 13.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse-Sabino_running_0001
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 131
+        width: 88.96371
+        height: 72.92388
+      alignment: 9
+      pivot: {x: 0.8093187, y: -0.02742586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 21}
+        - {x: 9, y: 33}
+        - {x: 33, y: 37}
+      - - {x: -45, y: -8.999998}
+        - {x: -38, y: 18}
+        - {x: 3, y: 21}
+      - - {x: 45, y: 14}
+        - {x: 3, y: 21}
+        - {x: 33, y: 37}
+      - - {x: -17, y: -37}
+        - {x: -45, y: -8.999998}
+        - {x: 3, y: 21}
+      - - {x: 26, y: -37}
+        - {x: -17, y: -37}
+        - {x: 3, y: 21}
+      - - {x: 45, y: 14}
+        - {x: 26, y: -37}
+        - {x: 3, y: 21}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse-Sabino_death_0001
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 346
+        width: 87
+        height: 82.92388
+      alignment: 9
+      pivot: {x: 0.8390805, y: -0.0241185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.5, y: 7}
+        - {x: -43.5, y: 6}
+        - {x: 43.5, y: 42}
+      - - {x: 20.5, y: -42}
+        - {x: -41.5, y: -40}
+        - {x: -43.5, y: 6}
+      - - {x: 43.5, y: 7}
+        - {x: 20.5, y: -42}
+        - {x: -43.5, y: 6}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse-White_idle_0000
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 165
+        width: 86
+        height: 76.92388
+      alignment: 9
+      pivot: {x: 0.8372093, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 13.5}
+        - {x: -38, y: 13.5}
+        - {x: 27, y: 40.5}
+      - - {x: -27, y: -37.5}
+        - {x: -43, y: -12.5}
+        - {x: -38, y: 13.5}
+      - - {x: 21, y: -40.5}
+        - {x: -27, y: -37.5}
+        - {x: -38, y: 13.5}
+      - - {x: 43, y: 13.5}
+        - {x: 21, y: -40.5}
+        - {x: -38, y: 13.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse-White_death_0002
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 440
+        width: 107
+        height: 65.94868
+      alignment: 9
+      pivot: {x: 0.682243, y: -0.03032661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -35.5}
+        - {x: -34.5, y: 11.5}
+        - {x: -0.5, y: 11.5}
+      - - {x: -28.5, y: -35.5}
+        - {x: -53.5, y: -10.5}
+        - {x: -34.5, y: 11.5}
+      - - {x: 53.5, y: 7.5}
+        - {x: -0.5, y: 11.5}
+        - {x: 25.5, y: 35.5}
+      - - {x: 7.5, y: -35.5}
+        - {x: -28.5, y: -35.5}
+        - {x: -0.5, y: 11.5}
+      - - {x: 53.5, y: 7.5}
+        - {x: 7.5, y: -35.5}
+        - {x: -0.5, y: 11.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse-White_running_0004
+      rect:
+        serializedVersion: 2
+        x: 151.0267
+        y: 244.0429
+        width: 88.93034
+        height: 66.88097
+      alignment: 9
+      pivot: {x: 0.7530978, y: -0.04549736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: -34}
+        - {x: -46.5, y: 23}
+        - {x: 31.5, y: 34}
+      - - {x: 8.5, y: -34}
+        - {x: -42.5, y: -32}
+        - {x: -46.5, y: 23}
+      - - {x: 46.5, y: 8}
+        - {x: 8.5, y: -34}
+        - {x: 31.5, y: 34}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse-White_death_0001
+      rect:
+        serializedVersion: 2
+        x: 2.07612
+        y: 311.0429
+        width: 85.92388
+        height: 83.95709
+      alignment: 9
+      pivot: {x: 0.8370651, y: -0.02433276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.5, y: 7}
+        - {x: -43.5, y: 6}
+        - {x: 43.5, y: 42}
+      - - {x: 20.5, y: -42}
+        - {x: -41.5, y: -40}
+        - {x: -43.5, y: 6}
+      - - {x: 43.5, y: 7}
+        - {x: 20.5, y: -42}
+        - {x: -43.5, y: 6}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse-Sabino_idle_0002
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 313.0761
+        width: 92
+        height: 74.92388
+      alignment: 9
+      pivot: {x: 0.7934783, y: -0.01436272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -38}
+        - {x: 4, y: 38}
+        - {x: 46, y: 38}
+      - - {x: 22, y: -38}
+        - {x: -41, y: 15}
+        - {x: 4, y: 38}
+      - - {x: 22, y: -38}
+        - {x: -46, y: -35}
+        - {x: -41, y: 15}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse-Sabino_running_0004
+      rect:
+        serializedVersion: 2
+        x: 417.0268
+        y: 320.0429
+        width: 88.93034
+        height: 66.88097
+      alignment: 9
+      pivot: {x: 0.7530977, y: -0.04549736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: -34}
+        - {x: -46.5, y: 23}
+        - {x: 31.5, y: 34}
+      - - {x: 8.5, y: -34}
+        - {x: -42.5, y: -32}
+        - {x: -46.5, y: 23}
+      - - {x: 46.5, y: 8}
+        - {x: 8.5, y: -34}
+        - {x: 31.5, y: 34}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse-Sabino_running_0003
+      rect:
+        serializedVersion: 2
+        x: 9.042908
+        y: 249
+        width: 91.91418
+        height: 62.92388
+      alignment: 9
+      pivot: {x: 0.7502334, y: -0.06356888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -31.5}
+        - {x: -43, y: 20.5}
+        - {x: 34, y: 31.5}
+      - - {x: -10, y: -31.5}
+        - {x: -53, y: -31.5}
+        - {x: -43, y: 20.5}
+      - - {x: 53, y: -0.5}
+        - {x: -10, y: -31.5}
+        - {x: 34, y: 31.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse-Sabino_idle_0003
+      rect:
+        serializedVersion: 2
+        x: 299.0513
+        y: 384
+        width: 85.94868
+        height: 79.85065
+      alignment: 9
+      pivot: {x: 0.8254771, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 15.5}
+        - {x: -39, y: 11.5}
+        - {x: 24, y: 41.5}
+      - - {x: -28, y: -38.5}
+        - {x: -43, y: -15.5}
+        - {x: -39, y: 11.5}
+      - - {x: 20, y: -41.5}
+        - {x: -28, y: -38.5}
+        - {x: -39, y: 11.5}
+      - - {x: 43, y: 15.5}
+        - {x: 20, y: -41.5}
+        - {x: -39, y: 11.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse-Sabino_idle_0001
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 429.0761
+        width: 83.95709
+        height: 75.89713
+      alignment: 9
+      pivot: {x: 0.84567, y: -0.01417854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 15.5}
+        - {x: -39, y: 11.5}
+        - {x: 24, y: 41.5}
+      - - {x: -28, y: -38.5}
+        - {x: -43, y: -15.5}
+        - {x: -39, y: 11.5}
+      - - {x: 20, y: -41.5}
+        - {x: -28, y: -38.5}
+        - {x: -39, y: 11.5}
+      - - {x: 43, y: 15.5}
+        - {x: 20, y: -41.5}
+        - {x: -39, y: 11.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse-White_idle_0002
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 307.0761
+        width: 92
+        height: 74.92388
+      alignment: 9
+      pivot: {x: 0.7934783, y: -0.01436272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -38}
+        - {x: 4, y: 38}
+        - {x: 46, y: 38}
+      - - {x: 22, y: -38}
+        - {x: -41, y: 15}
+        - {x: 4, y: 38}
+      - - {x: 22, y: -38}
+        - {x: -46, y: -35}
+        - {x: -41, y: 15}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse-Sabino_death_0004
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 29.05413
+        width: 110.9239
+        height: 39.91912
+      alignment: 9
+      pivot: {x: 0.6400786, y: -0.07650787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 17.5}
+        - {x: 34, y: -19.5}
+        - {x: -43, y: -20.5}
+      - - {x: 12, y: 17.5}
+        - {x: 60, y: -6.5}
+        - {x: 34, y: -19.5}
+      - - {x: 12, y: 17.5}
+        - {x: -43, y: -20.5}
+        - {x: -60, y: 20.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse-Sabino_death_0002
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 391
+        width: 99.95063
+        height: 71
+      alignment: 9
+      pivot: {x: 0.7303606, y: -0.02816901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -35.5}
+        - {x: -34.5, y: 11.5}
+        - {x: -0.5, y: 11.5}
+      - - {x: -28.5, y: -35.5}
+        - {x: -53.5, y: -10.5}
+        - {x: -34.5, y: 11.5}
+      - - {x: 53.5, y: 7.5}
+        - {x: -0.5, y: 11.5}
+        - {x: 25.5, y: 35.5}
+      - - {x: 7.5, y: -35.5}
+        - {x: -28.5, y: -35.5}
+        - {x: -0.5, y: 11.5}
+      - - {x: 53.5, y: 7.5}
+        - {x: 7.5, y: -35.5}
+        - {x: -0.5, y: 11.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse-White_running_0002
+      rect:
+        serializedVersion: 2
+        x: 168.0761
+        y: 71.02675
+        width: 95.92388
+        height: 67.97325
+      alignment: 9
+      pivot: {x: 0.7498015, y: -0.02981686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -32}
+        - {x: -43, y: 24}
+        - {x: 33, y: 35}
+      - - {x: -23, y: -32}
+        - {x: -48, y: -7}
+        - {x: -43, y: 24}
+      - - {x: 14, y: -35}
+        - {x: -23, y: -32}
+        - {x: 33, y: 35}
+      - - {x: 48, y: 9}
+        - {x: 14, y: -35}
+        - {x: 33, y: 35}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse-White_death_0000
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 165
+        width: 86
+        height: 76.92388
+      alignment: 9
+      pivot: {x: 0.8372093, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 13.5}
+        - {x: -38, y: 13.5}
+        - {x: 27, y: 40.5}
+      - - {x: -27, y: -37.5}
+        - {x: -43, y: -12.5}
+        - {x: -38, y: 13.5}
+      - - {x: 21, y: -40.5}
+        - {x: -27, y: -37.5}
+        - {x: -38, y: 13.5}
+      - - {x: 43, y: 13.5}
+        - {x: 21, y: -40.5}
+        - {x: -38, y: 13.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse-White_death_0004
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 387
+        width: 110.9239
+        height: 39.97325
+      alignment: 9
+      pivot: {x: 0.6400786, y: -0.0750502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 17.5}
+        - {x: 34, y: -19.5}
+        - {x: -43, y: -20.5}
+      - - {x: 12, y: 17.5}
+        - {x: 60, y: -6.5}
+        - {x: 34, y: -19.5}
+      - - {x: 12, y: 17.5}
+        - {x: -43, y: -20.5}
+        - {x: -60, y: 20.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse-Sabino_death_0003
+      rect:
+        serializedVersion: 2
+        x: 286.0761
+        y: 469
+        width: 132.9239
+        height: 41.97325
+      alignment: 9
+      pivot: {x: 0.5034754, y: -0.0476494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.5, y: -18}
+        - {x: -67.5, y: 11}
+        - {x: -36.5, y: 21}
+      - - {x: 2.5, y: -21}
+        - {x: -52.5, y: -18}
+        - {x: -36.5, y: 21}
+      - - {x: 67.5, y: 13}
+        - {x: 2.5, y: -21}
+        - {x: -36.5, y: 21}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse-White_death_0003
+      rect:
+        serializedVersion: 2
+        x: 3.07612
+        y: 391
+        width: 126.7745
+        height: 41.97325
+      alignment: 9
+      pivot: {x: 0.5278969, y: -0.0476494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.5, y: -18}
+        - {x: -67.5, y: 11}
+        - {x: -36.5, y: 21}
+      - - {x: 2.5, y: -21}
+        - {x: -52.5, y: -18}
+        - {x: -36.5, y: 21}
+      - - {x: 67.5, y: 13}
+        - {x: 2.5, y: -21}
+        - {x: -36.5, y: 21}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse-White_running_0000
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 79
+        width: 90
+        height: 76
+      alignment: 9
+      pivot: {x: 0.8444445, y: -0.02631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 15}
+        - {x: -33, y: 17}
+        - {x: 30, y: 38}
+      - - {x: -16, y: -38}
+        - {x: -45, y: -9}
+        - {x: -33, y: 17}
+      - - {x: 45, y: 15}
+        - {x: 34, y: -38}
+        - {x: -16, y: -38}
+      - - {x: 45, y: 15}
+        - {x: -16, y: -38}
+        - {x: -33, y: 17}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse-White_running_0005
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 434.0761
+        width: 100
+        height: 72.84776
+      alignment: 9
+      pivot: {x: 0.82, y: -0.02849931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50, y: 11.5}
+        - {x: -33, y: 14.5}
+        - {x: 34, y: 39.5}
+      - - {x: 26, y: -39.5}
+        - {x: -50, y: -32.5}
+        - {x: -33, y: 14.5}
+      - - {x: 50, y: 11.5}
+        - {x: 26, y: -39.5}
+        - {x: -33, y: 14.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse-White_running_0003
+      rect:
+        serializedVersion: 2
+        x: 9.042908
+        y: 113
+        width: 97.95709
+        height: 63
+      alignment: 9
+      pivot: {x: 0.703952, y: -0.06349207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -31.5}
+        - {x: -43, y: 20.5}
+        - {x: 34, y: 31.5}
+      - - {x: -10, y: -31.5}
+        - {x: -53, y: -31.5}
+        - {x: -43, y: 20.5}
+      - - {x: 53, y: -0.5}
+        - {x: -10, y: -31.5}
+        - {x: 34, y: 31.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse-Sabino_running_0002
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 246.0267
+        width: 93.95709
+        height: 67.97325
+      alignment: 9
+      pivot: {x: 0.7663072, y: -0.02981686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -32}
+        - {x: -43, y: 24}
+        - {x: 33, y: 35}
+      - - {x: -23, y: -32}
+        - {x: -48, y: -7}
+        - {x: -43, y: 24}
+      - - {x: 14, y: -35}
+        - {x: -23, y: -32}
+        - {x: 33, y: 35}
+      - - {x: 48, y: 9}
+        - {x: 14, y: -35}
+        - {x: 33, y: 35}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horse-Sabino_death_0000
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 316.0761
+        width: 86
+        height: 79.92388
+      alignment: 9
+      pivot: {x: 0.8372093, y: -0.0134642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 13.5}
+        - {x: -38, y: 13.5}
+        - {x: 27, y: 40.5}
+      - - {x: -27, y: -37.5}
+        - {x: -43, y: -12.5}
+        - {x: -38, y: 13.5}
+      - - {x: 21, y: -40.5}
+        - {x: -27, y: -37.5}
+        - {x: -38, y: 13.5}
+      - - {x: 43, y: 13.5}
+        - {x: 21, y: -40.5}
+        - {x: -38, y: 13.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      horse-White_idle_0002: 21300044
+      horse-Sabino_running_0001: 21300020
+      horse-White_death_0002: 21300034
+      horse-Sabino_running_0003: 21300024
+      horse-Sabino_running_0002: 21300022
+      horse-White_idle_0001: 21300042
+      horse-Sabino_death_0004: 21300008
+      horse-Sabino_idle_0000: 21300010
+      horse-White_running_0001: 21300050
+      horse-White_death_0001: 21300032
+      horse-Sabino_death_0001: 21300002
+      horse-White_idle_0003: 21300046
+      horse-White_death_0000: 21300030
+      horse-Sabino_running_0000: 21300018
+      horse-White_running_0005: 21300058
+      horse-Sabino_idle_0001: 21300012
+      horse-White_running_0000: 21300048
+      horse-White_running_0003: 21300054
+      horse-Sabino_running_0005: 21300028
+      horse-White_running_0002: 21300052
+      horse-White_death_0004: 21300038
+      horse-White_running_0004: 21300056
+      horse-Sabino_death_0002: 21300004
+      horse-Sabino_death_0003: 21300006
+      horse-Sabino_running_0004: 21300026
+      horse-White_idle_0000: 21300040
+      horse-Sabino_death_0000: 21300000
+      horse-White_death_0003: 21300036
+      horse-Sabino_idle_0002: 21300014
+      horse-Sabino_idle_0003: 21300016
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

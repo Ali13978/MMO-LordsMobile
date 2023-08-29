@@ -1,0 +1,1256 @@
+fileFormatVersion: 2
+guid: a7d9f5d4a2e34eab84490ce3d0102843
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: GAL_2-Spear_Attack_0000
+  - first:
+      213: 21300002
+    second: GAL_2-Spear_Attack_0001
+  - first:
+      213: 21300004
+    second: GAL_2-Spear_Attack_0002
+  - first:
+      213: 21300006
+    second: GAL_2-Spear_Attack_0003
+  - first:
+      213: 21300008
+    second: GAL_2-Spear_Death_0000
+  - first:
+      213: 21300010
+    second: GAL_2-Spear_Death_0001
+  - first:
+      213: 21300012
+    second: GAL_2-Spear_Death_0002
+  - first:
+      213: 21300014
+    second: GAL_2-Spear_Death_0003
+  - first:
+      213: 21300016
+    second: GAL_2-Spear_Idle_0000
+  - first:
+      213: 21300018
+    second: GAL_2-Spear_Idle_0001
+  - first:
+      213: 21300020
+    second: GAL_2-Spear_Idle_0002
+  - first:
+      213: 21300022
+    second: GAL_2-Spear_Idle_0003
+  - first:
+      213: 21300024
+    second: GAL_2-Spear_Running_0000
+  - first:
+      213: 21300026
+    second: GAL_2-Spear_Running_0001
+  - first:
+      213: 21300028
+    second: GAL_2-Spear_Running_0002
+  - first:
+      213: 21300030
+    second: GAL_2-Spear_Running_0003
+  - first:
+      213: 21300032
+    second: GAL_Spear_Attack_0000
+  - first:
+      213: 21300034
+    second: GAL_Spear_Attack_0001
+  - first:
+      213: 21300036
+    second: GAL_Spear_Attack_0002
+  - first:
+      213: 21300038
+    second: GAL_Spear_Attack_0003
+  - first:
+      213: 21300040
+    second: GAL_Spear_Death_0000
+  - first:
+      213: 21300042
+    second: GAL_Spear_Death_0001
+  - first:
+      213: 21300044
+    second: GAL_Spear_Death_0002
+  - first:
+      213: 21300046
+    second: GAL_Spear_Death_0003
+  - first:
+      213: 21300048
+    second: GAL_Spear_Idle_0000
+  - first:
+      213: 21300050
+    second: GAL_Spear_Idle_0001
+  - first:
+      213: 21300052
+    second: GAL_Spear_Idle_0002
+  - first:
+      213: 21300054
+    second: GAL_Spear_Idle_0003
+  - first:
+      213: 21300056
+    second: GAL_Spear_Running_0000
+  - first:
+      213: 21300058
+    second: GAL_Spear_Running_0001
+  - first:
+      213: 21300060
+    second: GAL_Spear_Running_0002
+  - first:
+      213: 21300062
+    second: GAL_Spear_Running_0003
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 13
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GAL_Spear_Running_0002
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 302.0761
+        width: 60.97325
+        height: 58.86415
+      alignment: 9
+      pivot: {x: 0.4346168, y: -0.001292991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: 9.5}
+        - {x: 22.5, y: -31.5}
+        - {x: -33.5, y: 9.5}
+      - - {x: 22.5, y: -31.5}
+        - {x: -33.5, y: -30.5}
+        - {x: -33.5, y: 9.5}
+      - - {x: 33.5, y: 9.5}
+        - {x: -33.5, y: 9.5}
+        - {x: 9.5, y: 31.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Spear_Death_0003
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 262
+        width: 69
+        height: 36
+      alignment: 9
+      pivot: {x: 0.615942, y: -0.05555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: -18}
+        - {x: -34.5, y: 18}
+        - {x: 34.5, y: 18}
+      - - {x: 34.5, y: -18}
+        - {x: -34.5, y: -18}
+        - {x: 34.5, y: 18}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Spear_Death_0000
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 339
+        width: 66.95709
+        height: 83.92388
+      alignment: 9
+      pivot: {x: 0.4704506, y: -0.01191556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 39.5}
+        - {x: -34.5, y: -18.5}
+        - {x: -12.5, y: 42.5}
+      - - {x: 28.5, y: 39.5}
+        - {x: 34.5, y: -42.5}
+        - {x: -15.5, y: -39.5}
+      - - {x: 28.5, y: 39.5}
+        - {x: -15.5, y: -39.5}
+        - {x: -34.5, y: -18.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Spear_Attack_0001
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 380
+        width: 85
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5235294, y: -0.04285714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: -33.5}
+        - {x: -42.5, y: -1.5}
+        - {x: 8.5, y: 35.5}
+      - - {x: 42.5, y: 1.5}
+        - {x: 28.5, y: -35.5}
+        - {x: -10.5, y: -33.5}
+      - - {x: 42.5, y: 1.5}
+        - {x: -10.5, y: -33.5}
+        - {x: 8.5, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Spear_Idle_0000
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 339
+        width: 66.95709
+        height: 83.92388
+      alignment: 9
+      pivot: {x: 0.4704506, y: -0.01191556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 39.5}
+        - {x: -34.5, y: -18.5}
+        - {x: -12.5, y: 42.5}
+      - - {x: 28.5, y: 39.5}
+        - {x: 34.5, y: -42.5}
+        - {x: -15.5, y: -39.5}
+      - - {x: 28.5, y: 39.5}
+        - {x: -15.5, y: -39.5}
+        - {x: -34.5, y: -18.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Spear_Idle_0003
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 44
+        width: 77
+        height: 71
+      alignment: 9
+      pivot: {x: 0.487013, y: -0.02816901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: -35.5}
+        - {x: -38.5, y: -2.5}
+        - {x: 4.5, y: 35.5}
+      - - {x: 38.5, y: 1.5}
+        - {x: 28.5, y: -35.5}
+        - {x: -13.5, y: -35.5}
+      - - {x: 38.5, y: 1.5}
+        - {x: -13.5, y: -35.5}
+        - {x: 4.5, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Spear_Running_0002
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 425
+        width: 78.92388
+        height: 77.92388
+      alignment: 9
+      pivot: {x: 0.4878118, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: -22.5}
+        - {x: -9, y: 29.5}
+        - {x: 23, y: 42.5}
+      - - {x: 20, y: -42.5}
+        - {x: -44, y: -29.5}
+        - {x: -9, y: 29.5}
+      - - {x: 44, y: -22.5}
+        - {x: 24, y: -42.5}
+        - {x: 20, y: -42.5}
+      - - {x: 44, y: -22.5}
+        - {x: 20, y: -42.5}
+        - {x: -9, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Spear_Running_0001
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 186.0761
+        width: 61.97325
+        height: 66.92388
+      alignment: 9
+      pivot: {x: 0.4276039, y: -0.001137503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: -3.499998}
+        - {x: 23, y: -33.5}
+        - {x: -33, y: 8.5}
+      - - {x: 23, y: -33.5}
+        - {x: -33, y: -32.5}
+        - {x: -33, y: 8.5}
+      - - {x: 33, y: -3.499998}
+        - {x: -33, y: 8.5}
+        - {x: 14, y: 33.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Spear_Idle_0002
+      rect:
+        serializedVersion: 2
+        x: 3.07612
+        y: 171.0513
+        width: 66.88097
+        height: 82.87257
+      alignment: 9
+      pivot: {x: 0.4698478, y: -0.04888608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 22}
+        - {x: -14, y: 37}
+        - {x: 7, y: 42}
+      - - {x: -35, y: -20}
+        - {x: -14, y: 37}
+        - {x: 30, y: 22}
+      - - {x: 30, y: 22}
+        - {x: 35, y: -42}
+        - {x: -14, y: -41}
+      - - {x: -35, y: -20}
+        - {x: 30, y: 22}
+        - {x: -14, y: -41}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Spear_Idle_0001
+      rect:
+        serializedVersion: 2
+        x: 295.0761
+        y: 352.0513
+        width: 65.88097
+        height: 82.87257
+      alignment: 9
+      pivot: {x: 0.4618008, y: -0.03681955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: -33}
+        - {x: 24, y: -43}
+        - {x: -33, y: 0}
+      - - {x: 24, y: -43}
+        - {x: -34, y: -35}
+        - {x: -33, y: 0}
+      - - {x: 28, y: 42}
+        - {x: 34, y: -33}
+        - {x: -33, y: 0}
+      - - {x: 28, y: 42}
+        - {x: -33, y: 0}
+        - {x: -12, y: 43}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Spear_Death_0001
+      rect:
+        serializedVersion: 2
+        x: 181.0267
+        y: 424
+        width: 84.97325
+        height: 82.97325
+      alignment: 9
+      pivot: {x: 0.4410006, y: -0.06026039}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -42.5}
+        - {x: -26, y: -41.5}
+        - {x: -44, y: -21.5}
+      - - {x: 9, y: -42.5}
+        - {x: -44, y: -21.5}
+        - {x: -26, y: 42.5}
+      - - {x: 44, y: -1.5}
+        - {x: 9, y: -42.5}
+        - {x: -26, y: 42.5}
+      - - {x: 42, y: 34.5}
+        - {x: 44, y: -1.5}
+        - {x: -26, y: 42.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Spear_Attack_0000
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 339
+        width: 66.95709
+        height: 83.92388
+      alignment: 9
+      pivot: {x: 0.4704506, y: -0.01191556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 39.5}
+        - {x: -34.5, y: -18.5}
+        - {x: -12.5, y: 42.5}
+      - - {x: 28.5, y: 39.5}
+        - {x: 34.5, y: -42.5}
+        - {x: -15.5, y: -39.5}
+      - - {x: 28.5, y: 39.5}
+        - {x: -15.5, y: -39.5}
+        - {x: -34.5, y: -18.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Spear_Attack_0001
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 429
+        width: 77
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: -0.02469136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: 20.5}
+        - {x: -4.5, y: 40.5}
+        - {x: 18.5, y: 40.5}
+      - - {x: -9.5, y: -40.5}
+        - {x: -38.5, y: -15.5}
+        - {x: -4.5, y: 40.5}
+      - - {x: 38.5, y: 20.5}
+        - {x: 38.5, y: -39.5}
+        - {x: -9.5, y: -40.5}
+      - - {x: 38.5, y: 20.5}
+        - {x: -9.5, y: -40.5}
+        - {x: -4.5, y: 40.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Spear_Running_0000
+      rect:
+        serializedVersion: 2
+        x: 145.0761
+        y: 228
+        width: 73.92388
+        height: 57
+      alignment: 9
+      pivot: {x: 0.3709745, y: -0.01754386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: -28.5}
+        - {x: -4.5, y: 28.5}
+        - {x: 20.5, y: 28.5}
+      - - {x: 2.5, y: -28.5}
+        - {x: -41.5, y: -8.5}
+        - {x: -4.5, y: 28.5}
+      - - {x: 21.5, y: -28.5}
+        - {x: 2.5, y: -28.5}
+        - {x: 20.5, y: 28.5}
+      - - {x: 41.5, y: -8.5}
+        - {x: 21.5, y: -28.5}
+        - {x: 20.5, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Spear_Attack_0003
+      rect:
+        serializedVersion: 2
+        x: 10.07612
+        y: 346
+        width: 73.92388
+        height: 80.92388
+      alignment: 9
+      pivot: {x: 0.2627551, y: -0.01235729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -41}
+        - {x: -19, y: 38}
+        - {x: 3, y: 41}
+      - - {x: 19, y: -41}
+        - {x: -41, y: -37}
+        - {x: -19, y: 38}
+      - - {x: 41, y: 14}
+        - {x: 19, y: -41}
+        - {x: 3, y: 41}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Spear_Running_0003
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 303
+        width: 70
+        height: 91
+      alignment: 9
+      pivot: {x: 0.4357143, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 10.5}
+        - {x: 1, y: -45.5}
+        - {x: -35, y: -19.5}
+      - - {x: 35, y: 10.5}
+        - {x: 35, y: -45.5}
+        - {x: 1, y: -45.5}
+      - - {x: 35, y: 10.5}
+        - {x: -35, y: -19.5}
+        - {x: 0, y: 45.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Spear_Idle_0003
+      rect:
+        serializedVersion: 2
+        x: 295.0761
+        y: 352.0513
+        width: 65.88097
+        height: 82.87257
+      alignment: 9
+      pivot: {x: 0.4618008, y: -0.03681955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: -33}
+        - {x: 24, y: -43}
+        - {x: -33, y: 0}
+      - - {x: 24, y: -43}
+        - {x: -34, y: -35}
+        - {x: -33, y: 0}
+      - - {x: 28, y: 42}
+        - {x: 34, y: -33}
+        - {x: -33, y: 0}
+      - - {x: 28, y: 42}
+        - {x: -33, y: 0}
+        - {x: -12, y: 43}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Spear_Idle_0000
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 43
+        width: 65.92388
+        height: 63.95709
+      alignment: 9
+      pivot: {x: 0.4778238, y: -0.03127097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 27}
+        - {x: -34.5, y: -8.999998}
+        - {x: -11.5, y: 34}
+      - - {x: 34.5, y: -12}
+        - {x: 24.5, y: -33}
+        - {x: -15.5, y: -34}
+      - - {x: 16.5, y: 27}
+        - {x: 34.5, y: -12}
+        - {x: -15.5, y: -34}
+      - - {x: 16.5, y: 27}
+        - {x: -15.5, y: -34}
+        - {x: -34.5, y: -8.999998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Spear_Death_0000
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 117
+        width: 65.92388
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4778238, y: -0.02941176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 27}
+        - {x: -34.5, y: -8.999998}
+        - {x: -11.5, y: 34}
+      - - {x: 34.5, y: -12}
+        - {x: 24.5, y: -33}
+        - {x: -15.5, y: -34}
+      - - {x: 16.5, y: 27}
+        - {x: 34.5, y: -12}
+        - {x: -15.5, y: -34}
+      - - {x: 16.5, y: 27}
+        - {x: -15.5, y: -34}
+        - {x: -34.5, y: -8.999998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Spear_Death_0002
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 438
+        width: 88
+        height: 70.92388
+      alignment: 9
+      pivot: {x: 0.5284091, y: -0.112797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -35}
+        - {x: -35, y: -1}
+        - {x: 26, y: 36}
+      - - {x: 17, y: -35}
+        - {x: -44, y: -36}
+        - {x: -35, y: -1}
+      - - {x: 44, y: -3}
+        - {x: 17, y: -35}
+        - {x: 26, y: 36}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Spear_Death_0002
+      rect:
+        serializedVersion: 2
+        x: 9.07612
+        y: 428.0268
+        width: 93.92388
+        height: 74.93697
+      alignment: 9
+      pivot: {x: 0.5368589, y: -0.1204581}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: -32.5}
+        - {x: -50.5, y: -11.5}
+        - {x: 21.5, y: 41.5}
+      - - {x: 26.5, y: -32.5}
+        - {x: -36.5, y: -41.5}
+        - {x: -50.5, y: -11.5}
+      - - {x: 50.5, y: 3.5}
+        - {x: 26.5, y: -32.5}
+        - {x: 21.5, y: 41.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Spear_Idle_0001
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 125.0513
+        width: 77
+        height: 70.94868
+      alignment: 9
+      pivot: {x: 0.487013, y: -0.02891266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: -35.5}
+        - {x: -38.5, y: -2.5}
+        - {x: 4.5, y: 35.5}
+      - - {x: 38.5, y: 1.5}
+        - {x: 28.5, y: -35.5}
+        - {x: -13.5, y: -35.5}
+      - - {x: 38.5, y: 1.5}
+        - {x: -13.5, y: -35.5}
+        - {x: 4.5, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Spear_Attack_0002
+      rect:
+        serializedVersion: 2
+        x: 3.026751
+        y: 86.05763
+        width: 70.97325
+        height: 73.86625
+      alignment: 9
+      pivot: {x: 0.1898356, y: -0.02785619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 12}
+        - {x: -36, y: 25}
+        - {x: 7, y: 41}
+      - - {x: 4.999998, y: -41}
+        - {x: -35, y: -38}
+        - {x: -36, y: 25}
+      - - {x: 36, y: 12}
+        - {x: 36, y: -30}
+        - {x: 4.999998, y: -41}
+      - - {x: 36, y: 12}
+        - {x: 4.999998, y: -41}
+        - {x: -36, y: 25}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Spear_Running_0000
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 369
+        width: 67.92388
+        height: 87
+      alignment: 9
+      pivot: {x: 0.404865, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 9.499996}
+        - {x: 5, y: -43.5}
+        - {x: -35, y: 1.5}
+      - - {x: 5, y: -43.5}
+        - {x: -35, y: -23.5}
+        - {x: -35, y: 1.5}
+      - - {x: 35, y: 9.499996}
+        - {x: 29, y: -43.5}
+        - {x: 5, y: -43.5}
+      - - {x: 35, y: 9.499996}
+        - {x: -35, y: 1.5}
+        - {x: 3, y: 43.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Spear_Idle_0002
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 77
+        width: 70
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5214286, y: -0.02597403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: -8.5}
+        - {x: -35, y: -9.5}
+        - {x: 10, y: 38.5}
+      - - {x: 35, y: -8.5}
+        - {x: 35, y: -37.5}
+        - {x: -11, y: -38.5}
+      - - {x: 35, y: -8.5}
+        - {x: -11, y: -38.5}
+        - {x: -35, y: -9.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Spear_Running_0003
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 168
+        width: 80
+        height: 65
+      alignment: 9
+      pivot: {x: 0.44375, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -31.5}
+        - {x: -40, y: -11.5}
+        - {x: 4, y: 32.5}
+      - - {x: 40, y: 12.5}
+        - {x: 25, y: -32.5}
+        - {x: 2, y: -31.5}
+      - - {x: 40, y: 12.5}
+        - {x: 2, y: -31.5}
+        - {x: 4, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Spear_Death_0003
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 22.01291
+        width: 89
+        height: 51.98709
+      alignment: 9
+      pivot: {x: 0.5786517, y: -0.03871948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: -27}
+        - {x: -44.5, y: -19}
+        - {x: -22.5, y: 27}
+      - - {x: 17.5, y: 25}
+        - {x: 44.5, y: -21}
+        - {x: -5.5, y: -27}
+      - - {x: 17.5, y: 25}
+        - {x: -5.5, y: -27}
+        - {x: -22.5, y: 27}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Spear_Attack_0000
+      rect:
+        serializedVersion: 2
+        x: 7.07612
+        y: 5.07612
+        width: 67.92388
+        height: 78.92388
+      alignment: 9
+      pivot: {x: 0.4479114, y: -0.02630535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: -17.5}
+        - {x: -36.5, y: -8.5}
+        - {x: 10.5, y: 39.5}
+      - - {x: 36.5, y: -17.5}
+        - {x: 26.5, y: -38.5}
+        - {x: -13.5, y: -39.5}
+      - - {x: 36.5, y: -17.5}
+        - {x: -13.5, y: -39.5}
+        - {x: -36.5, y: -8.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Spear_Attack_0002
+      rect:
+        serializedVersion: 2
+        x: 130.0597
+        y: 289.0673
+        width: 74.86415
+        height: 65.93272
+      alignment: 9
+      pivot: {x: 0.1795289, y: -0.001020605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: -33}
+        - {x: -36.5, y: 13}
+        - {x: -10.5, y: 33}
+      - - {x: 2.5, y: -33}
+        - {x: -38.5, y: -29}
+        - {x: -36.5, y: 13}
+      - - {x: 38.5, y: -16}
+        - {x: 2.5, y: -33}
+        - {x: -10.5, y: 33}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Spear_Death_0001
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 440
+        width: 93
+        height: 69.92388
+      alignment: 9
+      pivot: {x: 0.4677419, y: -0.01430127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: -24}
+        - {x: -20.5, y: 35}
+        - {x: 34.5, y: 35}
+      - - {x: -3.5, y: -35}
+        - {x: -46.5, y: -17}
+        - {x: -20.5, y: 35}
+      - - {x: 16.5, y: -24}
+        - {x: -3.5, y: -35}
+        - {x: -20.5, y: 35}
+      - - {x: 46.5, y: 12}
+        - {x: 16.5, y: -24}
+        - {x: 34.5, y: 35}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_Spear_Attack_0003
+      rect:
+        serializedVersion: 2
+        x: 73.07612
+        y: 200
+        width: 71.92388
+        height: 61.94868
+      alignment: 9
+      pivot: {x: 0.2561581, y: -0.03228479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: -35.5}
+        - {x: -37.5, y: 3.5}
+        - {x: -5.5, y: 35.5}
+      - - {x: 8.5, y: -35.5}
+        - {x: -28.5, y: -35.5}
+        - {x: -37.5, y: 3.5}
+      - - {x: 37.5, y: -14.5}
+        - {x: 8.5, y: -35.5}
+        - {x: -5.5, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAL_2-Spear_Running_0001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 259
+        width: 76
+        height: 85
+      alignment: 9
+      pivot: {x: 0.3618421, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 18.5}
+        - {x: 38, y: -42.5}
+        - {x: -38, y: 4.5}
+      - - {x: 38, y: -42.5}
+        - {x: -38, y: -42.5}
+        - {x: -38, y: 4.5}
+      - - {x: 25, y: 18.5}
+        - {x: -38, y: 4.5}
+        - {x: -3, y: 42.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GAL_2-Spear_Attack_0003: 21300006
+      GAL_2-Spear_Death_0000: 21300008
+      GAL_Spear_Death_0003: 21300046
+      GAL_Spear_Idle_0003: 21300054
+      GAL_2-Spear_Attack_0002: 21300004
+      GAL_Spear_Attack_0003: 21300038
+      GAL_Spear_Running_0000: 21300056
+      GAL_Spear_Death_0002: 21300044
+      GAL_Spear_Running_0003: 21300062
+      GAL_Spear_Attack_0001: 21300034
+      GAL_2-Spear_Running_0002: 21300028
+      GAL_2-Spear_Death_0003: 21300014
+      GAL_Spear_Running_0001: 21300058
+      GAL_Spear_Death_0000: 21300040
+      GAL_2-Spear_Attack_0001: 21300002
+      GAL_Spear_Running_0002: 21300060
+      GAL_2-Spear_Running_0003: 21300030
+      GAL_2-Spear_Death_0001: 21300010
+      GAL_2-Spear_Idle_0003: 21300022
+      GAL_Spear_Idle_0002: 21300052
+      GAL_2-Spear_Idle_0000: 21300016
+      GAL_2-Spear_Idle_0002: 21300020
+      GAL_Spear_Idle_0000: 21300048
+      GAL_Spear_Death_0001: 21300042
+      GAL_Spear_Idle_0001: 21300050
+      GAL_2-Spear_Running_0000: 21300024
+      GAL_2-Spear_Idle_0001: 21300018
+      GAL_2-Spear_Death_0002: 21300012
+      GAL_Spear_Attack_0000: 21300032
+      GAL_2-Spear_Attack_0000: 21300000
+      GAL_Spear_Attack_0002: 21300036
+      GAL_2-Spear_Running_0001: 21300026
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

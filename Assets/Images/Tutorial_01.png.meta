@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: 14b04c9c382343db9070c308dfef1c34
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Manito-Tutorial
+  - first:
+      213: 21300002
+    second: Tutorial-Flecha
+  - first:
+      213: 21300004
+    second: Personaje-tutorial
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Manito-Tutorial
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 59
+        width: 136
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 64}
+        - {x: 45, y: 88}
+        - {x: 68, y: 88}
+      - - {x: -30, y: 39}
+        - {x: -7, y: -88}
+        - {x: -68, y: -34}
+      - - {x: 53, y: 33}
+        - {x: -1, y: 49}
+        - {x: 45, y: 88}
+      - - {x: -68, y: -34}
+        - {x: -68, y: -8}
+        - {x: -30, y: 39}
+      - - {x: -68, y: -34}
+        - {x: -7, y: -88}
+        - {x: -22, y: -88}
+      - - {x: -30, y: 39}
+        - {x: 66, y: -21}
+        - {x: -7, y: -88}
+      - - {x: 66, y: -21}
+        - {x: -30, y: 39}
+        - {x: -1, y: 49}
+      - - {x: -1, y: 49}
+        - {x: 53, y: 33}
+        - {x: 66, y: -3}
+      - - {x: 66, y: -21}
+        - {x: -1, y: 49}
+        - {x: 66, y: -3}
+      - - {x: 68, y: 64}
+        - {x: 53, y: 33}
+        - {x: 45, y: 88}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial-Flecha
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 149
+        width: 60
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 5}
+        - {x: -11, y: 43}
+        - {x: 5, y: 43}
+      - - {x: 30, y: 5}
+        - {x: -30, y: 5}
+        - {x: 5, y: 43}
+      - - {x: -13, y: -43}
+        - {x: 30, y: -6}
+        - {x: 14, y: -43}
+      - - {x: -13, y: -43}
+        - {x: -30, y: -9}
+        - {x: 30, y: -6}
+      - - {x: -30, y: 5}
+        - {x: 30, y: 5}
+        - {x: 30, y: -6}
+      - - {x: -30, y: 5}
+        - {x: 30, y: -6}
+        - {x: -30, y: -9}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje-tutorial
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 237
+        width: 762
+        height: 786
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 179, y: 308}
+        - {x: 137, y: 393}
+        - {x: 195, y: 393}
+      - - {x: -60, y: 305}
+        - {x: 106, y: 389}
+        - {x: 179, y: 308}
+      - - {x: 189, y: 257}
+        - {x: -60, y: 305}
+        - {x: 179, y: 308}
+      - - {x: -120, y: 187}
+        - {x: 189, y: 257}
+        - {x: -105, y: 100}
+      - - {x: -198, y: -208}
+        - {x: -208, y: 76}
+        - {x: -131, y: 78}
+      - - {x: -329, y: -9}
+        - {x: -323, y: 32}
+        - {x: -208, y: 76}
+      - - {x: -314, y: -109}
+        - {x: -329, y: -9}
+        - {x: -208, y: 76}
+      - - {x: -381, y: -91}
+        - {x: -381, y: -53}
+        - {x: -314, y: -109}
+      - - {x: -381, y: -91}
+        - {x: -314, y: -109}
+        - {x: -365, y: -116}
+      - - {x: -381, y: -53}
+        - {x: -329, y: -9}
+        - {x: -314, y: -109}
+      - - {x: -131, y: 78}
+        - {x: -115, y: -214}
+        - {x: -198, y: -208}
+      - - {x: 106, y: 389}
+        - {x: 137, y: 393}
+        - {x: 179, y: 308}
+      - - {x: -198, y: -208}
+        - {x: -314, y: -109}
+        - {x: -208, y: 76}
+      - - {x: -131, y: 78}
+        - {x: -105, y: 100}
+        - {x: -115, y: -214}
+      - - {x: -120, y: 187}
+        - {x: -60, y: 305}
+        - {x: 189, y: 257}
+      - - {x: -115, y: -214}
+        - {x: 179, y: -296}
+        - {x: 58, y: -317}
+      - - {x: 17, y: -390}
+        - {x: -89, y: -390}
+        - {x: -90, y: -333}
+      - - {x: 34, y: -339}
+        - {x: 17, y: -390}
+        - {x: -90, y: -333}
+      - - {x: 34, y: -339}
+        - {x: -90, y: -333}
+        - {x: -115, y: -214}
+      - - {x: 102, y: -393}
+        - {x: 92, y: -389}
+        - {x: 58, y: -317}
+      - - {x: 179, y: -296}
+        - {x: 144, y: -393}
+        - {x: 102, y: -393}
+      - - {x: 179, y: -296}
+        - {x: 197, y: -382}
+        - {x: 144, y: -393}
+      - - {x: 179, y: -296}
+        - {x: 102, y: -393}
+        - {x: 58, y: -317}
+      - - {x: 381, y: -192}
+        - {x: 356, y: -242}
+        - {x: 254, y: -290}
+      - - {x: 254, y: -290}
+        - {x: 337, y: -34}
+        - {x: 381, y: -113}
+      - - {x: 337, y: -34}
+        - {x: 254, y: -290}
+        - {x: 179, y: -296}
+      - - {x: 254, y: -290}
+        - {x: 381, y: -113}
+        - {x: 381, y: -192}
+      - - {x: 179, y: -296}
+        - {x: -115, y: -214}
+        - {x: -105, y: 100}
+      - - {x: 344, y: 77}
+        - {x: 376, y: 38}
+        - {x: 363, y: 3}
+      - - {x: 344, y: 77}
+        - {x: 363, y: 3}
+        - {x: 337, y: -34}
+      - - {x: 337, y: -34}
+        - {x: 244, y: 152}
+        - {x: 271, y: 141}
+      - - {x: 344, y: 77}
+        - {x: 271, y: 141}
+        - {x: 329, y: 181}
+      - - {x: 344, y: 77}
+        - {x: 329, y: 181}
+        - {x: 358, y: 173}
+      - - {x: 337, y: -34}
+        - {x: 271, y: 141}
+        - {x: 344, y: 77}
+      - - {x: 179, y: -296}
+        - {x: -105, y: 100}
+        - {x: 337, y: -34}
+      - - {x: 337, y: -34}
+        - {x: -105, y: 100}
+        - {x: 244, y: 152}
+      - - {x: 236, y: 259}
+        - {x: 281, y: 202}
+        - {x: 231, y: 177}
+      - - {x: 189, y: 257}
+        - {x: 236, y: 259}
+        - {x: 231, y: 177}
+      - - {x: 244, y: 152}
+        - {x: -105, y: 100}
+        - {x: 231, y: 177}
+      - - {x: 231, y: 177}
+        - {x: -105, y: 100}
+        - {x: 189, y: 257}
+      - - {x: 34, y: -339}
+        - {x: -115, y: -214}
+        - {x: 58, y: -317}
+      - - {x: 206, y: 327}
+        - {x: 179, y: 308}
+        - {x: 195, y: 393}
+      - - {x: 259, y: 371}
+        - {x: 253, y: 336}
+        - {x: 206, y: 327}
+      - - {x: 259, y: 371}
+        - {x: 206, y: 327}
+        - {x: 195, y: 393}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Manito-Tutorial: 21300000
+      Tutorial-Flecha: 21300002
+      Personaje-tutorial: 21300004
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

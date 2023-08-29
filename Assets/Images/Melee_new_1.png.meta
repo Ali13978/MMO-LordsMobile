@@ -1,0 +1,694 @@
+fileFormatVersion: 2
+guid: 04a6166887334efa812422c0f413f9dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ROM_PeasantDaggerS_Attack_0000
+  - first:
+      213: 21300002
+    second: ROM_PeasantDaggerS_Attack_0001
+  - first:
+      213: 21300004
+    second: ROM_PeasantDaggerS_Attack_0002
+  - first:
+      213: 21300006
+    second: ROM_PeasantDaggerS_Attack_0003
+  - first:
+      213: 21300008
+    second: ROM_PeasantDaggerS_Death_0000
+  - first:
+      213: 21300010
+    second: ROM_PeasantDaggerS_Death_0001
+  - first:
+      213: 21300012
+    second: ROM_PeasantDaggerS_Death_0002
+  - first:
+      213: 21300014
+    second: ROM_PeasantDaggerS_Death_0003
+  - first:
+      213: 21300016
+    second: ROM_PeasantDaggerS_Idle_0000
+  - first:
+      213: 21300018
+    second: ROM_PeasantDaggerS_Idle_0001
+  - first:
+      213: 21300020
+    second: ROM_PeasantDaggerS_Idle_0002
+  - first:
+      213: 21300022
+    second: ROM_PeasantDaggerS_Idle_0003
+  - first:
+      213: 21300024
+    second: ROM_PeasantDaggerS_Running_0000
+  - first:
+      213: 21300026
+    second: ROM_PeasantDaggerS_Running_0001
+  - first:
+      213: 21300028
+    second: ROM_PeasantDaggerS_Running_0002
+  - first:
+      213: 21300030
+    second: ROM_PeasantDaggerS_Running_0003
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 13
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ROM_PeasantDaggerS_Running_0002
+      rect:
+        serializedVersion: 2
+        x: 238.0761
+        y: 448.0429
+        width: 70.88097
+        height: 62.93034
+      alignment: 9
+      pivot: {x: 0.443333, y: -0.032463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: -31.5}
+        - {x: -41.5, y: -26.5}
+        - {x: -9.5, y: 31.5}
+      - - {x: 22.5, y: 30.5}
+        - {x: 41.5, y: -4.5}
+        - {x: 18.5, y: -31.5}
+      - - {x: 22.5, y: 30.5}
+        - {x: 18.5, y: -31.5}
+        - {x: -9.5, y: 31.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantDaggerS_Death_0001
+      rect:
+        serializedVersion: 2
+        x: 6.059729
+        y: 427
+        width: 103.9403
+        height: 76.92388
+      alignment: 9
+      pivot: {x: 0.3890722, y: -0.02599973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: -42}
+        - {x: 14.5, y: -7}
+        - {x: 14.5, y: -41}
+      - - {x: -54.5, y: -12}
+        - {x: -29.5, y: 31}
+        - {x: 14.5, y: -7}
+      - - {x: -54.5, y: -12}
+        - {x: 14.5, y: -7}
+        - {x: -18.5, y: -42}
+      - - {x: 14.5, y: -7}
+        - {x: -29.5, y: 31}
+        - {x: -1.5, y: 42}
+      - - {x: 54.5, y: 24}
+        - {x: 14.5, y: -7}
+        - {x: -1.5, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantDaggerS_Attack_0002
+      rect:
+        serializedVersion: 2
+        x: 123.0267
+        y: 261.0268
+        width: 75.93975
+        height: 64.9465
+      alignment: 9
+      pivot: {x: 0.2169253, y: -0.03120667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.999998, y: -31.5}
+        - {x: -38, y: 8.5}
+        - {x: -11, y: 35.5}
+      - - {x: 6.999998, y: -31.5}
+        - {x: -39, y: -35.5}
+        - {x: -38, y: 8.5}
+      - - {x: 39, y: 0.5}
+        - {x: 6.999998, y: -31.5}
+        - {x: -11, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantDaggerS_Idle_0000
+      rect:
+        serializedVersion: 2
+        x: 160.0267
+        y: 433.0761
+        width: 63.89713
+        height: 71.89713
+      alignment: 9
+      pivot: {x: 0.4143105, y: -0.02887613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: -14}
+        - {x: -14.5, y: 32}
+        - {x: 9.5, y: 40}
+      - - {x: 7.5, y: -36}
+        - {x: -34.5, y: 7}
+        - {x: -14.5, y: 32}
+      - - {x: 7.5, y: -36}
+        - {x: -35.5, y: -40}
+        - {x: -34.5, y: 7}
+      - - {x: 35.5, y: -14}
+        - {x: 7.5, y: -36}
+        - {x: -14.5, y: 32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantDaggerS_Death_0003
+      rect:
+        serializedVersion: 2
+        x: 3.07612
+        y: 40.03629
+        width: 98.92388
+        height: 54.96371
+      alignment: 9
+      pivot: {x: 0.5703767, y: -0.0006601701}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.5, y: -26.5}
+        - {x: -34.5, y: 2.500002}
+        - {x: 14.5, y: 27.5}
+      - - {x: 50.5, y: -26.5}
+        - {x: -50.5, y: -27.5}
+        - {x: -34.5, y: 2.500002}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantDaggerS_Idle_0001
+      rect:
+        serializedVersion: 2
+        x: 2.026751
+        y: 334
+        width: 71.97325
+        height: 74.97325
+      alignment: 9
+      pivot: {x: 0.3817147, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: -19.5}
+        - {x: 8.5, y: -41.5}
+        - {x: -34.5, y: 4.5}
+      - - {x: 8.5, y: -41.5}
+        - {x: -36.5, y: -45.5}
+        - {x: -34.5, y: 4.5}
+      - - {x: 36.5, y: -19.5}
+        - {x: -34.5, y: 4.5}
+        - {x: 3.5, y: 45.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantDaggerS_Idle_0003
+      rect:
+        serializedVersion: 2
+        x: 2.026751
+        y: 246
+        width: 71.97325
+        height: 89
+      alignment: 9
+      pivot: {x: 0.3817147, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: -19.5}
+        - {x: 7.5, y: -41.5}
+        - {x: -34.5, y: 11.5}
+      - - {x: 7.5, y: -41.5}
+        - {x: -36.5, y: -44.5}
+        - {x: -34.5, y: 11.5}
+      - - {x: 36.5, y: -19.5}
+        - {x: -34.5, y: 11.5}
+        - {x: 5.500001, y: 44.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantDaggerS_Death_0002
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 424
+        width: 86
+        height: 79.92388
+      alignment: 9
+      pivot: {x: 0.6569768, y: -0.0125119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: -24}
+        - {x: -10, y: 21}
+        - {x: 43, y: 41}
+      - - {x: -24, y: -41}
+        - {x: -43, y: -12}
+        - {x: -10, y: 21}
+      - - {x: 43, y: -24}
+        - {x: -24, y: -41}
+        - {x: -10, y: 21}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantDaggerS_Idle_0002
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 287
+        width: 76
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4013158, y: -0.02597403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: -14.5}
+        - {x: 14, y: -38.5}
+        - {x: -15, y: 32.5}
+      - - {x: -38, y: -2.5}
+        - {x: 14, y: -38.5}
+        - {x: -22, y: -37.5}
+      - - {x: -38, y: -2.5}
+        - {x: -15, y: 32.5}
+        - {x: 14, y: -38.5}
+      - - {x: 38, y: -14.5}
+        - {x: -15, y: 32.5}
+        - {x: 14, y: 38.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantDaggerS_Attack_0003
+      rect:
+        serializedVersion: 2
+        x: 77.02675
+        y: 120.0267
+        width: 65.89713
+        height: 66.89713
+      alignment: 9
+      pivot: {x: 0.2651595, y: -0.0302965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: -31}
+        - {x: -35.5, y: 33}
+        - {x: -7.5, y: 35}
+      - - {x: 3.5, y: -31}
+        - {x: -37.5, y: -35}
+        - {x: -35.5, y: 33}
+      - - {x: 37.5, y: 13}
+        - {x: 3.5, y: -31}
+        - {x: -7.5, y: 35}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantDaggerS_Attack_0001
+      rect:
+        serializedVersion: 2
+        x: 3.026751
+        y: 88.07612
+        width: 65.93034
+        height: 79.92388
+      alignment: 9
+      pivot: {x: 0.4773712, y: -0.0259762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -39}
+        - {x: -39, y: 6}
+        - {x: 7, y: 40}
+      - - {x: 9, y: -39}
+        - {x: -31, y: -40}
+        - {x: -39, y: 6}
+      - - {x: 39, y: -23}
+        - {x: 9, y: -39}
+        - {x: 7, y: 40}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantDaggerS_Running_0003
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 53
+        width: 66.9665
+        height: 65.92388
+      alignment: 9
+      pivot: {x: 0.4106531, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: -33}
+        - {x: -13.5, y: 32}
+        - {x: 12.5, y: 33}
+      - - {x: -13.5, y: -33}
+        - {x: -39.5, y: 6}
+        - {x: -13.5, y: 32}
+      - - {x: 39.5, y: -17}
+        - {x: -13.5, y: -33}
+        - {x: 12.5, y: 33}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantDaggerS_Attack_0000
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 208.0761
+        width: 71
+        height: 77.92388
+      alignment: 9
+      pivot: {x: 0.3732394, y: -0.026643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: -14}
+        - {x: -14.5, y: 32}
+        - {x: 9.5, y: 40}
+      - - {x: 7.5, y: -36}
+        - {x: -34.5, y: 7}
+        - {x: -14.5, y: 32}
+      - - {x: 7.5, y: -36}
+        - {x: -35.5, y: -40}
+        - {x: -34.5, y: 7}
+      - - {x: 35.5, y: -14}
+        - {x: 7.5, y: -36}
+        - {x: -14.5, y: 32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantDaggerS_Running_0000
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 364.0268
+        width: 63.97325
+        height: 71.97325
+      alignment: 9
+      pivot: {x: 0.3829726, y: -0.01426591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: -10.5}
+        - {x: 16, y: -36.5}
+        - {x: -34, y: 15.5}
+      - - {x: 16, y: -36.5}
+        - {x: -28, y: -32.5}
+        - {x: -34, y: 15.5}
+      - - {x: 34, y: -10.5}
+        - {x: -34, y: 15.5}
+        - {x: 14, y: 36.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantDaggerS_Death_0000
+      rect:
+        serializedVersion: 2
+        x: 160.0267
+        y: 433.0761
+        width: 63.89713
+        height: 71.89713
+      alignment: 9
+      pivot: {x: 0.4143105, y: -0.02887613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: -14}
+        - {x: -14.5, y: 32}
+        - {x: 9.5, y: 40}
+      - - {x: 7.5, y: -36}
+        - {x: -34.5, y: 7}
+        - {x: -14.5, y: 32}
+      - - {x: 7.5, y: -36}
+        - {x: -35.5, y: -40}
+        - {x: -34.5, y: 7}
+      - - {x: 35.5, y: -14}
+        - {x: 7.5, y: -36}
+        - {x: -14.5, y: 32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantDaggerS_Running_0001
+      rect:
+        serializedVersion: 2
+        x: 1.026751
+        y: 164.0267
+        width: 73.97325
+        height: 81.97325
+      alignment: 9
+      pivot: {x: 0.290284, y: -0.02472451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -28}
+        - {x: -37, y: 4}
+        - {x: 0, y: 42}
+      - - {x: -30, y: -42}
+        - {x: -35, y: -38}
+        - {x: -37, y: 4}
+      - - {x: 37, y: -28}
+        - {x: -30, y: -42}
+        - {x: -37, y: 4}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ROM_PeasantDaggerS_Idle_0002: 21300020
+      ROM_PeasantDaggerS_Death_0000: 21300008
+      ROM_PeasantDaggerS_Attack_0003: 21300006
+      ROM_PeasantDaggerS_Running_0000: 21300024
+      ROM_PeasantDaggerS_Death_0001: 21300010
+      ROM_PeasantDaggerS_Idle_0001: 21300018
+      ROM_PeasantDaggerS_Death_0002: 21300012
+      ROM_PeasantDaggerS_Running_0003: 21300030
+      ROM_PeasantDaggerS_Death_0003: 21300014
+      ROM_PeasantDaggerS_Attack_0002: 21300004
+      ROM_PeasantDaggerS_Attack_0000: 21300000
+      ROM_PeasantDaggerS_Running_0001: 21300026
+      ROM_PeasantDaggerS_Idle_0000: 21300016
+      ROM_PeasantDaggerS_Idle_0003: 21300022
+      ROM_PeasantDaggerS_Running_0002: 21300028
+      ROM_PeasantDaggerS_Attack_0001: 21300002
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

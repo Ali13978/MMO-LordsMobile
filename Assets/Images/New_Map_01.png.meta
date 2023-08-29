@@ -1,0 +1,1573 @@
+fileFormatVersion: 2
+guid: 480fa04e0b2a40e0bb2d53e60c9d9ede
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: "Upgrade-colo\xF1ias-Colonia5"
+  - first:
+      213: 21300002
+    second: Upgrade-colonias-conector
+  - first:
+      213: 21300004
+    second: "Upgrade-colo\xF1ias-Flecha"
+  - first:
+      213: 21300006
+    second: ICO-Hero-Arcani-head
+  - first:
+      213: 21300008
+    second: ICO-Hero-Barbarian-Head
+  - first:
+      213: 21300010
+    second: ICO-Heroe-GladiadorHead
+  - first:
+      213: 21300012
+    second: ICO-Heroe-ecuestre-Head
+  - first:
+      213: 21300014
+    second: Escudo-legion-ico1
+  - first:
+      213: 21300016
+    second: Escudo-legion-ico2
+  - first:
+      213: 21300018
+    second: Escudo-legion-ico3
+  - first:
+      213: 21300020
+    second: ICO-BTN-Volver
+  - first:
+      213: 21300022
+    second: ICO-MAP- Estandarte-Goblins
+  - first:
+      213: 21300024
+    second: ICO-MAP- Estandarte-Lobos
+  - first:
+      213: 21300026
+    second: ICO-MAP- Estandarte-Orkos
+  - first:
+      213: 21300028
+    second: ICO-MAP-Estandarte-Esqueletos
+  - first:
+      213: 21300030
+    second: ICO-MAP. Estandarte-Nos
+  - first:
+      213: 21300032
+    second: Escudo-legion-bg
+  - first:
+      213: 21300034
+    second: "Upgrade-colo\xF1ias-Colonia1-OFF"
+  - first:
+      213: 21300036
+    second: "Upgrade-colo\xF1ias-Colonia1"
+  - first:
+      213: 21300038
+    second: "Upgrade-colo\xF1ias-Colonia2-OFF"
+  - first:
+      213: 21300040
+    second: "Upgrade-colo\xF1ias-Colonia2"
+  - first:
+      213: 21300042
+    second: "Upgrade-colo\xF1ias-Colonia3-OFF"
+  - first:
+      213: 21300044
+    second: "Upgrade-colo\xF1ias-Colonia3"
+  - first:
+      213: 21300046
+    second: "Upgrade-colo\xF1ias-Colonia4-OFF"
+  - first:
+      213: 21300048
+    second: "Upgrade-colo\xF1ias-Colonia4"
+  - first:
+      213: 21300050
+    second: "Upgrade-colo\xF1ias-Colonia5-OFF"
+  - first:
+      213: 21300052
+    second: ICO-Hacha-Mercenario
+  - first:
+      213: 21300054
+    second: Upgrade-colonias-bg
+  - first:
+      213: 21300056
+    second: Upgrade-colonias-fill
+  - first:
+      213: 21300058
+    second: "Upgrade-colo\xF1ias-coinx1"
+  - first:
+      213: 21300060
+    second: "Upgrade-colo\xF1ias-coinx2"
+  - first:
+      213: 21300062
+    second: "Upgrade-colo\xF1ias-coinx3"
+  - first:
+      213: 21300064
+    second: "Upgrade-colo\xF1ias-coinx4"
+  - first:
+      213: 21300066
+    second: "Upgrade-colo\xF1ias-coinx5"
+  - first:
+      213: 21300068
+    second: bg-ejercitoinvasion
+  - first:
+      213: 21300070
+    second: Solapa-ejercitoinvasion
+  - first:
+      213: 21300072
+    second: ICO-Heroes
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 0
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Upgrade-colo\xF1ias-Colonia4"
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 857
+        width: 187
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 55.5}
+        - {x: 1.5, y: 82.5}
+        - {x: 12.5, y: 82.5}
+      - - {x: -93.5, y: -24.5}
+        - {x: -65.5, y: 43.5}
+        - {x: -15.5, y: 55.5}
+      - - {x: -93.5, y: -24.5}
+        - {x: -93.5, y: 13.5}
+        - {x: -65.5, y: 43.5}
+      - - {x: 93.5, y: 7.5}
+        - {x: 93.5, y: -49.5}
+        - {x: 20.5, y: -82.5}
+      - - {x: -93.5, y: -24.5}
+        - {x: -16.5, y: -82.5}
+        - {x: -77.5, y: -61.5}
+      - - {x: -93.5, y: -24.5}
+        - {x: -15.5, y: 55.5}
+        - {x: -16.5, y: -82.5}
+      - - {x: 20.5, y: -82.5}
+        - {x: -16.5, y: -82.5}
+        - {x: -15.5, y: 55.5}
+      - - {x: 93.5, y: 7.5}
+        - {x: 20.5, y: -82.5}
+        - {x: -15.5, y: 55.5}
+      - - {x: 93.5, y: 7.5}
+        - {x: -15.5, y: 55.5}
+        - {x: 12.5, y: 82.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade-colonias-bg
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 2
+        width: 9
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -5}
+        - {x: -4.5, y: 5}
+        - {x: 4.5, y: 5}
+      - - {x: 4.5, y: -5}
+        - {x: -4.5, y: -5}
+        - {x: 4.5, y: 5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Upgrade-colo\xF1ias-coinx3"
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 354
+        width: 42
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -19}
+        - {x: -21, y: 19}
+        - {x: 17, y: 19}
+      - - {x: 21, y: -19}
+        - {x: -21, y: -19}
+        - {x: 17, y: 19}
+      - - {x: 21, y: 15}
+        - {x: 21, y: -19}
+        - {x: 17, y: 19}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escudo-legion-bg
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 108
+        width: 239
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -85}
+        - {x: -45.5, y: 85}
+        - {x: 34.5, y: 85}
+      - - {x: -119.5, y: -44}
+        - {x: -119.5, y: 0}
+        - {x: -96.5, y: -55}
+      - - {x: -119.5, y: -44}
+        - {x: -96.5, y: -55}
+        - {x: -113.5, y: -58}
+      - - {x: -119.5, y: 0}
+        - {x: -45.5, y: 85}
+        - {x: -96.5, y: -55}
+      - - {x: -24.5, y: -85}
+        - {x: -96.5, y: -55}
+        - {x: -45.5, y: 85}
+      - - {x: 61.5, y: -62}
+        - {x: -24.5, y: -85}
+        - {x: 34.5, y: 85}
+      - - {x: 61.5, y: -62}
+        - {x: 25.5, y: -85}
+        - {x: -24.5, y: -85}
+      - - {x: 119.5, y: 0}
+        - {x: 119.5, y: -56}
+        - {x: 61.5, y: -62}
+      - - {x: 119.5, y: 0}
+        - {x: 61.5, y: -62}
+        - {x: 34.5, y: 85}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-MAP- Estandarte-Lobos
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 23
+        width: 41
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -41}
+        - {x: -20.5, y: 41}
+        - {x: 20.5, y: 41}
+      - - {x: 20.5, y: -41}
+        - {x: -20.5, y: -41}
+        - {x: 20.5, y: 41}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-MAP-Estandarte-Esqueletos
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 298
+        width: 40
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -41}
+        - {x: -20, y: 41}
+        - {x: 20, y: 41}
+      - - {x: 20, y: -41}
+        - {x: -20, y: -41}
+        - {x: 20, y: 41}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-Heroes
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 872
+        width: 72
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: -37}
+        - {x: -36, y: 37}
+        - {x: 36, y: 37}
+      - - {x: 36, y: -37}
+        - {x: -36, y: -37}
+        - {x: 36, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Upgrade-colo\xF1ias-coinx5"
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 551
+        width: 49
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -27}
+        - {x: -24.5, y: 27}
+        - {x: 24.5, y: 27}
+      - - {x: 24.5, y: -27}
+        - {x: -24.5, y: -27}
+        - {x: 24.5, y: 27}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solapa-ejercitoinvasion
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 15
+        width: 96
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: -45}
+        - {x: -48, y: 45}
+        - {x: 48, y: 45}
+      - - {x: 48, y: -45}
+        - {x: -48, y: -45}
+        - {x: 48, y: 45}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-MAP. Estandarte-Nos
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 683
+        width: 64
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 38}
+        - {x: -9, y: 61}
+        - {x: 3, y: 61}
+      - - {x: 32, y: 39}
+        - {x: -32, y: 38}
+        - {x: 3, y: 61}
+      - - {x: 32, y: -7}
+        - {x: 13, y: -61}
+        - {x: -32, y: -12}
+      - - {x: 13, y: -61}
+        - {x: -16, y: -61}
+        - {x: -32, y: -12}
+      - - {x: -32, y: 38}
+        - {x: 32, y: 39}
+        - {x: 32, y: -7}
+      - - {x: -32, y: 38}
+        - {x: 32, y: -7}
+        - {x: -32, y: -12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Upgrade-colo\xF1ias-coinx4"
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 337
+        width: 42
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -22}
+        - {x: -21, y: 22}
+        - {x: 21, y: 22}
+      - - {x: 21, y: -22}
+        - {x: -21, y: -22}
+        - {x: 21, y: 22}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Upgrade-colo\xF1ias-coinx1"
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 288
+        width: 38
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -14}
+        - {x: -19, y: 14}
+        - {x: 19, y: 14}
+      - - {x: 19, y: -14}
+        - {x: -19, y: -14}
+        - {x: 19, y: 14}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-Hero-Barbarian-Head
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 608
+        width: 62
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -9}
+        - {x: -31, y: 36}
+        - {x: 14, y: 36}
+      - - {x: 31, y: -9}
+        - {x: -31, y: -9}
+        - {x: 14, y: 36}
+      - - {x: -30, y: -13}
+        - {x: -31, y: -9}
+        - {x: 31, y: -9}
+      - - {x: 31, y: -9}
+        - {x: 31, y: -36}
+        - {x: 1, y: -36}
+      - - {x: -30, y: -13}
+        - {x: 31, y: -9}
+        - {x: 1, y: -36}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-ejercitoinvasion
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 8
+        width: 292
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146, y: -135}
+        - {x: -146, y: 135}
+        - {x: 146, y: 135}
+      - - {x: 146, y: -135}
+        - {x: -146, y: -135}
+        - {x: 146, y: 135}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Upgrade-colo\xF1ias-Colonia3-OFF"
+      rect:
+        serializedVersion: 2
+        x: 850.0761
+        y: 475.029
+        width: 171.9239
+        height: 135.8949
+      alignment: 9
+      pivot: {x: 0.4765126, y: 0.5001735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.5, y: -22}
+        - {x: -75.5, y: 41}
+        - {x: -17.5, y: 35}
+      - - {x: -3.5, y: -69}
+        - {x: -86.5, y: -22}
+        - {x: -17.5, y: 35}
+      - - {x: 86.5, y: -27}
+        - {x: -3.5, y: -69}
+        - {x: -17.5, y: 35}
+      - - {x: -17.5, y: 35}
+        - {x: 9.5, y: 68}
+        - {x: 86.5, y: 12}
+      - - {x: -17.5, y: 35}
+        - {x: 86.5, y: 12}
+        - {x: 86.5, y: -27}
+      - - {x: 9.5, y: 68}
+        - {x: -17.5, y: 35}
+        - {x: -6.5, y: 69}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Upgrade-colo\xF1ias-Colonia4-OFF"
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 385.0268
+        width: 171.9239
+        height: 159.9733
+      alignment: 9
+      pivot: {x: 0.474047, y: 0.5030418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 25.5}
+        - {x: -13.5, y: 80.5}
+        - {x: 5.5, y: 80.5}
+      - - {x: -86.5, y: 19.5}
+        - {x: -67.5, y: 39.5}
+        - {x: -35.5, y: 16.5}
+      - - {x: -86.5, y: -33.5}
+        - {x: -86.5, y: 19.5}
+        - {x: -35.5, y: 16.5}
+      - - {x: -3.5, y: -80.5}
+        - {x: -35.5, y: 16.5}
+        - {x: -19.5, y: 25.5}
+      - - {x: -3.5, y: -80.5}
+        - {x: -86.5, y: -33.5}
+        - {x: -35.5, y: 16.5}
+      - - {x: 32.5, y: 35.5}
+        - {x: -19.5, y: 25.5}
+        - {x: 5.5, y: 80.5}
+      - - {x: 32.5, y: 35.5}
+        - {x: 79.5, y: 8.5}
+        - {x: 86.5, y: -39.5}
+      - - {x: 32.5, y: 35.5}
+        - {x: 53.5, y: 33.5}
+        - {x: 79.5, y: 8.5}
+      - - {x: 32.5, y: 35.5}
+        - {x: 86.5, y: -39.5}
+        - {x: -3.5, y: -80.5}
+      - - {x: 32.5, y: 35.5}
+        - {x: -3.5, y: -80.5}
+        - {x: -19.5, y: 25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Upgrade-colo\xF1ias-Colonia2"
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 518
+        width: 176
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: -58}
+        - {x: -22, y: 66}
+        - {x: 54, y: 66}
+      - - {x: -88, y: -1}
+        - {x: -56, y: 61}
+        - {x: -22, y: 66}
+      - - {x: -41, y: -57}
+        - {x: -88, y: -1}
+        - {x: -22, y: 66}
+      - - {x: -41, y: -57}
+        - {x: -88, y: -21}
+        - {x: -88, y: -1}
+      - - {x: -10, y: -66}
+        - {x: -41, y: -57}
+        - {x: -22, y: 66}
+      - - {x: 6, y: -66}
+        - {x: -10, y: -66}
+        - {x: -22, y: 66}
+      - - {x: 39, y: -58}
+        - {x: 6, y: -66}
+        - {x: -22, y: 66}
+      - - {x: 88, y: -2}
+        - {x: 88, y: -31}
+        - {x: 39, y: -58}
+      - - {x: 88, y: -2}
+        - {x: 39, y: -58}
+        - {x: 54, y: 66}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-Hero-Arcani-head
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 341
+        width: 48
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -25.5}
+        - {x: -24, y: 25.5}
+        - {x: 24, y: 25.5}
+      - - {x: 24, y: -25.5}
+        - {x: -24, y: -25.5}
+        - {x: 24, y: 25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Upgrade-colo\xF1ias-Colonia3"
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 714
+        width: 186
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50, y: -57}
+        - {x: 6, y: 70}
+        - {x: 36, y: 70}
+      - - {x: -59, y: 61}
+        - {x: -93, y: -7}
+        - {x: -93, y: 11}
+      - - {x: -93, y: 11}
+        - {x: -92, y: 29}
+        - {x: -59, y: 61}
+      - - {x: -69, y: -53}
+        - {x: -59, y: 61}
+        - {x: -8, y: -70}
+      - - {x: -59, y: 61}
+        - {x: 6, y: 70}
+        - {x: -8, y: -70}
+      - - {x: -69, y: -53}
+        - {x: -91, y: -23}
+        - {x: -93, y: -7}
+      - - {x: -69, y: -53}
+        - {x: -93, y: -7}
+        - {x: -59, y: 61}
+      - - {x: 10, y: -70}
+        - {x: -8, y: -70}
+        - {x: 6, y: 70}
+      - - {x: 50, y: -57}
+        - {x: 10, y: -70}
+        - {x: 6, y: 70}
+      - - {x: 93, y: 26}
+        - {x: 93, y: -30}
+        - {x: 50, y: -57}
+      - - {x: 93, y: 26}
+        - {x: 50, y: -57}
+        - {x: 36, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Upgrade-colo\xF1ias-Colonia2-OFF"
+      rect:
+        serializedVersion: 2
+        x: 661.0363
+        y: 397.0268
+        width: 170.9637
+        height: 114.8971
+      alignment: 9
+      pivot: {x: 0.5028186, y: 0.5567871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: -13}
+        - {x: -80.5, y: 26}
+        - {x: -42.5, y: 31}
+      - - {x: -1.5, y: -60}
+        - {x: -42.5, y: 31}
+        - {x: 9.5, y: 60}
+      - - {x: -1.5, y: -60}
+        - {x: -85.5, y: -13}
+        - {x: -42.5, y: 31}
+      - - {x: 85.5, y: 2}
+        - {x: 85.5, y: -17}
+        - {x: -1.5, y: -60}
+      - - {x: 85.5, y: 2}
+        - {x: -1.5, y: -60}
+        - {x: 9.5, y: 60}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-MAP- Estandarte-Goblins
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 298
+        width: 40
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -41}
+        - {x: -20, y: 41}
+        - {x: 20, y: 41}
+      - - {x: 20, y: -41}
+        - {x: -20, y: -41}
+        - {x: 20, y: 41}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escudo-legion-ico3
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 614
+        width: 130
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: 30}
+        - {x: -31, y: 67}
+        - {x: 65, y: 67}
+      - - {x: -65, y: 31}
+        - {x: -65, y: 43}
+        - {x: -31, y: 67}
+      - - {x: -49, y: -17}
+        - {x: -65, y: 31}
+        - {x: -31, y: 67}
+      - - {x: 54, y: 30}
+        - {x: -49, y: -17}
+        - {x: -31, y: 67}
+      - - {x: -17, y: -67}
+        - {x: -54, y: -49}
+        - {x: -49, y: -17}
+      - - {x: 20, y: -67}
+        - {x: -17, y: -67}
+        - {x: -49, y: -17}
+      - - {x: 54, y: 30}
+        - {x: 54, y: -49}
+        - {x: 20, y: -67}
+      - - {x: 54, y: 30}
+        - {x: 20, y: -67}
+        - {x: -49, y: -17}
+      - - {x: 65, y: 33}
+        - {x: 54, y: 30}
+        - {x: 65, y: 67}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escudo-legion-ico1
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 888
+        width: 130
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: 30}
+        - {x: -31, y: 67}
+        - {x: 65, y: 67}
+      - - {x: -65, y: 31}
+        - {x: -65, y: 43}
+        - {x: -31, y: 67}
+      - - {x: -49, y: -17}
+        - {x: -65, y: 31}
+        - {x: -31, y: 67}
+      - - {x: 54, y: 30}
+        - {x: -49, y: -17}
+        - {x: -31, y: 67}
+      - - {x: -17, y: -67}
+        - {x: -54, y: -49}
+        - {x: -49, y: -17}
+      - - {x: 20, y: -67}
+        - {x: -17, y: -67}
+        - {x: -49, y: -17}
+      - - {x: 54, y: 30}
+        - {x: 54, y: -49}
+        - {x: 20, y: -67}
+      - - {x: 54, y: 30}
+        - {x: 20, y: -67}
+        - {x: -49, y: -17}
+      - - {x: 65, y: 33}
+        - {x: 54, y: 30}
+        - {x: 65, y: 67}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Upgrade-colo\xF1ias-Colonia5-OFF"
+      rect:
+        serializedVersion: 2
+        x: 310.0761
+        y: 384.0761
+        width: 171.8477
+        height: 158.8477
+      alignment: 9
+      pivot: {x: 0.4854523, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.5, y: -35}
+        - {x: -83.5, y: 56}
+        - {x: -38.5, y: 15}
+      - - {x: -1.5, y: -81}
+        - {x: -86.5, y: -35}
+        - {x: -38.5, y: 15}
+      - - {x: 12.5, y: 72}
+        - {x: 23.5, y: 47}
+        - {x: -38.5, y: 15}
+      - - {x: 23.5, y: 47}
+        - {x: 77.5, y: 20}
+        - {x: 86.5, y: -38}
+      - - {x: 23.5, y: 47}
+        - {x: 86.5, y: -38}
+        - {x: -1.5, y: -81}
+      - - {x: 23.5, y: 47}
+        - {x: -1.5, y: -81}
+        - {x: -38.5, y: 15}
+      - - {x: 12.5, y: 72}
+        - {x: -38.5, y: 15}
+        - {x: 1.5, y: 81}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-BTN-Volver
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 984
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: -19}
+        - {x: -17.5, y: 19}
+        - {x: 17.5, y: 19}
+      - - {x: 17.5, y: -19}
+        - {x: -17.5, y: -19}
+        - {x: 17.5, y: 19}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade-colonias-fill
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2
+        width: 9
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -5}
+        - {x: -4.5, y: 5}
+        - {x: 4.5, y: 5}
+      - - {x: 4.5, y: -5}
+        - {x: -4.5, y: -5}
+        - {x: 4.5, y: 5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade-colonias-conector
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 319
+        width: 115
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.5, y: -30.5}
+        - {x: -57.5, y: 30.5}
+        - {x: 57.5, y: 30.5}
+      - - {x: 57.5, y: -30.5}
+        - {x: -57.5, y: -30.5}
+        - {x: 57.5, y: 30.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Upgrade-colo\xF1ias-Colonia1"
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 342
+        width: 154
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77, y: 18}
+        - {x: -26, y: 64}
+        - {x: 53, y: 64}
+      - - {x: -77, y: 19}
+        - {x: -58, y: 55}
+        - {x: -26, y: 64}
+      - - {x: -32, y: -64}
+        - {x: -26, y: 64}
+        - {x: 22, y: -64}
+      - - {x: -32, y: -64}
+        - {x: -77, y: -34}
+        - {x: -77, y: 19}
+      - - {x: -32, y: -64}
+        - {x: -77, y: 19}
+        - {x: -26, y: 64}
+      - - {x: 77, y: -20}
+        - {x: 55, y: -56}
+        - {x: 22, y: -64}
+      - - {x: 77, y: 18}
+        - {x: 77, y: -20}
+        - {x: 22, y: -64}
+      - - {x: 77, y: 18}
+        - {x: 22, y: -64}
+        - {x: -26, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Upgrade-colo\xF1ias-Colonia1-OFF"
+      rect:
+        serializedVersion: 2
+        x: 305.0268
+        y: 7.029488
+        width: 126.9733
+        height: 91.94376
+      alignment: 9
+      pivot: {x: 0.5117081, y: 0.445604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: -50.5}
+        - {x: -67.5, y: -12.5}
+        - {x: -5.5, y: 50.5}
+      - - {x: 67.5, y: 0.5}
+        - {x: 67.5, y: -17.5}
+        - {x: 1.5, y: -50.5}
+      - - {x: 67.5, y: 0.5}
+        - {x: 1.5, y: -50.5}
+        - {x: -5.5, y: 50.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Upgrade-colo\xF1ias-coinx2"
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 281
+        width: 38
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -17.5}
+        - {x: -19, y: 17.5}
+        - {x: 19, y: 17.5}
+      - - {x: 19, y: -17.5}
+        - {x: -19, y: -17.5}
+        - {x: 19, y: 17.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escudo-legion-ico2
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 751
+        width: 130
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: 30}
+        - {x: -31, y: 67}
+        - {x: 65, y: 67}
+      - - {x: -65, y: 31}
+        - {x: -65, y: 43}
+        - {x: -31, y: 67}
+      - - {x: -49, y: -17}
+        - {x: -65, y: 31}
+        - {x: -31, y: 67}
+      - - {x: 54, y: 30}
+        - {x: -49, y: -17}
+        - {x: -31, y: 67}
+      - - {x: -17, y: -67}
+        - {x: -54, y: -49}
+        - {x: -49, y: -17}
+      - - {x: 20, y: -67}
+        - {x: -17, y: -67}
+        - {x: -49, y: -17}
+      - - {x: 54, y: 30}
+        - {x: 54, y: -49}
+        - {x: 20, y: -67}
+      - - {x: 54, y: 30}
+        - {x: 20, y: -67}
+        - {x: -49, y: -17}
+      - - {x: 65, y: 33}
+        - {x: 54, y: 30}
+        - {x: 65, y: 67}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-Heroe-GladiadorHead
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 808
+        width: 65
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 5.5}
+        - {x: -32.5, y: 30.5}
+        - {x: 4.5, y: 30.5}
+      - - {x: -31.5, y: -7.5}
+        - {x: -32.5, y: 5.5}
+        - {x: 4.5, y: 30.5}
+      - - {x: -0.5, y: -30.5}
+        - {x: -31.5, y: -7.5}
+        - {x: 4.5, y: 30.5}
+      - - {x: 32.5, y: 2.5}
+        - {x: 32.5, y: -30.5}
+        - {x: -0.5, y: -30.5}
+      - - {x: 32.5, y: 2.5}
+        - {x: -0.5, y: -30.5}
+        - {x: 4.5, y: 30.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-MAP- Estandarte-Orkos
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 298
+        width: 40
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -41}
+        - {x: -20, y: 41}
+        - {x: 20, y: 41}
+      - - {x: 20, y: -41}
+        - {x: -20, y: -41}
+        - {x: 20, y: 41}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-Hacha-Mercenario
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 553
+        width: 51
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -9}
+        - {x: -25.5, y: 29}
+        - {x: 25.5, y: 29}
+      - - {x: -5.5, y: -29}
+        - {x: -25.5, y: -9}
+        - {x: 25.5, y: 29}
+      - - {x: 25.5, y: -29}
+        - {x: -5.5, y: -29}
+        - {x: 25.5, y: 29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Upgrade-colo\xF1ias-Colonia5"
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 548
+        width: 181
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: -81.5}
+        - {x: -0.5, y: 81.5}
+        - {x: 10.5, y: 81.5}
+      - - {x: -90.5, y: -18.5}
+        - {x: -90.5, y: 27.5}
+        - {x: -0.5, y: 81.5}
+      - - {x: -90.5, y: -18.5}
+        - {x: -67.5, y: -63.5}
+        - {x: -88.5, y: -33.5}
+      - - {x: -90.5, y: -18.5}
+        - {x: -8.5, y: -81.5}
+        - {x: -67.5, y: -63.5}
+      - - {x: -90.5, y: -18.5}
+        - {x: -0.5, y: 81.5}
+        - {x: -8.5, y: -81.5}
+      - - {x: 6.5, y: -81.5}
+        - {x: -8.5, y: -81.5}
+        - {x: -0.5, y: 81.5}
+      - - {x: 90.5, y: 17.5}
+        - {x: 90.5, y: -58.5}
+        - {x: 6.5, y: -81.5}
+      - - {x: 90.5, y: 17.5}
+        - {x: 6.5, y: -81.5}
+        - {x: 10.5, y: 81.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICO-Heroe-ecuestre-Head
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 559
+        width: 55
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: -8}
+        - {x: -27.5, y: 26}
+        - {x: 27.5, y: 26}
+      - - {x: -9.5, y: -26}
+        - {x: -27.5, y: -8}
+        - {x: 27.5, y: 26}
+      - - {x: 27.5, y: -26}
+        - {x: -9.5, y: -26}
+        - {x: 27.5, y: 26}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Upgrade-colo\xF1ias-Flecha"
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 949
+        width: 31
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -16}
+        - {x: -15.5, y: 16}
+        - {x: 15.5, y: 16}
+      - - {x: 15.5, y: -16}
+        - {x: -15.5, y: -16}
+        - {x: 15.5, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ICO-MAP- Estandarte-Goblins: 21300022
+      "Upgrade-colo\xF1ias-coinx5": 21300066
+      Escudo-legion-ico1: 21300014
+      ICO-MAP- Estandarte-Lobos: 21300024
+      ICO-MAP- Estandarte-Orkos: 21300026
+      ICO-MAP. Estandarte-Nos: 21300030
+      "Upgrade-colo\xF1ias-coinx2": 21300060
+      "Upgrade-colo\xF1ias-Colonia3": 21300044
+      "Upgrade-colo\xF1ias-Colonia4-OFF": 21300046
+      Escudo-legion-ico3: 21300018
+      ICO-Hacha-Mercenario: 21300052
+      Escudo-legion-bg: 21300032
+      ICO-Heroe-ecuestre-Head: 21300012
+      "Upgrade-colo\xF1ias-Colonia2-OFF": 21300038
+      "Upgrade-colo\xF1ias-coinx1": 21300058
+      ICO-MAP-Estandarte-Esqueletos: 21300028
+      "Upgrade-colo\xF1ias-Flecha": 21300004
+      ICO-Heroes: 21300072
+      Upgrade-colonias-fill: 21300056
+      ICO-Hero-Barbarian-Head: 21300008
+      Solapa-ejercitoinvasion: 21300070
+      "Upgrade-colo\xF1ias-coinx4": 21300064
+      "Upgrade-colo\xF1ias-Colonia5": 21300000
+      Upgrade-colonias-bg: 21300054
+      "Upgrade-colo\xF1ias-Colonia1-OFF": 21300034
+      Escudo-legion-ico2: 21300016
+      ICO-Heroe-GladiadorHead: 21300010
+      "Upgrade-colo\xF1ias-coinx3": 21300062
+      "Upgrade-colo\xF1ias-Colonia5-OFF": 21300050
+      "Upgrade-colo\xF1ias-Colonia2": 21300040
+      Upgrade-colonias-conector: 21300002
+      ICO-BTN-Volver: 21300020
+      "Upgrade-colo\xF1ias-Colonia3-OFF": 21300042
+      ICO-Hero-Arcani-head: 21300006
+      bg-ejercitoinvasion: 21300068
+      "Upgrade-colo\xF1ias-Colonia1": 21300036
+      "Upgrade-colo\xF1ias-Colonia4": 21300048
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

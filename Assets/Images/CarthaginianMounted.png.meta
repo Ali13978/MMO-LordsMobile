@@ -1,0 +1,1499 @@
+fileFormatVersion: 2
+guid: 8c04ecbbf529478baa38f128f7464cd8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: CAR_2_Mounted_Attack_0000
+  - first:
+      213: 21300002
+    second: CAR_2_Mounted_Attack_0001
+  - first:
+      213: 21300004
+    second: CAR_2_Mounted_Attack_0002
+  - first:
+      213: 21300006
+    second: CAR_2_Mounted_Attack_0003
+  - first:
+      213: 21300008
+    second: CAR_2_Mounted_Death_0000
+  - first:
+      213: 21300010
+    second: CAR_2_Mounted_Death_0001
+  - first:
+      213: 21300012
+    second: CAR_2_Mounted_Death_0002
+  - first:
+      213: 21300014
+    second: CAR_2_Mounted_Death_0003
+  - first:
+      213: 21300016
+    second: CAR_2_Mounted_Death_0004
+  - first:
+      213: 21300018
+    second: CAR_2_Mounted_Idle_0000
+  - first:
+      213: 21300020
+    second: CAR_2_Mounted_Idle_0001
+  - first:
+      213: 21300022
+    second: CAR_2_Mounted_Idle_0002
+  - first:
+      213: 21300024
+    second: CAR_2_Mounted_Idle_0003
+  - first:
+      213: 21300026
+    second: CAR_2_Mounted_Running_0000
+  - first:
+      213: 21300028
+    second: CAR_2_Mounted_Running_0001
+  - first:
+      213: 21300030
+    second: CAR_2_Mounted_Running_0002
+  - first:
+      213: 21300032
+    second: CAR_2_Mounted_Running_0003
+  - first:
+      213: 21300034
+    second: CAR_2_Mounted_Running_0004
+  - first:
+      213: 21300036
+    second: CAR_2_Mounted_Running_0005
+  - first:
+      213: 21300038
+    second: CAR_Mounted_Attack_0000
+  - first:
+      213: 21300040
+    second: CAR_Mounted_Attack_0001
+  - first:
+      213: 21300042
+    second: CAR_Mounted_Attack_0002
+  - first:
+      213: 21300044
+    second: CAR_Mounted_Attack_0003
+  - first:
+      213: 21300046
+    second: CAR_Mounted_Death_0000
+  - first:
+      213: 21300048
+    second: CAR_Mounted_Death_0001
+  - first:
+      213: 21300050
+    second: CAR_Mounted_Death_0002
+  - first:
+      213: 21300052
+    second: CAR_Mounted_Death_0003
+  - first:
+      213: 21300054
+    second: CAR_Mounted_Death_0004
+  - first:
+      213: 21300056
+    second: CAR_Mounted_Running_0000
+  - first:
+      213: 21300058
+    second: CAR_Mounted_Running_0001
+  - first:
+      213: 21300060
+    second: CAR_Mounted_Running_0002
+  - first:
+      213: 21300062
+    second: CAR_Mounted_Running_0003
+  - first:
+      213: 21300064
+    second: CAR_Mounted_Running_0004
+  - first:
+      213: 21300066
+    second: CAR_Mounted_Running_0005
+  - first:
+      213: 21300068
+    second: CAR_Mounted_idle_0000
+  - first:
+      213: 21300070
+    second: CAR_Mounted_idle_0001
+  - first:
+      213: 21300072
+    second: CAR_Mounted_idle_0002
+  - first:
+      213: 21300074
+    second: CAR_Mounted_idle_0003
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 13
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CAR_2_Mounted_Attack_0002
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 869
+        width: 78
+        height: 98.92388
+      alignment: 9
+      pivot: {x: 1.01282, y: -0.1415229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: -14.5}
+        - {x: -26, y: 33.5}
+        - {x: 2, y: 49.5}
+      - - {x: -39, y: 10.5}
+        - {x: -26, y: 33.5}
+        - {x: 29, y: -14.5}
+      - - {x: -39, y: 10.5}
+        - {x: 29, y: -14.5}
+        - {x: 1, y: -49.5}
+      - - {x: 35, y: 43.50001}
+        - {x: 39, y: -26.5}
+        - {x: 29, y: -14.5}
+      - - {x: 35, y: 43.50001}
+        - {x: 29, y: -14.5}
+        - {x: 2, y: 49.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Mounted_Running_0003
+      rect:
+        serializedVersion: 2
+        x: 4.07612
+        y: 117.0761
+        width: 91.91097
+        height: 76.89713
+      alignment: 9
+      pivot: {x: 0.7063779, y: -0.3781171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -21}
+        - {x: -48, y: 24}
+        - {x: -8, y: 44}
+      - - {x: 17, y: -21}
+        - {x: 55, y: -44}
+        - {x: -55, y: -33}
+      - - {x: 17, y: -21}
+        - {x: -55, y: -33}
+        - {x: -48, y: 24}
+      - - {x: 45, y: -9}
+        - {x: 17, y: -21}
+        - {x: -8, y: 44}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2_Mounted_Idle_0000
+      rect:
+        serializedVersion: 2
+        x: 6.07612
+        y: 395
+        width: 88.92388
+        height: 92
+      alignment: 9
+      pivot: {x: 0.8088253, y: -0.173913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 24}
+        - {x: -5.5, y: 46.00001}
+        - {x: 11.5, y: 46.00001}
+      - - {x: 46.5, y: -4}
+        - {x: 23.5, y: -46}
+        - {x: -30.5, y: 24}
+      - - {x: 23.5, y: -46}
+        - {x: -46.5, y: -29}
+        - {x: -30.5, y: 24}
+      - - {x: 46.5, y: -4}
+        - {x: -30.5, y: 24}
+        - {x: 11.5, y: 46.00001}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Mounted_idle_0003
+      rect:
+        serializedVersion: 2
+        x: 2.07612
+        y: 572.0761
+        width: 92.92388
+        height: 94.92388
+      alignment: 9
+      pivot: {x: 0.7094396, y: -0.2220317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.5, y: -46.5}
+        - {x: -46.5, y: 1.5}
+        - {x: -10.5, y: 47.5}
+      - - {x: 46.5, y: -46.5}
+        - {x: -45.5, y: -47.5}
+        - {x: -46.5, y: 1.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Mounted_Death_0003
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 776
+        width: 129
+        height: 62.92388
+      alignment: 9
+      pivot: {x: 0.496124, y: -0.03178444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: -16}
+        - {x: -21.5, y: -34}
+        - {x: -64.5, y: 9}
+      - - {x: -5.5, y: -16}
+        - {x: -7.5, y: -32}
+        - {x: -21.5, y: -34}
+      - - {x: -5.5, y: -16}
+        - {x: -64.5, y: 9}
+        - {x: -46.5, y: 34}
+      - - {x: 29.5, y: -14}
+        - {x: -5.5, y: -16}
+        - {x: -46.5, y: 34}
+      - - {x: 64.5, y: 14}
+        - {x: 29.5, y: -14}
+        - {x: -46.5, y: 34}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Mounted_Attack_0002
+      rect:
+        serializedVersion: 2
+        x: 17.02675
+        y: 656
+        width: 90.97325
+        height: 91.97325
+      alignment: 9
+      pivot: {x: 0.7801552, y: -0.1413454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: -22}
+        - {x: -52.5, y: 25}
+        - {x: 1.5, y: 47.00001}
+      - - {x: 6.5, y: -22}
+        - {x: -4.5, y: -47}
+        - {x: -52.5, y: 25}
+      - - {x: 52.5, y: 0.000003814697}
+        - {x: 52.5, y: -21}
+        - {x: 6.5, y: -22}
+      - - {x: 52.5, y: 0.000003814697}
+        - {x: 6.5, y: -22}
+        - {x: 1.5, y: 47.00001}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Mounted_Death_0004
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 428
+        width: 124
+        height: 61
+      alignment: 9
+      pivot: {x: 0.4435484, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -30.5}
+        - {x: -34, y: -30.5}
+        - {x: -34, y: -5.5}
+      - - {x: -34, y: -5.5}
+        - {x: 50, y: -5.5}
+        - {x: -16, y: -30.5}
+      - - {x: -34, y: -5.5}
+        - {x: -29, y: 29.5}
+        - {x: 50, y: -5.5}
+      - - {x: -16, y: -30.5}
+        - {x: 50, y: -5.5}
+        - {x: 62, y: -28.5}
+      - - {x: -29, y: 29.5}
+        - {x: -34, y: -5.5}
+        - {x: -62, y: 30.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Mounted_idle_0001
+      rect:
+        serializedVersion: 2
+        x: 2.07612
+        y: 572.0761
+        width: 92.92388
+        height: 94.92388
+      alignment: 9
+      pivot: {x: 0.7094396, y: -0.2220317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.5, y: -46.5}
+        - {x: -46.5, y: 1.5}
+        - {x: -10.5, y: 47.5}
+      - - {x: 46.5, y: -46.5}
+        - {x: -45.5, y: -47.5}
+        - {x: -46.5, y: 1.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2_Mounted_Death_0002
+      rect:
+        serializedVersion: 2
+        x: 66.02675
+        y: 900
+        width: 126.9733
+        height: 86.95709
+      alignment: 9
+      pivot: {x: 0.5117082, y: -0.1264992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: -44}
+        - {x: -66.5, y: 7}
+        - {x: -11.5, y: 44}
+      - - {x: 66.5, y: 16}
+        - {x: -44.5, y: -44}
+        - {x: -11.5, y: 44}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2_Mounted_Idle_0002
+      rect:
+        serializedVersion: 2
+        x: 555.0761
+        y: 935.0761
+        width: 79.87257
+        height: 86.84776
+      alignment: 9
+      pivot: {x: 0.900483, y: -0.2426788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: -9.999996}
+        - {x: -13, y: 40.99999}
+        - {x: 9, y: 44.00001}
+      - - {x: 45, y: -9.999996}
+        - {x: 23, y: -44}
+        - {x: -41, y: 7}
+      - - {x: 23, y: -44}
+        - {x: -45, y: -38}
+        - {x: -41, y: 7}
+      - - {x: 45, y: -9.999996}
+        - {x: -41, y: 7}
+        - {x: -13, y: 40.99999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2_Mounted_Running_0000
+      rect:
+        serializedVersion: 2
+        x: 916.0761
+        y: 942.0267
+        width: 83.91097
+        height: 77.89713
+      alignment: 9
+      pivot: {x: 0.8333104, y: -0.3469541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: -40.5}
+        - {x: -29.5, y: 34.5}
+        - {x: 25.5, y: 40.50001}
+      - - {x: -10.5, y: -40.5}
+        - {x: -47.5, y: -35.5}
+        - {x: -29.5, y: 34.5}
+      - - {x: 47.5, y: -24.5}
+        - {x: -10.5, y: -40.5}
+        - {x: 25.5, y: 40.50001}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Mounted_Running_0004
+      rect:
+        serializedVersion: 2
+        x: 5.07612
+        y: 492.0761
+        width: 92.91097
+        height: 74.89713
+      alignment: 9
+      pivot: {x: 0.6987752, y: -0.4015656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: -18}
+        - {x: -46, y: 14}
+        - {x: -13, y: 40.00001}
+      - - {x: 27, y: -18}
+        - {x: 45, y: -36}
+        - {x: -53, y: -40}
+      - - {x: 27, y: -18}
+        - {x: -53, y: -40}
+        - {x: -46, y: 14}
+      - - {x: 53, y: -6}
+        - {x: 27, y: -18}
+        - {x: -13, y: 40.00001}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2_Mounted_Running_0004
+      rect:
+        serializedVersion: 2
+        x: 646.0761
+        y: 942.0761
+        width: 91.92388
+        height: 79.84776
+      alignment: 9
+      pivot: {x: 0.7606716, y: -0.3641444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: -35}
+        - {x: -31.5, y: 36.99999}
+        - {x: 12.5, y: 41}
+      - - {x: 36.5, y: -41}
+        - {x: -47.5, y: -35}
+        - {x: 12.5, y: 41}
+      - - {x: 47.5, y: 15}
+        - {x: 36.5, y: -41}
+        - {x: 12.5, y: 41}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2_Mounted_Attack_0001
+      rect:
+        serializedVersion: 2
+        x: 463.0987
+        y: 935
+        width: 83.82519
+        height: 85.92388
+      alignment: 9
+      pivot: {x: 0.9770489, y: -0.279317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: -42.5}
+        - {x: -46, y: -20.5}
+        - {x: -15, y: 43.5}
+      - - {x: 37, y: 12.5}
+        - {x: 46, y: -43.5}
+        - {x: 1, y: -42.5}
+      - - {x: 37, y: 12.5}
+        - {x: 1, y: -42.5}
+        - {x: -15, y: 43.5}
+      - - {x: 19, y: 42.5}
+        - {x: 37, y: 12.5}
+        - {x: -15, y: 43.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Mounted_Running_0002
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 871.0761
+        width: 94.98709
+        height: 75.92388
+      alignment: 9
+      pivot: {x: 0.705359, y: -0.3961351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: 12}
+        - {x: -41.5, y: 23}
+        - {x: -8.500002, y: 38.99999}
+      - - {x: 38.5, y: 12}
+        - {x: 48.5, y: -35}
+        - {x: -48.5, y: -39}
+      - - {x: 38.5, y: 12}
+        - {x: -48.5, y: -39}
+        - {x: -41.5, y: 23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2_Mounted_Running_0001
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 338
+        width: 87.92388
+        height: 85
+      alignment: 9
+      pivot: {x: 0.8530106, y: -0.2352941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: -27.5}
+        - {x: -27, y: 42.49999}
+        - {x: 30, y: 42.49999}
+      - - {x: 48, y: -27.5}
+        - {x: -48, y: -42.5}
+        - {x: -27, y: 42.49999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2_Mounted_Death_0000
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 684.0761
+        width: 89
+        height: 100.9239
+      alignment: 9
+      pivot: {x: 0.8539326, y: -0.07011335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: 16.5}
+        - {x: -3.5, y: 51.50001}
+        - {x: 13.5, y: 51.50001}
+      - - {x: -44.5, y: -23.5}
+        - {x: 36.5, y: 16.5}
+        - {x: 44.5, y: -51.5}
+      - - {x: -44.5, y: -23.5}
+        - {x: -28.5, y: 29.5}
+        - {x: 36.5, y: 16.5}
+      - - {x: 36.5, y: 16.5}
+        - {x: -28.5, y: 29.5}
+        - {x: -3.5, y: 51.50001}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Mounted_idle_0000
+      rect:
+        serializedVersion: 2
+        x: 6.07612
+        y: 848.0761
+        width: 113.9239
+        height: 92.92388
+      alignment: 9
+      pivot: {x: 0.578666, y: -0.2268105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -13.5}
+        - {x: -50, y: 12.5}
+        - {x: -14, y: 47.5}
+      - - {x: 9, y: -13.5}
+        - {x: 59, y: -47.5}
+        - {x: -59, y: -41.5}
+      - - {x: 9, y: -13.5}
+        - {x: -59, y: -41.5}
+        - {x: -50, y: 12.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2_Mounted_Idle_0003
+      rect:
+        serializedVersion: 2
+        x: 372.0761
+        y: 934.0129
+        width: 78.80231
+        height: 87.91097
+      alignment: 9
+      pivot: {x: 0.912713, y: -0.2276501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 13.5}
+        - {x: -7.5, y: 43.50001}
+        - {x: 9.5, y: 44.50001}
+      - - {x: 45.5, y: -6.5}
+        - {x: 23.5, y: -44.5}
+        - {x: -37.5, y: 13.5}
+      - - {x: 23.5, y: -44.5}
+        - {x: -45.5, y: -32.5}
+        - {x: -37.5, y: 13.5}
+      - - {x: 45.5, y: -6.5}
+        - {x: -37.5, y: 13.5}
+        - {x: 9.5, y: 44.50001}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2_Mounted_Death_0003
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 848.0267
+        width: 129
+        height: 72.97325
+      alignment: 9
+      pivot: {x: 0.4883721, y: -0.09629191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: -37.5}
+        - {x: -35.5, y: -24.5}
+        - {x: -22.5, y: -24.5}
+      - - {x: -50.5, y: -16.5}
+        - {x: -64.5, y: 13.5}
+        - {x: 11.5, y: 37.5}
+      - - {x: 37.5, y: -14.5}
+        - {x: -50.5, y: -16.5}
+        - {x: 11.5, y: 37.5}
+      - - {x: 64.5, y: 1.5}
+        - {x: 37.5, y: -14.5}
+        - {x: 11.5, y: 37.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2_Mounted_Running_0005
+      rect:
+        serializedVersion: 2
+        x: 276.0761
+        y: 945.0761
+        width: 82.84776
+        height: 76.92388
+      alignment: 9
+      pivot: {x: 0.8440046, y: -0.3649856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: -27.5}
+        - {x: -27, y: 42.49999}
+        - {x: 30, y: 42.49999}
+      - - {x: 48, y: -27.5}
+        - {x: -48, y: -42.5}
+        - {x: -27, y: 42.49999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2_Mounted_Death_0001
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 12
+        width: 97.92388
+        height: 95.92388
+      alignment: 9
+      pivot: {x: 0.725053, y: -0.09382439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -10}
+        - {x: -26, y: 47}
+        - {x: 9, y: 47.99999}
+      - - {x: 10, y: -10}
+        - {x: -51, y: 1.999996}
+        - {x: -26, y: 47}
+      - - {x: 10, y: -10}
+        - {x: -40, y: -28}
+        - {x: -51, y: 1.999996}
+      - - {x: 10, y: -10}
+        - {x: -1, y: -48}
+        - {x: -40, y: -28}
+      - - {x: 41, y: 10}
+        - {x: 51, y: -20}
+        - {x: 10, y: -10}
+      - - {x: 41, y: 10}
+        - {x: 10, y: -10}
+        - {x: 9, y: 47.99999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Mounted_Attack_0000
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 741.0761
+        width: 99
+        height: 88.92388
+      alignment: 9
+      pivot: {x: 0.7474747, y: -0.2595041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: 2}
+        - {x: -49.5, y: -6}
+        - {x: -9.5, y: 45}
+      - - {x: 34.5, y: 2}
+        - {x: 49.5, y: -43}
+        - {x: -27.5, y: -45}
+      - - {x: 34.5, y: 2}
+        - {x: -27.5, y: -45}
+        - {x: -49.5, y: -6}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Mounted_Attack_0001
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 808
+        width: 92
+        height: 83
+      alignment: 9
+      pivot: {x: 0.7282609, y: -0.3253012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 0.5}
+        - {x: -46, y: 12.5}
+        - {x: -11, y: 41.5}
+      - - {x: -18, y: -41.5}
+        - {x: -46, y: -26.5}
+        - {x: -46, y: 12.5}
+      - - {x: 31, y: 0.5}
+        - {x: 46, y: -39.5}
+        - {x: -18, y: -41.5}
+      - - {x: 31, y: 0.5}
+        - {x: -18, y: -41.5}
+        - {x: -46, y: 12.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2_Mounted_Running_0003
+      rect:
+        serializedVersion: 2
+        x: 824.0761
+        y: 941.0513
+        width: 81.87257
+        height: 80.94868
+      alignment: 9
+      pivot: {x: 0.8540576, y: -0.3465323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: -43}
+        - {x: -7, y: 43}
+        - {x: 37, y: 43}
+      - - {x: 45, y: -43}
+        - {x: -33, y: 23}
+        - {x: -7, y: 43}
+      - - {x: 45, y: -43}
+        - {x: -45, y: -31}
+        - {x: -33, y: 23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2_Mounted_Attack_0000
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 684.0761
+        width: 89
+        height: 100.9239
+      alignment: 9
+      pivot: {x: 0.8539326, y: -0.07011335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: 16.5}
+        - {x: -3.5, y: 51.50001}
+        - {x: 13.5, y: 51.50001}
+      - - {x: -44.5, y: -23.5}
+        - {x: 36.5, y: 16.5}
+        - {x: 44.5, y: -51.5}
+      - - {x: -44.5, y: -23.5}
+        - {x: -28.5, y: 29.5}
+        - {x: 36.5, y: 16.5}
+      - - {x: 36.5, y: 16.5}
+        - {x: -28.5, y: 29.5}
+        - {x: -3.5, y: 51.50001}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Mounted_Death_0001
+      rect:
+        serializedVersion: 2
+        x: 5.07612
+        y: 744
+        width: 96.92388
+        height: 93.94027
+      alignment: 9
+      pivot: {x: 0.7007961, y: -0.1170957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: -7.999996}
+        - {x: -50, y: -1.999996}
+        - {x: -10, y: 51}
+      - - {x: 23, y: -7.999996}
+        - {x: 34, y: -51}
+        - {x: -41, y: -26}
+      - - {x: 23, y: -7.999996}
+        - {x: -41, y: -26}
+        - {x: -50, y: -1.999996}
+      - - {x: 50, y: -11}
+        - {x: 23, y: -7.999996}
+        - {x: -10, y: 51}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Mounted_Running_0001
+      rect:
+        serializedVersion: 2
+        x: 6.012913
+        y: 201.0267
+        width: 94.98709
+        height: 84.97325
+      alignment: 9
+      pivot: {x: 0.6946954, y: -0.3298303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: -45.5}
+        - {x: 32.5, y: 8.5}
+        - {x: 49.5, y: -30.5}
+      - - {x: -49.5, y: -45.5}
+        - {x: -39.5, y: 13.5}
+        - {x: 32.5, y: 8.5}
+      - - {x: 32.5, y: 8.5}
+        - {x: -39.5, y: 13.5}
+        - {x: 5.499999, y: 45.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2_Mounted_Idle_0001
+      rect:
+        serializedVersion: 2
+        x: 78.07612
+        y: 255.0129
+        width: 78.80231
+        height: 87.91097
+      alignment: 9
+      pivot: {x: 0.9127129, y: -0.2276497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 13.5}
+        - {x: -7.5, y: 43.50001}
+        - {x: 9.5, y: 44.50001}
+      - - {x: 45.5, y: -6.5}
+        - {x: 23.5, y: -44.5}
+        - {x: -37.5, y: 13.5}
+      - - {x: 23.5, y: -44.5}
+        - {x: -45.5, y: -32.5}
+        - {x: -37.5, y: 13.5}
+      - - {x: 45.5, y: -6.5}
+        - {x: -37.5, y: 13.5}
+        - {x: 9.5, y: 44.50001}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Mounted_Running_0000
+      rect:
+        serializedVersion: 2
+        x: 195.0761
+        y: 661.0267
+        width: 93.84776
+        height: 72.89713
+      alignment: 9
+      pivot: {x: 0.7024555, y: -0.3707517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: -41.5}
+        - {x: 30, y: 14.5}
+        - {x: 49, y: -24.5}
+      - - {x: -49, y: -41.5}
+        - {x: -44, y: 14.5}
+        - {x: 30, y: 14.5}
+      - - {x: 30, y: 14.5}
+        - {x: -44, y: 14.5}
+        - {x: -5, y: 41.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Mounted_idle_0002
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 476
+        width: 94.98709
+        height: 79.92388
+      alignment: 9
+      pivot: {x: 0.7369422, y: -0.2877738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: -16}
+        - {x: -36.5, y: 24}
+        - {x: -3.5, y: 43}
+      - - {x: -15.5, y: -43}
+        - {x: -48.5, y: -29}
+        - {x: -36.5, y: 24}
+      - - {x: 21.5, y: -16}
+        - {x: 48.5, y: -43}
+        - {x: -15.5, y: -43}
+      - - {x: 21.5, y: -16}
+        - {x: -15.5, y: -43}
+        - {x: -36.5, y: 24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2_Mounted_Attack_0003
+      rect:
+        serializedVersion: 2
+        x: 531.0429
+        y: 845.0761
+        width: 73.94418
+        height: 84.92388
+      alignment: 9
+      pivot: {x: 0.8649374, y: -0.2835023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 21.5}
+        - {x: -25.5, y: 44.5}
+        - {x: 13.5, y: 44.5}
+      - - {x: 38.5, y: -31.5}
+        - {x: -38.5, y: 21.5}
+        - {x: 13.5, y: 44.5}
+      - - {x: 38.5, y: -31.5}
+        - {x: -28.5, y: -44.5}
+        - {x: -38.5, y: 21.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2_Mounted_Running_0002
+      rect:
+        serializedVersion: 2
+        x: 735.0761
+        y: 942.0761
+        width: 91.92388
+        height: 79.84776
+      alignment: 9
+      pivot: {x: 0.7606716, y: -0.3641444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: -35}
+        - {x: -31.5, y: 36.99999}
+        - {x: 12.5, y: 41}
+      - - {x: 36.5, y: -41}
+        - {x: -47.5, y: -35}
+        - {x: 12.5, y: 41}
+      - - {x: 47.5, y: 15}
+        - {x: 36.5, y: -41}
+        - {x: 12.5, y: 41}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Mounted_Death_0000
+      rect:
+        serializedVersion: 2
+        x: 2.07612
+        y: 5.07612
+        width: 103.9239
+        height: 91.92388
+      alignment: 9
+      pivot: {x: 0.6343477, y: -0.2510351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -22}
+        - {x: -52, y: 10}
+        - {x: -11, y: 47}
+      - - {x: 21, y: -22}
+        - {x: 52, y: -47}
+        - {x: -51, y: -38}
+      - - {x: 21, y: -22}
+        - {x: -51, y: -38}
+        - {x: -52, y: 10}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Mounted_Attack_0003
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 585
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.8043478, y: -0.1195652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 17}
+        - {x: -32, y: 46}
+        - {x: 0, y: 46}
+      - - {x: 2, y: -19}
+        - {x: -46, y: 17}
+        - {x: 0, y: 46}
+      - - {x: 2, y: -19}
+        - {x: -10, y: -46}
+        - {x: -46, y: 17}
+      - - {x: 46, y: 5}
+        - {x: 46, y: -18}
+        - {x: 2, y: -19}
+      - - {x: 46, y: 5}
+        - {x: 2, y: -19}
+        - {x: 0, y: 46}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Mounted_Running_0005
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 865
+        width: 92.9665
+        height: 72.94868
+      alignment: 9
+      pivot: {x: 0.6991766, y: -0.3975397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 7.5}
+        - {x: 11, y: -39.5}
+        - {x: -47, y: 8.5}
+      - - {x: 11, y: -39.5}
+        - {x: -47, y: -39.5}
+        - {x: -47, y: 8.5}
+      - - {x: 30, y: 7.5}
+        - {x: 47, y: -30.5}
+        - {x: 11, y: -39.5}
+      - - {x: 30, y: 7.5}
+        - {x: -47, y: 8.5}
+        - {x: -2, y: 39.50001}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2_Mounted_Death_0004
+      rect:
+        serializedVersion: 2
+        x: 133.2118
+        y: 970
+        width: 134.7615
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5252852, y: -0.03846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 1}
+        - {x: -58.5, y: 26}
+        - {x: 7.5, y: 26}
+      - - {x: -30.5, y: 1}
+        - {x: -73.5, y: 11}
+        - {x: -58.5, y: 26}
+      - - {x: 39.5, y: -26}
+        - {x: -30.5, y: 1}
+        - {x: 7.5, y: 26}
+      - - {x: 39.5, y: -26}
+        - {x: -36.5, y: -25}
+        - {x: -30.5, y: 1}
+      - - {x: 73.5, y: -5}
+        - {x: 39.5, y: -26}
+        - {x: 7.5, y: 26}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Mounted_Death_0002
+      rect:
+        serializedVersion: 2
+        x: 3.07612
+        y: 940
+        width: 138.9239
+        height: 80.94868
+      alignment: 9
+      pivot: {x: 0.4673342, y: -0.09882803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -2}
+        - {x: -65, y: 24}
+        - {x: -7, y: 41}
+      - - {x: -14, y: -2}
+        - {x: -16, y: -41}
+        - {x: -70, y: -8}
+      - - {x: -14, y: -2}
+        - {x: -70, y: -8}
+        - {x: -65, y: 24}
+      - - {x: 70, y: 17}
+        - {x: -14, y: -2}
+        - {x: -7, y: 41}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CAR_2_Mounted_Running_0005: 21300036
+      CAR_2_Mounted_Running_0004: 21300034
+      CAR_Mounted_Running_0004: 21300064
+      CAR_2_Mounted_Running_0000: 21300026
+      CAR_2_Mounted_Running_0001: 21300028
+      CAR_2_Mounted_Death_0001: 21300010
+      CAR_Mounted_Running_0003: 21300062
+      CAR_Mounted_Running_0000: 21300056
+      CAR_Mounted_Death_0001: 21300048
+      CAR_Mounted_Running_0002: 21300060
+      CAR_Mounted_Running_0001: 21300058
+      CAR_2_Mounted_Running_0002: 21300030
+      CAR_2_Mounted_Attack_0001: 21300002
+      CAR_Mounted_Death_0004: 21300054
+      CAR_2_Mounted_Running_0003: 21300032
+      CAR_Mounted_idle_0000: 21300068
+      CAR_Mounted_Attack_0000: 21300038
+      CAR_2_Mounted_Death_0004: 21300016
+      CAR_Mounted_Attack_0002: 21300042
+      CAR_Mounted_Death_0003: 21300052
+      CAR_2_Mounted_Attack_0002: 21300004
+      CAR_Mounted_Death_0002: 21300050
+      CAR_2_Mounted_Attack_0000: 21300000
+      CAR_Mounted_Death_0000: 21300046
+      CAR_2_Mounted_Idle_0003: 21300024
+      CAR_Mounted_idle_0002: 21300072
+      CAR_Mounted_Attack_0003: 21300044
+      CAR_2_Mounted_Attack_0003: 21300006
+      CAR_Mounted_Running_0005: 21300066
+      CAR_Mounted_idle_0001: 21300070
+      CAR_2_Mounted_Death_0002: 21300012
+      CAR_2_Mounted_Death_0003: 21300014
+      CAR_Mounted_Attack_0001: 21300040
+      CAR_2_Mounted_Idle_0000: 21300018
+      CAR_2_Mounted_Idle_0002: 21300022
+      CAR_2_Mounted_Death_0000: 21300008
+      CAR_2_Mounted_Idle_0001: 21300020
+      CAR_Mounted_idle_0003: 21300074
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

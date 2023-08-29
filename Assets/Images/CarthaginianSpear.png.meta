@@ -1,0 +1,1253 @@
+fileFormatVersion: 2
+guid: 7f050b3636ed4ba180dcaa08fa4bb957
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: CAR_2-Spear_Attack_0000
+  - first:
+      213: 21300002
+    second: CAR_2-Spear_Attack_0001
+  - first:
+      213: 21300004
+    second: CAR_2-Spear_Attack_0002
+  - first:
+      213: 21300006
+    second: CAR_2-Spear_Attack_0003
+  - first:
+      213: 21300008
+    second: CAR_2-Spear_Death_0000
+  - first:
+      213: 21300010
+    second: CAR_2-Spear_Death_0001
+  - first:
+      213: 21300012
+    second: CAR_2-Spear_Death_0002
+  - first:
+      213: 21300014
+    second: CAR_2-Spear_Death_0003
+  - first:
+      213: 21300016
+    second: CAR_2-Spear_Idle_0000
+  - first:
+      213: 21300018
+    second: CAR_2-Spear_Idle_0001
+  - first:
+      213: 21300020
+    second: CAR_2-Spear_Idle_0002
+  - first:
+      213: 21300022
+    second: CAR_2-Spear_Idle_0003
+  - first:
+      213: 21300024
+    second: CAR_2-Spear_Running_0000
+  - first:
+      213: 21300026
+    second: CAR_2-Spear_Running_0001
+  - first:
+      213: 21300028
+    second: CAR_2-Spear_Running_0002
+  - first:
+      213: 21300030
+    second: CAR_2-Spear_Running_0003
+  - first:
+      213: 21300032
+    second: CAR_Spear_Attack_0000
+  - first:
+      213: 21300034
+    second: CAR_Spear_Attack_0001
+  - first:
+      213: 21300036
+    second: CAR_Spear_Attack_0002
+  - first:
+      213: 21300038
+    second: CAR_Spear_Attack_0003
+  - first:
+      213: 21300040
+    second: CAR_Spear_Death_0000
+  - first:
+      213: 21300042
+    second: CAR_Spear_Death_0001
+  - first:
+      213: 21300044
+    second: CAR_Spear_Death_0002
+  - first:
+      213: 21300046
+    second: CAR_Spear_Death_0003
+  - first:
+      213: 21300048
+    second: CAR_Spear_Idle_0000
+  - first:
+      213: 21300050
+    second: CAR_Spear_Idle_0001
+  - first:
+      213: 21300052
+    second: CAR_Spear_Idle_0002
+  - first:
+      213: 21300054
+    second: CAR_Spear_Idle_0003
+  - first:
+      213: 21300056
+    second: CAR_Spear_Running_0000
+  - first:
+      213: 21300058
+    second: CAR_Spear_Running_0001
+  - first:
+      213: 21300060
+    second: CAR_Spear_Running_0002
+  - first:
+      213: 21300062
+    second: CAR_Spear_Running_0003
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 13
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CAR_Spear_Death_0000
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 372
+        width: 68
+        height: 65.94868
+      alignment: 9
+      pivot: {x: 0.5367647, y: -0.0151633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 2}
+        - {x: -10, y: 30}
+        - {x: 14, y: 33}
+      - - {x: -12, y: -33}
+        - {x: -34, y: 0}
+        - {x: -10, y: 30}
+      - - {x: 34, y: 2}
+        - {x: 34, y: -32}
+        - {x: -12, y: -33}
+      - - {x: 34, y: 2}
+        - {x: -12, y: -33}
+        - {x: -10, y: 30}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2-Spear_Running_0002
+      rect:
+        serializedVersion: 2
+        x: 90.07612
+        y: 375.0761
+        width: 78.84776
+        height: 67.92388
+      alignment: 9
+      pivot: {x: 0.4365866, y: -0.01584289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: -34}
+        - {x: -26, y: 26}
+        - {x: 19, y: 34}
+      - - {x: 28, y: -34}
+        - {x: -44, y: -27}
+        - {x: -26, y: 26}
+      - - {x: 44, y: -7}
+        - {x: 28, y: -34}
+        - {x: 19, y: 34}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Spear_Death_0003
+      rect:
+        serializedVersion: 2
+        x: 383.0761
+        y: 330
+        width: 76.89713
+        height: 38.97325
+      alignment: 9
+      pivot: {x: 0.5907098, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: -20}
+        - {x: -43, y: 11}
+        - {x: 2, y: 20}
+      - - {x: 13, y: -20}
+        - {x: -41, y: -20}
+        - {x: 2, y: 20}
+      - - {x: 30, y: -16}
+        - {x: 13, y: -20}
+        - {x: 2, y: 20}
+      - - {x: 43, y: 11}
+        - {x: 30, y: -16}
+        - {x: 2, y: 20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Spear_Attack_0003
+      rect:
+        serializedVersion: 2
+        x: 135.0761
+        y: 30.07612
+        width: 62.91096
+        height: 62.90225
+      alignment: 9
+      pivot: {x: 0.3087518, y: -0.01710782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: -29}
+        - {x: -33, y: 30}
+        - {x: 3, y: 32}
+      - - {x: 8, y: -29}
+        - {x: -32, y: -32}
+        - {x: -33, y: 30}
+      - - {x: 33, y: -4}
+        - {x: 8, y: -29}
+        - {x: 3, y: 32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Spear_Idle_0001
+      rect:
+        serializedVersion: 2
+        x: 215.0761
+        y: 315.0761
+        width: 72.92388
+        height: 69.92388
+      alignment: 9
+      pivot: {x: 0.4309134, y: -0.01538975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: -33.5}
+        - {x: -36.5, y: 12.5}
+        - {x: 4.5, y: 35.5}
+      - - {x: 12.5, y: -33.5}
+        - {x: -35.5, y: -35.5}
+        - {x: -36.5, y: 12.5}
+      - - {x: 36.5, y: -14.5}
+        - {x: 12.5, y: -33.5}
+        - {x: 4.5, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2-Spear_Attack_0003
+      rect:
+        serializedVersion: 2
+        x: 426.0268
+        y: 379
+        width: 63.97325
+        height: 66.92388
+      alignment: 9
+      pivot: {x: 0.3356596, y: -0.0597694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: -2.5}
+        - {x: -32, y: 31.5}
+        - {x: 13, y: 33.5}
+      - - {x: 32, y: -2.5}
+        - {x: 32, y: -33.5}
+        - {x: -31, y: -33.5}
+      - - {x: 32, y: -2.5}
+        - {x: -31, y: -33.5}
+        - {x: -32, y: 31.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Spear_Attack_0002
+      rect:
+        serializedVersion: 2
+        x: 277.0761
+        y: 380
+        width: 73.92388
+        height: 58.95709
+      alignment: 9
+      pivot: {x: 0.2627553, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -28.5}
+        - {x: -39, y: 19.5}
+        - {x: -1, y: 31.5}
+      - - {x: 5, y: -28.5}
+        - {x: -31, y: -31.5}
+        - {x: -39, y: 19.5}
+      - - {x: 39, y: 1.5}
+        - {x: 39, y: -13.5}
+        - {x: 5, y: -28.5}
+      - - {x: 39, y: 1.5}
+        - {x: 5, y: -28.5}
+        - {x: -1, y: 31.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2-Spear_Idle_0003
+      rect:
+        serializedVersion: 2
+        x: 5.07612
+        y: 171.0761
+        width: 74.92388
+        height: 81.92388
+      alignment: 9
+      pivot: {x: 0.4060639, y: -0.03754859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: -12}
+        - {x: 20, y: -39}
+        - {x: -32, y: 11}
+      - - {x: 20, y: -39}
+        - {x: -39, y: -42}
+        - {x: -32, y: 11}
+      - - {x: 39, y: -12}
+        - {x: -32, y: 11}
+        - {x: 7, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Spear_Idle_0003
+      rect:
+        serializedVersion: 2
+        x: 215.0761
+        y: 315.0761
+        width: 72.92388
+        height: 69.92388
+      alignment: 9
+      pivot: {x: 0.4309134, y: -0.01538975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: -33.5}
+        - {x: -36.5, y: 12.5}
+        - {x: 4.5, y: 35.5}
+      - - {x: 12.5, y: -33.5}
+        - {x: -35.5, y: -35.5}
+        - {x: -36.5, y: 12.5}
+      - - {x: 36.5, y: -14.5}
+        - {x: 12.5, y: -33.5}
+        - {x: 4.5, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Spear_Attack_0001
+      rect:
+        serializedVersion: 2
+        x: 348.0761
+        y: 442.0761
+        width: 60.84776
+        height: 64.87617
+      alignment: 9
+      pivot: {x: 0.5821724, y: -0.01658715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -34}
+        - {x: -35.5, y: -4}
+        - {x: -9.5, y: 34}
+      - - {x: 35.5, y: 8}
+        - {x: 29.5, y: -34}
+        - {x: -8.5, y: -34}
+      - - {x: 35.5, y: 8}
+        - {x: -8.5, y: -34}
+        - {x: -9.5, y: 34}
+      - - {x: 19.5, y: 31}
+        - {x: 35.5, y: 8}
+        - {x: -9.5, y: 34}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2-Spear_Death_0002
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 433
+        width: 97.95229
+        height: 71.93899
+      alignment: 9
+      pivot: {x: 0.6074386, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: -23.5}
+        - {x: -30.5, y: 8.5}
+        - {x: 17.5, y: 38.5}
+      - - {x: 30.5, y: -23.5}
+        - {x: -52.5, y: -38.5}
+        - {x: -30.5, y: 8.5}
+      - - {x: 52.5, y: 20.5}
+        - {x: 30.5, y: -23.5}
+        - {x: 17.5, y: 38.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Spear_Attack_0000
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 316
+        width: 75
+        height: 69
+      alignment: 9
+      pivot: {x: 0.58, y: -0.01449275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -34.5}
+        - {x: -37.5, y: 8.5}
+        - {x: 16.5, y: 34.5}
+      - - {x: 37.5, y: 0.5}
+        - {x: 37.5, y: -33.5}
+        - {x: -8.5, y: -34.5}
+      - - {x: 37.5, y: 0.5}
+        - {x: -8.5, y: -34.5}
+        - {x: 16.5, y: 34.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2-Spear_Death_0003
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 336
+        width: 86
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6337209, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: -26.5}
+        - {x: -27, y: 9.5}
+        - {x: 4, y: 26.5}
+      - - {x: 43, y: -26.5}
+        - {x: -43, y: -26.5}
+        - {x: -27, y: 9.5}
+      - - {x: 43, y: 4.5}
+        - {x: 43, y: -26.5}
+        - {x: 4, y: 26.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Spear_Running_0001
+      rect:
+        serializedVersion: 2
+        x: 204.0761
+        y: 385.0761
+        width: 71.92388
+        height: 68.92388
+      alignment: 9
+      pivot: {x: 0.3951938, y: -0.01561303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: -28.5}
+        - {x: -26.5, y: 12.5}
+        - {x: 22.5, y: 34.5}
+      - - {x: -14.5, y: -34.5}
+        - {x: -38.5, y: -30.5}
+        - {x: -26.5, y: 12.5}
+      - - {x: 38.5, y: -28.5}
+        - {x: -14.5, y: -34.5}
+        - {x: -26.5, y: 12.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2-Spear_Attack_0001
+      rect:
+        serializedVersion: 2
+        x: 2.07612
+        y: 341
+        width: 83.92388
+        height: 72.95709
+      alignment: 9
+      pivot: {x: 0.4340109, y: -0.02741337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 2}
+        - {x: 22, y: -37}
+        - {x: -35, y: 13}
+      - - {x: -21, y: -40}
+        - {x: -42, y: -17}
+        - {x: -35, y: 13}
+      - - {x: 22, y: -37}
+        - {x: -21, y: -40}
+        - {x: -35, y: 13}
+      - - {x: 42, y: 2}
+        - {x: -35, y: 13}
+        - {x: 4, y: 40}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Spear_Death_0001
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 440
+        width: 96
+        height: 69.92388
+      alignment: 9
+      pivot: {x: 0.5260417, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -35}
+        - {x: -48, y: -22}
+        - {x: -19, y: 35}
+      - - {x: 48, y: -12}
+        - {x: 4, y: -35}
+        - {x: -19, y: 35}
+      - - {x: 48, y: 33}
+        - {x: 48, y: -12}
+        - {x: -19, y: 35}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Spear_Running_0002
+      rect:
+        serializedVersion: 2
+        x: 290.0761
+        y: 272.0268
+        width: 66.84776
+        height: 57.90935
+      alignment: 9
+      pivot: {x: 0.455122, y: -0.01773054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -30}
+        - {x: -20, y: 25}
+        - {x: 14, y: 30}
+      - - {x: 13, y: -30}
+        - {x: -37, y: -23}
+        - {x: -20, y: 25}
+      - - {x: 37, y: 4}
+        - {x: 28, y: -27}
+        - {x: 13, y: -30}
+      - - {x: 37, y: 4}
+        - {x: 13, y: -30}
+        - {x: 14, y: 30}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2-Spear_Idle_0000
+      rect:
+        serializedVersion: 2
+        x: 143.0761
+        y: 240.0761
+        width: 65.92388
+        height: 70.91097
+      alignment: 9
+      pivot: {x: 0.4615, y: -0.04338012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 0.5}
+        - {x: -16, y: 36.5}
+        - {x: 16, y: 36.5}
+      - - {x: 33, y: 7.5}
+        - {x: 33, y: -32.5}
+        - {x: -32, y: 0.5}
+      - - {x: 33, y: -32.5}
+        - {x: -33, y: -36.5}
+        - {x: -32, y: 0.5}
+      - - {x: 33, y: 7.5}
+        - {x: -32, y: 0.5}
+        - {x: 16, y: 36.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2-Spear_Attack_0000
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 298
+        width: 68.92388
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4570259, y: -0.05194805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: -3.5}
+        - {x: 19.5, y: -38.5}
+        - {x: -37.5, y: 12.5}
+      - - {x: 19.5, y: -38.5}
+        - {x: -35.5, y: -38.5}
+        - {x: -37.5, y: 12.5}
+      - - {x: 37.5, y: -3.5}
+        - {x: -37.5, y: 12.5}
+        - {x: 7.500001, y: 38.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2-Spear_Running_0001
+      rect:
+        serializedVersion: 2
+        x: 8.07612
+        y: 9.07612
+        width: 75.92388
+        height: 72.92388
+      alignment: 9
+      pivot: {x: 0.3743734, y: -0.01475676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 8}
+        - {x: 34, y: -37}
+        - {x: -30, y: 12}
+      - - {x: 34, y: -37}
+        - {x: -41, y: -33}
+        - {x: -30, y: 12}
+      - - {x: 41, y: 8}
+        - {x: -30, y: 12}
+        - {x: 12, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Spear_Idle_0002
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 58
+        width: 70
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5357143, y: -0.01369863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: -1.5}
+        - {x: -35, y: -6.5}
+        - {x: 8, y: 36.5}
+      - - {x: 35, y: -1.5}
+        - {x: 35, y: -35.5}
+        - {x: -12, y: -36.5}
+      - - {x: 35, y: -1.5}
+        - {x: -12, y: -36.5}
+        - {x: -35, y: -6.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2-Spear_Idle_0002
+      rect:
+        serializedVersion: 2
+        x: 6.07612
+        y: 255
+        width: 74.92388
+        height: 81.85065
+      alignment: 9
+      pivot: {x: 0.4060639, y: -0.02443475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: -12}
+        - {x: 19.5, y: -40}
+        - {x: -30.5, y: 12}
+      - - {x: 19.5, y: -40}
+        - {x: -39.5, y: -42}
+        - {x: -30.5, y: 12}
+      - - {x: 39.5, y: -12}
+        - {x: -30.5, y: 12}
+        - {x: 7.5, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2-Spear_Idle_0001
+      rect:
+        serializedVersion: 2
+        x: 5.07612
+        y: 171.0761
+        width: 74.92388
+        height: 81.92388
+      alignment: 9
+      pivot: {x: 0.4060639, y: -0.03754859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: -12}
+        - {x: 20, y: -39}
+        - {x: -32, y: 11}
+      - - {x: 20, y: -39}
+        - {x: -39, y: -42}
+        - {x: -32, y: 11}
+      - - {x: 39, y: -12}
+        - {x: -32, y: 11}
+        - {x: 7, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2-Spear_Death_0000
+      rect:
+        serializedVersion: 2
+        x: 5.07612
+        y: 84
+        width: 72.92388
+        height: 76.92388
+      alignment: 9
+      pivot: {x: 0.4172005, y: -0.02599973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: -12}
+        - {x: -31, y: 12}
+        - {x: 15, y: 42}
+      - - {x: 14, y: -41}
+        - {x: -38, y: -42}
+        - {x: -31, y: 12}
+      - - {x: 38, y: -12}
+        - {x: 14, y: -41}
+        - {x: -31, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Spear_Idle_0000
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 96
+        width: 71
+        height: 72
+      alignment: 9
+      pivot: {x: 0.556338, y: -0.01388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: -1}
+        - {x: -35.5, y: 0}
+        - {x: 12.5, y: 36}
+      - - {x: 35.5, y: -1}
+        - {x: 35.5, y: -35}
+        - {x: -10.5, y: -36}
+      - - {x: 35.5, y: -1}
+        - {x: -10.5, y: -36}
+        - {x: -35.5, y: 0}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Spear_Death_0002
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 148
+        width: 81
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5864198, y: -0.06153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: -32.5}
+        - {x: -30.5, y: 3.5}
+        - {x: 0.5, y: 32.5}
+      - - {x: 15.5, y: -32.5}
+        - {x: -40.5, y: -32.5}
+        - {x: -30.5, y: 3.5}
+      - - {x: 40.5, y: -7.5}
+        - {x: 15.5, y: -32.5}
+        - {x: 0.5, y: 32.5}
+      - - {x: 40.5, y: 27.5}
+        - {x: 40.5, y: -7.5}
+        - {x: 0.5, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2-Spear_Attack_0002
+      rect:
+        serializedVersion: 2
+        x: 267.0429
+        y: 445.0761
+        width: 84.95709
+        height: 63.87617
+      alignment: 9
+      pivot: {x: 0.2290226, y: -0.04815741}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.999998, y: 31.5}
+        - {x: 43, y: -26.5}
+        - {x: -43, y: -33.5}
+      - - {x: 6.999998, y: 31.5}
+        - {x: -43, y: -33.5}
+        - {x: -41, y: 33.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2-Spear_Death_0001
+      rect:
+        serializedVersion: 2
+        x: 4.07612
+        y: 424.0761
+        width: 93.92388
+        height: 76.84776
+      alignment: 9
+      pivot: {x: 0.4197429, y: -0.04002863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -41.5}
+        - {x: -48, y: 9.5}
+        - {x: -10, y: 43.5}
+      - - {x: 18, y: -41.5}
+        - {x: -43, y: -43.5}
+        - {x: -48, y: 9.5}
+      - - {x: 48, y: 18.5}
+        - {x: 18, y: -41.5}
+        - {x: -10, y: 43.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Spear_Running_0000
+      rect:
+        serializedVersion: 2
+        x: 153.0761
+        y: 178.0429
+        width: 65.89713
+        height: 58.93034
+      alignment: 9
+      pivot: {x: 0.4161619, y: -0.0007281091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: -29.5}
+        - {x: -19.5, y: -28.5}
+        - {x: -36.5, y: -6.5}
+      - - {x: 9.5, y: -29.5}
+        - {x: -36.5, y: -6.5}
+        - {x: -27.5, y: 29.5}
+      - - {x: 27.5, y: -20.5}
+        - {x: 9.5, y: -29.5}
+        - {x: -27.5, y: 29.5}
+      - - {x: 36.5, y: 28.5}
+        - {x: 27.5, y: -20.5}
+        - {x: -27.5, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2-Spear_Running_0003
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 214
+        width: 73.92388
+        height: 74
+      alignment: 9
+      pivot: {x: 0.3990591, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: -32}
+        - {x: -32.5, y: 12}
+        - {x: 9.5, y: 37}
+      - - {x: -13.5, y: -32}
+        - {x: -38.5, y: -14}
+        - {x: -32.5, y: 12}
+      - - {x: 38.5, y: 8}
+        - {x: 31.5, y: -37}
+        - {x: -13.5, y: -32}
+      - - {x: 38.5, y: 8}
+        - {x: -13.5, y: -32}
+        - {x: 9.5, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2-Spear_Running_0000
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 249
+        width: 71
+        height: 63.92388
+      alignment: 9
+      pivot: {x: 0.3873239, y: -0.04693082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: -33}
+        - {x: -35.5, y: 25}
+        - {x: 35.5, y: 33}
+      - - {x: -5.5, y: -33}
+        - {x: -35.5, y: -18}
+        - {x: -35.5, y: 25}
+      - - {x: 35.5, y: -33}
+        - {x: -5.5, y: -33}
+        - {x: 35.5, y: 33}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_Spear_Running_0003
+      rect:
+        serializedVersion: 2
+        x: 422.0761
+        y: 450.0541
+        width: 64.89713
+        height: 57.89456
+      alignment: 9
+      pivot: {x: 0.4225747, y: -0.03548068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: -30.5}
+        - {x: -23, y: 17.5}
+        - {x: 11, y: 30.5}
+      - - {x: 1, y: -30.5}
+        - {x: -39, y: -21.5}
+        - {x: -23, y: 17.5}
+      - - {x: 39, y: 4.5}
+        - {x: 31, y: -24.5}
+        - {x: 1, y: -30.5}
+      - - {x: 39, y: 4.5}
+        - {x: 1, y: -30.5}
+        - {x: 11, y: 30.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CAR_2-Spear_Running_0002: 21300028
+      CAR_Spear_Attack_0002: 21300036
+      CAR_Spear_Idle_0000: 21300048
+      CAR_2-Spear_Running_0001: 21300026
+      CAR_Spear_Attack_0001: 21300034
+      CAR_Spear_Death_0002: 21300044
+      CAR_2-Spear_Death_0000: 21300008
+      CAR_2-Spear_Running_0000: 21300024
+      CAR_2-Spear_Attack_0003: 21300006
+      CAR_2-Spear_Death_0003: 21300014
+      CAR_2-Spear_Idle_0003: 21300022
+      CAR_2-Spear_Idle_0000: 21300016
+      CAR_2-Spear_Idle_0002: 21300020
+      CAR_Spear_Death_0001: 21300042
+      CAR_2-Spear_Death_0001: 21300010
+      CAR_2-Spear_Attack_0000: 21300000
+      CAR_Spear_Running_0000: 21300056
+      CAR_Spear_Death_0000: 21300040
+      CAR_2-Spear_Idle_0001: 21300018
+      CAR_Spear_Attack_0000: 21300032
+      CAR_Spear_Attack_0003: 21300038
+      CAR_Spear_Idle_0002: 21300052
+      CAR_2-Spear_Attack_0001: 21300002
+      CAR_Spear_Idle_0001: 21300050
+      CAR_Spear_Idle_0003: 21300054
+      CAR_2-Spear_Running_0003: 21300030
+      CAR_Spear_Running_0001: 21300058
+      CAR_Spear_Death_0003: 21300046
+      CAR_Spear_Running_0003: 21300062
+      CAR_2-Spear_Death_0002: 21300012
+      CAR_Spear_Running_0002: 21300060
+      CAR_2-Spear_Attack_0002: 21300004
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

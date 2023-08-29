@@ -1,0 +1,1241 @@
+fileFormatVersion: 2
+guid: ab062695e3f24b85abad1657fecf8627
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ROM_PeasantFork_Attack_0000
+  - first:
+      213: 21300002
+    second: ROM_PeasantFork_Attack_0001
+  - first:
+      213: 21300004
+    second: ROM_PeasantFork_Attack_0002
+  - first:
+      213: 21300006
+    second: ROM_PeasantFork_Attack_0003
+  - first:
+      213: 21300008
+    second: ROM_PeasantFork_Death_0000
+  - first:
+      213: 21300010
+    second: ROM_PeasantFork_Death_0001
+  - first:
+      213: 21300012
+    second: ROM_PeasantFork_Death_0002
+  - first:
+      213: 21300014
+    second: ROM_PeasantFork_Death_0003
+  - first:
+      213: 21300016
+    second: ROM_PeasantFork_Idle_0000
+  - first:
+      213: 21300018
+    second: ROM_PeasantFork_Idle_0001
+  - first:
+      213: 21300020
+    second: ROM_PeasantFork_Idle_0002
+  - first:
+      213: 21300022
+    second: ROM_PeasantFork_Idle_0003
+  - first:
+      213: 21300024
+    second: ROM_PeasantFork_Running_0000
+  - first:
+      213: 21300026
+    second: ROM_PeasantFork_Running_0001
+  - first:
+      213: 21300028
+    second: ROM_PeasantFork_Running_0002
+  - first:
+      213: 21300030
+    second: ROM_PeasantFork_Running_0003
+  - first:
+      213: 21300032
+    second: ROM_PeasantSpear_Attack_0000
+  - first:
+      213: 21300034
+    second: ROM_PeasantSpear_Attack_0001
+  - first:
+      213: 21300036
+    second: ROM_PeasantSpear_Attack_0002
+  - first:
+      213: 21300038
+    second: ROM_PeasantSpear_Attack_0003
+  - first:
+      213: 21300040
+    second: ROM_PeasantSpear_Death_0000
+  - first:
+      213: 21300042
+    second: ROM_PeasantSpear_Death_0001
+  - first:
+      213: 21300044
+    second: ROM_PeasantSpear_Death_0002
+  - first:
+      213: 21300046
+    second: ROM_PeasantSpear_Death_0003
+  - first:
+      213: 21300048
+    second: ROM_PeasantSpear_Idle_0000
+  - first:
+      213: 21300050
+    second: ROM_PeasantSpear_Idle_0001
+  - first:
+      213: 21300052
+    second: ROM_PeasantSpear_Idle_0002
+  - first:
+      213: 21300054
+    second: ROM_PeasantSpear_Idle_0003
+  - first:
+      213: 21300056
+    second: ROM_PeasantSpear_Running_0000
+  - first:
+      213: 21300058
+    second: ROM_PeasantSpear_Running_0001
+  - first:
+      213: 21300060
+    second: ROM_PeasantSpear_Running_0002
+  - first:
+      213: 21300062
+    second: ROM_PeasantSpear_Running_0003
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 13
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ROM_PeasantSpear_Attack_0002
+      rect:
+        serializedVersion: 2
+        x: 1.07612
+        y: 116
+        width: 77.92388
+        height: 77
+      alignment: 9
+      pivot: {x: 0.2107682, y: -0.01298701}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: -11.5}
+        - {x: 17, y: -34.5}
+        - {x: -38, y: 5.5}
+      - - {x: 17, y: -34.5}
+        - {x: -39, y: -38.5}
+        - {x: -38, y: 5.5}
+      - - {x: 24, y: -11.5}
+        - {x: 39, y: -12.5}
+        - {x: 17, y: -34.5}
+      - - {x: 24, y: -11.5}
+        - {x: -38, y: 5.5}
+        - {x: -8, y: 38.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantSpear_Running_0002
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 151.0429
+        width: 75
+        height: 71.95709
+      alignment: 9
+      pivot: {x: 0.4733333, y: -0.02839064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: -17.5}
+        - {x: -10.5, y: 20.5}
+        - {x: 37.5, y: 36.5}
+      - - {x: 18.5, y: -36.5}
+        - {x: -37.5, y: -25.5}
+        - {x: -10.5, y: 20.5}
+      - - {x: 37.5, y: -17.5}
+        - {x: 18.5, y: -36.5}
+        - {x: -10.5, y: 20.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantFork_Running_0000
+      rect:
+        serializedVersion: 2
+        x: 116.1494
+        y: 446
+        width: 90.85065
+        height: 64.97325
+      alignment: 9
+      pivot: {x: 0.4221285, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -32.5}
+        - {x: -4, y: 31.5}
+        - {x: 22, y: 32.5}
+      - - {x: 10, y: -32.5}
+        - {x: -49, y: -15.5}
+        - {x: -4, y: 31.5}
+      - - {x: 49, y: -19.5}
+        - {x: 10, y: -32.5}
+        - {x: 22, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantFork_Death_0001
+      rect:
+        serializedVersion: 2
+        x: 2.051317
+        y: 192
+        width: 85.94868
+        height: 80
+      alignment: 9
+      pivot: {x: 0.505519, y: -0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: -2}
+        - {x: -43.5, y: 15}
+        - {x: -10.5, y: 40}
+      - - {x: 24.5, y: -2}
+        - {x: -7.5, y: -40}
+        - {x: -37.5, y: -18}
+      - - {x: 24.5, y: -2}
+        - {x: 24.5, y: -39}
+        - {x: -7.5, y: -40}
+      - - {x: 24.5, y: -2}
+        - {x: -37.5, y: -18}
+        - {x: -43.5, y: 15}
+      - - {x: 43.5, y: 19}
+        - {x: 24.5, y: -2}
+        - {x: -10.5, y: 40}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantFork_Running_0002
+      rect:
+        serializedVersion: 2
+        x: 14.07612
+        y: 437.0429
+        width: 88.84776
+        height: 62.93034
+      alignment: 9
+      pivot: {x: 0.3536823, y: -0.032463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -37.5}
+        - {x: -51, y: -24.5}
+        - {x: 6, y: 37.5}
+      - - {x: 51, y: -7.5}
+        - {x: 51, y: -28.5}
+        - {x: 10, y: -37.5}
+      - - {x: 51, y: -7.5}
+        - {x: 10, y: -37.5}
+        - {x: 6, y: 37.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantSpear_Idle_0001
+      rect:
+        serializedVersion: 2
+        x: 208.0267
+        y: 192.0761
+        width: 55.9465
+        height: 72.89713
+      alignment: 9
+      pivot: {x: 0.4910629, y: -0.02848022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -37}
+        - {x: 33, y: -7}
+        - {x: 21, y: -34}
+      - - {x: -13, y: -37}
+        - {x: -33, y: -13}
+        - {x: 33, y: -7}
+      - - {x: -33, y: -13}
+        - {x: -4, y: 36}
+        - {x: 33, y: -7}
+      - - {x: 33, y: -7}
+        - {x: -4, y: 36}
+        - {x: 19, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantFork_Attack_0003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 274
+        width: 91
+        height: 67.97325
+      alignment: 9
+      pivot: {x: 0.3241758, y: -0.04413501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -38}
+        - {x: -45.5, y: -2}
+        - {x: -12.5, y: 38}
+      - - {x: -1.5, y: -38}
+        - {x: -45.5, y: -38}
+        - {x: -45.5, y: -2}
+      - - {x: 45.5, y: -9}
+        - {x: -1.5, y: -38}
+        - {x: -12.5, y: 38}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantSpear_Death_0000
+      rect:
+        serializedVersion: 2
+        x: 296.0761
+        y: 328.0761
+        width: 56.89713
+        height: 71.89713
+      alignment: 9
+      pivot: {x: 0.4995663, y: -0.02887613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: -4.5}
+        - {x: -26, y: 26.5}
+        - {x: 12, y: 38.5}
+      - - {x: 30, y: -4.5}
+        - {x: 16, y: -35.5}
+        - {x: -30, y: -25.5}
+      - - {x: 16, y: -35.5}
+        - {x: -24, y: -38.5}
+        - {x: -30, y: -25.5}
+      - - {x: 30, y: -4.5}
+        - {x: -30, y: -25.5}
+        - {x: -26, y: 26.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantFork_Death_0000
+      rect:
+        serializedVersion: 2
+        x: 444.0268
+        y: 432.0761
+        width: 57.89713
+        height: 71.89713
+      alignment: 9
+      pivot: {x: 0.4572461, y: -0.02887613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: -3.5}
+        - {x: -28.5, y: 25.5}
+        - {x: 21.5, y: 40.5}
+      - - {x: 14.5, y: -36.5}
+        - {x: -29.5, y: -40.5}
+        - {x: -28.5, y: 25.5}
+      - - {x: 29.5, y: -3.5}
+        - {x: 14.5, y: -36.5}
+        - {x: -28.5, y: 25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantSpear_Death_0002
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 316
+        width: 76
+        height: 67
+      alignment: 9
+      pivot: {x: 0.625, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: -16.5}
+        - {x: -38, y: 16.5}
+        - {x: 38, y: 33.5}
+      - - {x: -28, y: -33.5}
+        - {x: -37, y: -33.5}
+        - {x: -38, y: 16.5}
+      - - {x: 38, y: -16.5}
+        - {x: -28, y: -33.5}
+        - {x: -38, y: 16.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantSpear_Attack_0003
+      rect:
+        serializedVersion: 2
+        x: 133.0761
+        y: 182.0267
+        width: 62.84776
+        height: 68.9465
+      alignment: 9
+      pivot: {x: 0.3249738, y: -0.02939596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 12.5}
+        - {x: 1, y: -35.5}
+        - {x: -34, y: 11.5}
+      - - {x: 1, y: -35.5}
+        - {x: -37, y: -36.5}
+        - {x: -34, y: 11.5}
+      - - {x: 37, y: 12.5}
+        - {x: -34, y: 11.5}
+        - {x: -12, y: 36.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantSpear_Idle_0002
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 38.07612
+        width: 56.92388
+        height: 75.92388
+      alignment: 9
+      pivot: {x: 0.5006686, y: -0.02734474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: -8.999998}
+        - {x: -7, y: 34}
+        - {x: 15, y: 39}
+      - - {x: 29, y: -8.999998}
+        - {x: 17, y: -35}
+        - {x: -29, y: 1}
+      - - {x: 17, y: -35}
+        - {x: -24, y: -39}
+        - {x: -29, y: 1}
+      - - {x: 29, y: -8.999998}
+        - {x: -29, y: 1}
+        - {x: -7, y: 34}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantSpear_Death_0003
+      rect:
+        serializedVersion: 2
+        x: 205.0761
+        y: 474.0761
+        width: 94.86751
+        height: 33.84776
+      alignment: 9
+      pivot: {x: 0.6685521, y: -0.002248623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55.5, y: -18.5}
+        - {x: -29.5, y: 12.5}
+        - {x: 29.5, y: 18.5}
+      - - {x: 55.5, y: -18.5}
+        - {x: -55.5, y: -17.5}
+        - {x: -29.5, y: 12.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantFork_Death_0003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 84
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6369048, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: -16.5}
+        - {x: -42, y: 16.5}
+        - {x: 42, y: 16.5}
+      - - {x: 42, y: -16.5}
+        - {x: -42, y: -16.5}
+        - {x: 42, y: 16.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantSpear_Idle_0000
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 357
+        width: 53
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4811321, y: -0.04285714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: -35}
+        - {x: -26.5, y: 35}
+        - {x: 26.5, y: 35}
+      - - {x: 26.5, y: -35}
+        - {x: -26.5, y: -35}
+        - {x: 26.5, y: 35}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantFork_Death_0002
+      rect:
+        serializedVersion: 2
+        x: 218.0761
+        y: 336
+        width: 76.92388
+        height: 62.96371
+      alignment: 9
+      pivot: {x: 0.6295038, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: -15.5}
+        - {x: -39, y: 15.5}
+        - {x: 39, y: 33.5}
+      - - {x: -31, y: -33.5}
+        - {x: -37, y: -33.5}
+        - {x: -39, y: 15.5}
+      - - {x: 39, y: -15.5}
+        - {x: -31, y: -33.5}
+        - {x: -39, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantFork_Attack_0000
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 266
+        width: 59
+        height: 81
+      alignment: 9
+      pivot: {x: 0.4491525, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: -3.5}
+        - {x: -28.5, y: 25.5}
+        - {x: 21.5, y: 40.5}
+      - - {x: 14.5, y: -36.5}
+        - {x: -29.5, y: -40.5}
+        - {x: -28.5, y: 25.5}
+      - - {x: 29.5, y: -3.5}
+        - {x: 14.5, y: -36.5}
+        - {x: -28.5, y: 25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantFork_Running_0001
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 405
+        width: 80
+        height: 67
+      alignment: 9
+      pivot: {x: 0.35625, y: -0.04477612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: -33.5}
+        - {x: 40, y: 0.5}
+        - {x: 40, y: -33.5}
+      - - {x: -40, y: -33.5}
+        - {x: -40, y: 9.5}
+        - {x: 40, y: 0.5}
+      - - {x: 40, y: 0.5}
+        - {x: -40, y: 9.5}
+        - {x: 7, y: 33.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantFork_Idle_0003
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 357
+        width: 57.92388
+        height: 71
+      alignment: 9
+      pivot: {x: 0.457497, y: -0.04225352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: -35.5}
+        - {x: -29, y: 35.5}
+        - {x: 29, y: 35.5}
+      - - {x: 29, y: -35.5}
+        - {x: -29, y: -35.5}
+        - {x: 29, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantSpear_Running_0001
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 258
+        width: 67.92388
+        height: 71
+      alignment: 9
+      pivot: {x: 0.4490321, y: -0.04225352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -35.5}
+        - {x: -35.5, y: 7.5}
+        - {x: 19.5, y: 35.5}
+      - - {x: -1.5, y: -35.5}
+        - {x: -34.5, y: -35.5}
+        - {x: -35.5, y: 7.5}
+      - - {x: 35.5, y: -18.5}
+        - {x: -1.5, y: -35.5}
+        - {x: 19.5, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantFork_Idle_0002
+      rect:
+        serializedVersion: 2
+        x: 382.0268
+        y: 433.0761
+        width: 58.89713
+        height: 72.89713
+      alignment: 9
+      pivot: {x: 0.4664614, y: -0.02848001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: -6}
+        - {x: -9.5, y: 33}
+        - {x: 27.5, y: 40}
+      - - {x: 30.5, y: -6}
+        - {x: -30.5, y: 1}
+        - {x: -9.5, y: 33}
+      - - {x: 15.5, y: -36}
+        - {x: -30.5, y: -40}
+        - {x: -30.5, y: 1}
+      - - {x: 30.5, y: -6}
+        - {x: 15.5, y: -36}
+        - {x: -30.5, y: 1}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantFork_Idle_0001
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 73
+        width: 72
+        height: 73.97325
+      alignment: 9
+      pivot: {x: 0.5486111, y: -0.0135184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -39.5}
+        - {x: 36, y: -4.5}
+        - {x: 21, y: -36.5}
+      - - {x: -13, y: -39.5}
+        - {x: -36, y: -10.5}
+        - {x: 36, y: -4.5}
+      - - {x: 36, y: -4.5}
+        - {x: -36, y: -10.5}
+        - {x: 2, y: 39.5}
+      - - {x: 31, y: 27.5}
+        - {x: 36, y: -4.5}
+        - {x: 2, y: 39.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantSpear_Idle_0003
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 214.0761
+        width: 56.97325
+        height: 76.92388
+      alignment: 9
+      pivot: {x: 0.5002348, y: -0.02698936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: -9.999998}
+        - {x: -11, y: 31}
+        - {x: 14, y: 39}
+      - - {x: 29, y: -9.999998}
+        - {x: 17, y: -36}
+        - {x: -29, y: 0}
+      - - {x: 17, y: -36}
+        - {x: -22, y: -39}
+        - {x: -29, y: 0}
+      - - {x: 29, y: -9.999998}
+        - {x: -29, y: 0}
+        - {x: -11, y: 31}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantSpear_Attack_0000
+      rect:
+        serializedVersion: 2
+        x: 296.0761
+        y: 328.0761
+        width: 56.89713
+        height: 71.89713
+      alignment: 9
+      pivot: {x: 0.4995663, y: -0.02887613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: -4.5}
+        - {x: -26, y: 26.5}
+        - {x: 12, y: 38.5}
+      - - {x: 30, y: -4.5}
+        - {x: 16, y: -35.5}
+        - {x: -30, y: -25.5}
+      - - {x: 16, y: -35.5}
+        - {x: -24, y: -38.5}
+        - {x: -30, y: -25.5}
+      - - {x: 30, y: -4.5}
+        - {x: -30, y: -25.5}
+        - {x: -26, y: 26.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantSpear_Attack_0001
+      rect:
+        serializedVersion: 2
+        x: 9.07612
+        y: 352.0761
+        width: 73.89713
+        height: 70.89713
+      alignment: 9
+      pivot: {x: 0.6417553, y: -0.02928342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -42.5}
+        - {x: -43, y: -4.5}
+        - {x: 31, y: 42.5}
+      - - {x: 43, y: -39.5}
+        - {x: -7, y: -42.5}
+        - {x: 31, y: 42.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantSpear_Death_0001
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 372.0268
+        width: 81
+        height: 78.97325
+      alignment: 9
+      pivot: {x: 0.5123457, y: -0.02566393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: -40}
+        - {x: -38.5, y: 24}
+        - {x: -7.5, y: 40}
+      - - {x: 21.5, y: -40}
+        - {x: -40.5, y: -38}
+        - {x: -38.5, y: 24}
+      - - {x: 40.5, y: 22}
+        - {x: 21.5, y: -40}
+        - {x: -7.5, y: 40}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantFork_Attack_0001
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 248
+        width: 80
+        height: 80.85065
+      alignment: 9
+      pivot: {x: 0.60625, y: -0.01236848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -43}
+        - {x: -40, y: -12}
+        - {x: 27, y: 43}
+      - - {x: 40, y: -40}
+        - {x: -13, y: -43}
+        - {x: 27, y: 43}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantFork_Attack_0002
+      rect:
+        serializedVersion: 2
+        x: 1.026751
+        y: 45.02675
+        width: 80.97325
+        height: 70.97325
+      alignment: 9
+      pivot: {x: 0.2034406, y: -0.02855657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: -36}
+        - {x: 22.5, y: -6}
+        - {x: 37.5, y: -31}
+      - - {x: -40.5, y: -36}
+        - {x: -39.5, y: 18}
+        - {x: 22.5, y: -6}
+      - - {x: 22.5, y: -6}
+        - {x: 40.5, y: -12}
+        - {x: 37.5, y: -31}
+      - - {x: 22.5, y: -6}
+        - {x: -39.5, y: 18}
+        - {x: -7.5, y: 36}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantFork_Running_0003
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 396.0761
+        width: 79.92388
+        height: 65.92388
+      alignment: 9
+      pivot: {x: 0.3565893, y: -0.06183057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: 0.5}
+        - {x: -40, y: 9.5}
+        - {x: 7, y: 33.5}
+      - - {x: 40, y: 0.5}
+        - {x: 40, y: -33.5}
+        - {x: -40, y: -31.5}
+      - - {x: 40, y: 0.5}
+        - {x: -40, y: -31.5}
+        - {x: -40, y: 9.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantSpear_Running_0003
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 116
+        width: 66.92388
+        height: 69
+      alignment: 9
+      pivot: {x: 0.4557416, y: -0.07246377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: -14.5}
+        - {x: -34.5, y: 6.5}
+        - {x: 20.5, y: 34.5}
+      - - {x: 8.5, y: -34.5}
+        - {x: -33.5, y: -34.5}
+        - {x: -34.5, y: 6.5}
+      - - {x: 34.5, y: -14.5}
+        - {x: 8.5, y: -34.5}
+        - {x: -34.5, y: 6.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantSpear_Running_0000
+      rect:
+        serializedVersion: 2
+        x: 311.0761
+        y: 435.0268
+        width: 65.91097
+        height: 63.9465
+      alignment: 9
+      pivot: {x: 0.5222786, y: -0.01605661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: -28.5}
+        - {x: -14.5, y: 17.5}
+        - {x: 31.5, y: 36.5}
+      - - {x: -8.5, y: -30.5}
+        - {x: -34.5, y: -4.5}
+        - {x: -14.5, y: 17.5}
+      - - {x: 16.5, y: -36.5}
+        - {x: -8.5, y: -30.5}
+        - {x: -14.5, y: 17.5}
+      - - {x: 34.5, y: -28.5}
+        - {x: 16.5, y: -36.5}
+        - {x: -14.5, y: 17.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_PeasantFork_Idle_0000
+      rect:
+        serializedVersion: 2
+        x: 444.0268
+        y: 432.0761
+        width: 57.89713
+        height: 71.89713
+      alignment: 9
+      pivot: {x: 0.4572461, y: -0.02887613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: -3.5}
+        - {x: -28.5, y: 25.5}
+        - {x: 21.5, y: 40.5}
+      - - {x: 14.5, y: -36.5}
+        - {x: -29.5, y: -40.5}
+        - {x: -28.5, y: 25.5}
+      - - {x: 29.5, y: -3.5}
+        - {x: 14.5, y: -36.5}
+        - {x: -28.5, y: 25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ROM_PeasantSpear_Running_0002: 21300060
+      ROM_PeasantFork_Idle_0001: 21300018
+      ROM_PeasantSpear_Attack_0000: 21300032
+      ROM_PeasantSpear_Attack_0001: 21300034
+      ROM_PeasantFork_Attack_0003: 21300006
+      ROM_PeasantFork_Death_0000: 21300008
+      ROM_PeasantFork_Idle_0000: 21300016
+      ROM_PeasantSpear_Attack_0003: 21300038
+      ROM_PeasantSpear_Death_0002: 21300044
+      ROM_PeasantSpear_Death_0000: 21300040
+      ROM_PeasantFork_Death_0002: 21300012
+      ROM_PeasantSpear_Death_0003: 21300046
+      ROM_PeasantFork_Running_0001: 21300026
+      ROM_PeasantFork_Running_0003: 21300030
+      ROM_PeasantSpear_Running_0000: 21300056
+      ROM_PeasantFork_Attack_0001: 21300002
+      ROM_PeasantFork_Running_0002: 21300028
+      ROM_PeasantFork_Idle_0003: 21300022
+      ROM_PeasantFork_Idle_0002: 21300020
+      ROM_PeasantFork_Death_0003: 21300014
+      ROM_PeasantFork_Attack_0000: 21300000
+      ROM_PeasantFork_Attack_0002: 21300004
+      ROM_PeasantSpear_Idle_0000: 21300048
+      ROM_PeasantSpear_Running_0001: 21300058
+      ROM_PeasantSpear_Idle_0001: 21300050
+      ROM_PeasantFork_Running_0000: 21300024
+      ROM_PeasantSpear_Idle_0003: 21300054
+      ROM_PeasantSpear_Running_0003: 21300062
+      ROM_PeasantFork_Death_0001: 21300010
+      ROM_PeasantSpear_Attack_0002: 21300036
+      ROM_PeasantSpear_Idle_0002: 21300052
+      ROM_PeasantSpear_Death_0001: 21300042
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

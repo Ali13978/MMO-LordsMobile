@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CohortAttack
+  - CohortDefence
+  - Gate
+  - BattlefieldEnd
+  - ArrowDefence
+  - Floor
+  - ArrowReceiverDefence
+  - ArrowReceiverAttack
+  - JavalineAttack
+  - JavalineDefence
+  - ArrowReceiver
+  - JavalineGate
+  - FxTemporaire
+  - BattlefieldStart
+  - CameraAttack
+  - CameraDefence
+  - MenuInvasion
+  - InvasionScroll
+  - InvasionArmyBox
+  - MenuColonyUpgrade
+  - MenuPause
+  - MusicController
+  - ScenarioObject
+  - SubObjectUpgradeMenu
+  - WallBoundarie
+  - Canvas_General
+  - Canvas_Hero
+  - Canvas_Units
+  - Canvas_Ballista
+  - Canvas_Catapult
+  - Canvas_Bank
+  - Canvas_NoRubies
+  - ProgressArrow
+  - Canvas_BankConnection
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ArrowReceiver
+  - Arrow
+  - Floor
+  - Volt
+  - Warfare
+  - Boulder
+  - GateArrowReceiver
+  - Soldier
+  - Boundaries
+  - BrokenDoor
+  - Canvas_Bank
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: "Default"
+    uniqueID: 0
+    locked: 0
+  - name: "FrontOfAll"
+    uniqueID: 2649438651
+    locked: 0
+  - name: "TreesForeground"
+    uniqueID: 1889975879
+    locked: 0

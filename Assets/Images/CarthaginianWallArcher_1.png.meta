@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 9815ccd8f38e41f7b377e2b327884089
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: CAR_2-Archer_Attack_0000
+  - first:
+      213: 21300002
+    second: CAR_2-Archer_Attack_0001
+  - first:
+      213: 21300004
+    second: CAR_2-Archer_Attack_0002
+  - first:
+      213: 21300006
+    second: CAR_2-Archer_Attack_0003
+  - first:
+      213: 21300008
+    second: CAR_2-Archer_Idle_0000
+  - first:
+      213: 21300010
+    second: CAR_2-Archer_Idle_0001
+  - first:
+      213: 21300012
+    second: CAR_2-Archer_Idle_0002
+  - first:
+      213: 21300014
+    second: CAR_2-Archer_Idle_0003
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 13
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CAR_2-Archer_Attack_0001
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 53
+        width: 60
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5583333, y: -0.05405406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 7}
+        - {x: -10, y: 37}
+        - {x: 30, y: 37}
+      - - {x: 30, y: -37}
+        - {x: -30, y: 7}
+        - {x: 30, y: 37}
+      - - {x: 30, y: -37}
+        - {x: -12, y: -37}
+        - {x: -30, y: 7}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2-Archer_Attack_0002
+      rect:
+        serializedVersion: 2
+        x: 73.07612
+        y: 176
+        width: 59.84776
+        height: 73.92388
+      alignment: 9
+      pivot: {x: 0.4916455, y: -0.05410971}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: -39.5}
+        - {x: 34.5, y: -3.5}
+        - {x: 16.5, y: -39.5}
+      - - {x: -18.5, y: -39.5}
+        - {x: -34.5, y: 7.5}
+        - {x: 34.5, y: -3.5}
+      - - {x: 12.5, y: 32.5}
+        - {x: 34.5, y: -3.5}
+        - {x: -34.5, y: 7.5}
+      - - {x: 12.5, y: 32.5}
+        - {x: -34.5, y: 7.5}
+        - {x: -16.5, y: 39.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2-Archer_Attack_0003
+      rect:
+        serializedVersion: 2
+        x: 2.051317
+        y: 9.07612
+        width: 66.92194
+        height: 75.91097
+      alignment: 9
+      pivot: {x: 0.4998164, y: -0.04052274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 12.5}
+        - {x: -21, y: 34.5}
+        - {x: 17, y: 38.5}
+      - - {x: 35, y: 12.5}
+        - {x: 20, y: -37.5}
+        - {x: -35, y: -0.5}
+      - - {x: 20, y: -37.5}
+        - {x: -16, y: -38.5}
+        - {x: -35, y: -0.5}
+      - - {x: 35, y: 12.5}
+        - {x: -35, y: -0.5}
+        - {x: -21, y: 34.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2-Archer_Attack_0000
+      rect:
+        serializedVersion: 2
+        x: 4.07612
+        y: 174.0761
+        width: 66.92388
+        height: 71.84776
+      alignment: 9
+      pivot: {x: 0.4695466, y: -0.0428145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 2}
+        - {x: -35, y: 24}
+        - {x: 11, y: 41}
+      - - {x: 35, y: 2}
+        - {x: 35, y: -41}
+        - {x: -16, y: -39}
+      - - {x: 35, y: 2}
+        - {x: -16, y: -39}
+        - {x: -35, y: 24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2-Archer_Idle_0001
+      rect:
+        serializedVersion: 2
+        x: 1.026751
+        y: 88
+        width: 64.97325
+        height: 74.98709
+      alignment: 9
+      pivot: {x: 0.4074484, y: -0.01333563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: -15}
+        - {x: 11.5, y: -42}
+        - {x: -32.5, y: 18}
+      - - {x: 11.5, y: -42}
+        - {x: -31.5, y: -39}
+        - {x: -32.5, y: 18}
+      - - {x: 22.5, y: 19}
+        - {x: 32.5, y: -15}
+        - {x: -32.5, y: 18}
+      - - {x: 22.5, y: 19}
+        - {x: -32.5, y: 18}
+        - {x: -0.5, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2-Archer_Idle_0002
+      rect:
+        serializedVersion: 2
+        x: 143.0761
+        y: 182.0761
+        width: 61.92388
+        height: 72.84776
+      alignment: 9
+      pivot: {x: 0.4267154, y: -0.04222678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: -37}
+        - {x: -36.5, y: 30}
+        - {x: 17.5, y: 37}
+      - - {x: 36.5, y: 5}
+        - {x: 36.5, y: -34}
+        - {x: -17.5, y: -37}
+      - - {x: 36.5, y: 5}
+        - {x: -17.5, y: -37}
+        - {x: 17.5, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2-Archer_Idle_0000
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 103
+        width: 61
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4180328, y: -0.05714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: -35}
+        - {x: -30.5, y: 35}
+        - {x: 30.5, y: 35}
+      - - {x: 30.5, y: -35}
+        - {x: -30.5, y: -35}
+        - {x: 30.5, y: 35}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAR_2-Archer_Idle_0003
+      rect:
+        serializedVersion: 2
+        x: 1.026751
+        y: 88
+        width: 64.97325
+        height: 74.98709
+      alignment: 9
+      pivot: {x: 0.4074484, y: -0.01333563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: -15}
+        - {x: 11.5, y: -42}
+        - {x: -32.5, y: 18}
+      - - {x: 11.5, y: -42}
+        - {x: -31.5, y: -39}
+        - {x: -32.5, y: 18}
+      - - {x: 22.5, y: 19}
+        - {x: 32.5, y: -15}
+        - {x: -32.5, y: 18}
+      - - {x: 22.5, y: 19}
+        - {x: -32.5, y: 18}
+        - {x: -0.5, y: 42}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CAR_2-Archer_Idle_0001: 21300010
+      CAR_2-Archer_Attack_0001: 21300002
+      CAR_2-Archer_Attack_0002: 21300004
+      CAR_2-Archer_Attack_0000: 21300000
+      CAR_2-Archer_Attack_0003: 21300006
+      CAR_2-Archer_Idle_0003: 21300014
+      CAR_2-Archer_Idle_0000: 21300008
+      CAR_2-Archer_Idle_0002: 21300012
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

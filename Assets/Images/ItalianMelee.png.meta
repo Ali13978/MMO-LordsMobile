@@ -1,0 +1,1054 @@
+fileFormatVersion: 2
+guid: e09acc8fdd26485390a3ea30d29ada60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ITA_PeasantDagger_Attack_0000
+  - first:
+      213: 21300002
+    second: ITA_PeasantDagger_Attack_0001
+  - first:
+      213: 21300004
+    second: ITA_PeasantDagger_Attack_0002
+  - first:
+      213: 21300006
+    second: ITA_PeasantDagger_Attack_0003
+  - first:
+      213: 21300008
+    second: ITA_PeasantDagger_Death_0000
+  - first:
+      213: 21300010
+    second: ITA_PeasantDagger_Death_0001
+  - first:
+      213: 21300012
+    second: ITA_PeasantDagger_Death_0002
+  - first:
+      213: 21300014
+    second: ITA_PeasantDagger_Death_0003
+  - first:
+      213: 21300016
+    second: ITA_PeasantDagger_Idle_0000
+  - first:
+      213: 21300018
+    second: ITA_PeasantDagger_Idle_0001
+  - first:
+      213: 21300020
+    second: ITA_PeasantDagger_Idle_0002
+  - first:
+      213: 21300022
+    second: ITA_PeasantDagger_Idle_0003
+  - first:
+      213: 21300024
+    second: ITA_PeasantDagger_Running_0000
+  - first:
+      213: 21300026
+    second: ITA_PeasantDagger_Running_0001
+  - first:
+      213: 21300028
+    second: ITA_PeasantDagger_Running_0002
+  - first:
+      213: 21300030
+    second: ITA_PeasantDagger_Running_0003
+  - first:
+      213: 21300032
+    second: ITA_PeasantSword_Attack_0000
+  - first:
+      213: 21300034
+    second: ITA_PeasantSword_Attack_0001
+  - first:
+      213: 21300036
+    second: ITA_PeasantSword_Attack_0002
+  - first:
+      213: 21300038
+    second: ITA_PeasantSword_Attack_0003
+  - first:
+      213: 21300040
+    second: ITA_PeasantSword_Death_0000
+  - first:
+      213: 21300042
+    second: ITA_PeasantSword_Death_0001
+  - first:
+      213: 21300044
+    second: ITA_PeasantSword_Death_0002
+  - first:
+      213: 21300046
+    second: ITA_PeasantSword_Death_0003
+  - first:
+      213: 21300048
+    second: ITA_PeasantSword_Idle_0000
+  - first:
+      213: 21300050
+    second: ITA_PeasantSword_Idle_0001
+  - first:
+      213: 21300052
+    second: ITA_PeasantSword_Idle_0002
+  - first:
+      213: 21300054
+    second: ITA_PeasantSword_Idle_0003
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 13
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ITA_PeasantSword_Death_0003
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 426
+        width: 68
+        height: 35
+      alignment: 9
+      pivot: {x: 0.6102941, y: -0.05714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: -17.5}
+        - {x: -34, y: 17.5}
+        - {x: 34, y: 17.5}
+      - - {x: 34, y: -17.5}
+        - {x: -34, y: -17.5}
+        - {x: 34, y: 17.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantDagger_Running_0000
+      rect:
+        serializedVersion: 2
+        x: 205.0477
+        y: 451.0363
+        width: 43.87617
+        height: 57.93696
+      alignment: 9
+      pivot: {x: 0.4661368, y: -0.1041871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: -30}
+        - {x: -28.5, y: 9}
+        - {x: 1.5, y: 30}
+      - - {x: 7.5, y: -30}
+        - {x: -24.5, y: -24}
+        - {x: -28.5, y: 9}
+      - - {x: 28.5, y: 22}
+        - {x: 7.5, y: -30}
+        - {x: 1.5, y: 30}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantDagger_Death_0000
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 382
+        width: 41
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1290323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -31}
+        - {x: -20.5, y: 31}
+        - {x: 20.5, y: 31}
+      - - {x: 20.5, y: -31}
+        - {x: -20.5, y: -31}
+        - {x: 20.5, y: 31}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantDagger_Death_0002
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 464
+        width: 60
+        height: 46
+      alignment: 9
+      pivot: {x: 0.6416667, y: -0.173913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: -23}
+        - {x: -30, y: 23}
+        - {x: 30, y: 23}
+      - - {x: 30, y: -23}
+        - {x: -30, y: -23}
+        - {x: 30, y: 23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantDagger_Running_0002
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 295
+        width: 62
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5241935, y: -0.09589041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -12.5}
+        - {x: 18, y: -36.5}
+        - {x: -31, y: -33.5}
+      - - {x: 31, y: -12.5}
+        - {x: -31, y: -33.5}
+        - {x: 16, y: 36.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantSword_Idle_0000
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 446.0761
+        width: 55.92388
+        height: 63.92388
+      alignment: 9
+      pivot: {x: 0.4917399, y: -0.1106959}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: -1}
+        - {x: -18.5, y: 32}
+        - {x: 6.5, y: 32}
+      - - {x: 4.5, y: -32}
+        - {x: -31.5, y: -1}
+        - {x: 6.5, y: 32}
+      - - {x: 4.5, y: -32}
+        - {x: -31.5, y: -32}
+        - {x: -31.5, y: -1}
+      - - {x: 31.5, y: -18}
+        - {x: 4.5, y: -32}
+        - {x: 6.5, y: 32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantSword_Attack_0002
+      rect:
+        serializedVersion: 2
+        x: 6.042908
+        y: 425.0761
+        width: 84.95709
+        height: 66.80556
+      alignment: 9
+      pivot: {x: 0.2290226, y: -0.105921}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: -29.5}
+        - {x: -44.5, y: -45.5}
+        - {x: -35.5, y: 45.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantSword_Idle_0001
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 53
+        width: 72
+        height: 65
+      alignment: 9
+      pivot: {x: 0.4236111, y: -0.09230769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -32.5}
+        - {x: 6, y: 31.5}
+        - {x: 36, y: -28.5}
+      - - {x: -24, y: -32.5}
+        - {x: -36, y: -6.5}
+        - {x: 6, y: 31.5}
+      - - {x: 6, y: 31.5}
+        - {x: -36, y: -6.5}
+        - {x: -20, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantDagger_Idle_0001
+      rect:
+        serializedVersion: 2
+        x: 212.0541
+        y: 97.07612
+        width: 42.91912
+        height: 63.84776
+      alignment: 9
+      pivot: {x: 0.4996812, y: -0.110828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 22}
+        - {x: 25.5, y: -33}
+        - {x: -25.5, y: -7}
+      - - {x: 25.5, y: -33}
+        - {x: -17.5, y: -36}
+        - {x: -25.5, y: -7}
+      - - {x: 10.5, y: 22}
+        - {x: -25.5, y: -7}
+        - {x: -3.5, y: 36}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantSword_Death_0001
+      rect:
+        serializedVersion: 2
+        x: 4.051317
+        y: 341
+        width: 81.94868
+        height: 71.98709
+      alignment: 9
+      pivot: {x: 0.420369, y: -0.02778276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -38}
+        - {x: -42, y: -22}
+        - {x: -33, y: 38}
+      - - {x: 42, y: 26}
+        - {x: 4, y: -38}
+        - {x: -33, y: 38}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantSword_Idle_0003
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 53
+        width: 72
+        height: 65
+      alignment: 9
+      pivot: {x: 0.4236111, y: -0.09230769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -32.5}
+        - {x: 6, y: 31.5}
+        - {x: 36, y: -28.5}
+      - - {x: -24, y: -32.5}
+        - {x: -36, y: -6.5}
+        - {x: 6, y: 31.5}
+      - - {x: 6, y: 31.5}
+        - {x: -36, y: -6.5}
+        - {x: -20, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantDagger_Attack_0000
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 448
+        width: 41
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1290323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -31}
+        - {x: -20.5, y: 31}
+        - {x: 20.5, y: 31}
+      - - {x: 20.5, y: -31}
+        - {x: -20.5, y: -31}
+        - {x: 20.5, y: 31}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantDagger_Death_0003
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 395
+        width: 65
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6384615, y: -0.2142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: -14}
+        - {x: -32.5, y: 14}
+        - {x: 32.5, y: 14}
+      - - {x: 32.5, y: -14}
+        - {x: -32.5, y: -14}
+        - {x: 32.5, y: 14}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantDagger_Idle_0002
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 447
+        width: 41
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1269841}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -31.5}
+        - {x: -20.5, y: 31.5}
+        - {x: 20.5, y: 31.5}
+      - - {x: 20.5, y: -31.5}
+        - {x: -20.5, y: -31.5}
+        - {x: 20.5, y: 31.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantSword_Attack_0003
+      rect:
+        serializedVersion: 2
+        x: 154.0267
+        y: 90.07612
+        width: 52.96033
+        height: 63.84776
+      alignment: 9
+      pivot: {x: 0.4621053, y: -0.110828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: -20.5}
+        - {x: -6.5, y: 33.5}
+        - {x: 23.5, y: 34.5}
+      - - {x: -17.5, y: -26.5}
+        - {x: -29.5, y: 12.5}
+        - {x: -6.5, y: 33.5}
+      - - {x: -17.5, y: -26.5}
+        - {x: -6.5, y: 33.5}
+        - {x: 29.5, y: -20.5}
+      - - {x: -17.5, y: -26.5}
+        - {x: 29.5, y: -20.5}
+        - {x: 0.5, y: -34.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantSword_Death_0002
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 189
+        width: 75
+        height: 60.92388
+      alignment: 9
+      pivot: {x: 0.54, y: -0.09848356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: -3.5}
+        - {x: -37.5, y: -1.5}
+        - {x: 21.5, y: 35.5}
+      - - {x: 8.5, y: -35.5}
+        - {x: -37.5, y: -34.5}
+        - {x: -37.5, y: -1.5}
+      - - {x: 37.5, y: -3.5}
+        - {x: 8.5, y: -35.5}
+        - {x: -37.5, y: -1.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantSword_Attack_0001
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 153.0761
+        width: 64
+        height: 68.89713
+      alignment: 9
+      pivot: {x: 0.5859375, y: -0.1027057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -35}
+        - {x: -32, y: 35}
+        - {x: 1, y: 35}
+      - - {x: 32, y: 2}
+        - {x: 32, y: -31}
+        - {x: -9, y: -35}
+      - - {x: 32, y: 2}
+        - {x: -9, y: -35}
+        - {x: 1, y: 35}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantDagger_Attack_0002
+      rect:
+        serializedVersion: 2
+        x: 181.0267
+        y: 157
+        width: 59.97325
+        height: 57.94868
+      alignment: 9
+      pivot: {x: 0.2413285, y: -0.1207965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: -12.5}
+        - {x: -6.5, y: -32.5}
+        - {x: -30.5, y: 4.5}
+      - - {x: -6.5, y: -32.5}
+        - {x: -27.5, y: -31.5}
+        - {x: -30.5, y: 4.5}
+      - - {x: 30.5, y: -12.5}
+        - {x: -30.5, y: 4.5}
+        - {x: -6.5, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantSword_Attack_0000
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 108
+        width: 65
+        height: 75.92388
+      alignment: 9
+      pivot: {x: 0.4230769, y: -0.0921976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: -25}
+        - {x: 3.5, y: -39}
+        - {x: -32.5, y: 8.000004}
+      - - {x: 3.5, y: -39}
+        - {x: -32.5, y: -39}
+        - {x: -32.5, y: 8.000004}
+      - - {x: 32.5, y: -25}
+        - {x: -32.5, y: 8.000004}
+        - {x: -2.5, y: 39}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantDagger_Running_0001
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 389
+        width: 41
+        height: 55
+      alignment: 9
+      pivot: {x: 0.402439, y: -0.1636364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -27.5}
+        - {x: -20.5, y: 27.5}
+        - {x: 20.5, y: 27.5}
+      - - {x: 20.5, y: -27.5}
+        - {x: -20.5, y: -27.5}
+        - {x: 20.5, y: 27.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantSword_Death_0000
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 236.0761
+        width: 64
+        height: 68.92388
+      alignment: 9
+      pivot: {x: 0.4453125, y: -0.1026658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 29.5}
+        - {x: 32, y: -20.5}
+        - {x: 5, y: -34.5}
+      - - {x: 5, y: -34.5}
+        - {x: -30, y: -34.5}
+        - {x: -32, y: -1.5}
+      - - {x: 7, y: 29.5}
+        - {x: 5, y: -34.5}
+        - {x: -32, y: -1.5}
+      - - {x: 7, y: 29.5}
+        - {x: -32, y: -1.5}
+        - {x: -16, y: 34.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantDagger_Attack_0001
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 75
+        width: 58
+        height: 62.97325
+      alignment: 9
+      pivot: {x: 0.5258621, y: -0.1111583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: -36}
+        - {x: -29, y: -4}
+        - {x: 14, y: 37}
+      - - {x: 29, y: -36}
+        - {x: -11, y: -37}
+        - {x: -29, y: -4}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantDagger_Idle_0003
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 297
+        width: 56
+        height: 71.94363
+      alignment: 9
+      pivot: {x: 0.5625, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -25.5}
+        - {x: 28, y: -2.5}
+        - {x: 12, y: -38.5}
+      - - {x: -28, y: -25.5}
+        - {x: -5, y: 28.5}
+        - {x: 28, y: -2.5}
+      - - {x: 28, y: -2.5}
+        - {x: -5, y: 28.5}
+        - {x: 11, y: 38.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantDagger_Attack_0003
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 445
+        width: 48
+        height: 63.97325
+      alignment: 9
+      pivot: {x: 0.3020833, y: -0.06252614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 5.5}
+        - {x: 0, y: -32.5}
+        - {x: -24, y: -27.5}
+      - - {x: -1, y: 30.5}
+        - {x: 24, y: 5.5}
+        - {x: -24, y: -27.5}
+      - - {x: -1, y: 30.5}
+        - {x: -24, y: -27.5}
+        - {x: -24, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantDagger_Death_0001
+      rect:
+        serializedVersion: 2
+        x: 84.04291
+        y: 226
+        width: 57.95709
+        height: 63.97325
+      alignment: 9
+      pivot: {x: 0.5600193, y: -0.1406838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 8}
+        - {x: 30, y: -38}
+        - {x: -30, y: -38}
+      - - {x: 30, y: 8}
+        - {x: -30, y: -38}
+        - {x: -23, y: 38}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantDagger_Idle_0000
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 382
+        width: 41
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1290323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -31}
+        - {x: -20.5, y: 31}
+        - {x: 20.5, y: 31}
+      - - {x: 20.5, y: -31}
+        - {x: -20.5, y: -31}
+        - {x: 20.5, y: 31}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantDagger_Running_0003
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 250
+        width: 45.94868
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4461499, y: -0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -20.5}
+        - {x: -25.5, y: -3.5}
+        - {x: 10.5, y: 37.5}
+      - - {x: 25.5, y: -20.5}
+        - {x: -9.5, y: -37.5}
+        - {x: -25.5, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ITA_PeasantSword_Idle_0002
+      rect:
+        serializedVersion: 2
+        x: 146.0367
+        y: 447.0761
+        width: 55.96326
+        height: 62.92388
+      alignment: 9
+      pivot: {x: 0.5086062, y: -0.1124551}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 1}
+        - {x: -13, y: 32}
+        - {x: 14, y: 32}
+      - - {x: -17, y: -32}
+        - {x: 29, y: 1}
+        - {x: 29, y: -28}
+      - - {x: -17, y: -32}
+        - {x: -29, y: -6}
+        - {x: 29, y: 1}
+      - - {x: 29, y: 1}
+        - {x: -29, y: -6}
+        - {x: -13, y: 32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ITA_PeasantSword_Attack_0000: 21300032
+      ITA_PeasantSword_Attack_0001: 21300034
+      ITA_PeasantSword_Death_0002: 21300044
+      ITA_PeasantSword_Idle_0000: 21300048
+      ITA_PeasantDagger_Idle_0001: 21300018
+      ITA_PeasantDagger_Attack_0002: 21300004
+      ITA_PeasantDagger_Idle_0000: 21300016
+      ITA_PeasantSword_Attack_0002: 21300036
+      ITA_PeasantDagger_Death_0001: 21300010
+      ITA_PeasantDagger_Running_0000: 21300024
+      ITA_PeasantDagger_Idle_0002: 21300020
+      ITA_PeasantDagger_Attack_0003: 21300006
+      ITA_PeasantSword_Idle_0002: 21300052
+      ITA_PeasantDagger_Attack_0000: 21300000
+      ITA_PeasantSword_Death_0001: 21300042
+      ITA_PeasantDagger_Death_0000: 21300008
+      ITA_PeasantSword_Death_0003: 21300046
+      ITA_PeasantDagger_Idle_0003: 21300022
+      ITA_PeasantDagger_Attack_0001: 21300002
+      ITA_PeasantDagger_Running_0003: 21300030
+      ITA_PeasantDagger_Running_0002: 21300028
+      ITA_PeasantSword_Idle_0001: 21300050
+      ITA_PeasantDagger_Running_0001: 21300026
+      ITA_PeasantSword_Idle_0003: 21300054
+      ITA_PeasantDagger_Death_0002: 21300012
+      ITA_PeasantSword_Attack_0003: 21300038
+      ITA_PeasantSword_Death_0000: 21300040
+      ITA_PeasantDagger_Death_0003: 21300014
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

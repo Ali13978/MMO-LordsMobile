@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 461585dc52e1488fb133ecaa2849898f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: glow-cuadrado
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 0
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 128, y: 128, z: 128, w: 128}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: glow-cuadrado
+      rect:
+        serializedVersion: 2
+        x: 5.07612
+        y: 6.07612
+        width: 244.8477
+        height: 243.8477
+      alignment: 9
+      pivot: {x: 0.5020421, y: 0.5000001}
+      border: {x: 122.9239, y: 121.9239, z: 121.9239, w: 121.9239}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -123, y: -13}
+      - {x: -123, y: 71}
+      - {x: -122, y: -67}
+    - - {x: -119, y: 92}
+      - {x: -122, y: -67}
+      - {x: -123, y: 71}
+    - - {x: -117, y: -95}
+      - {x: -122, y: -67}
+      - {x: -119, y: 92}
+    - - {x: -114, y: 103}
+      - {x: -117, y: -95}
+      - {x: -119, y: 92}
+    - - {x: -112, y: -104}
+      - {x: -117, y: -95}
+      - {x: -114, y: 103}
+    - - {x: -97, y: 118}
+      - {x: -112, y: -104}
+      - {x: -114, y: 103}
+    - - {x: -95, y: -118}
+      - {x: -112, y: -104}
+      - {x: -97, y: 118}
+    - - {x: -73, y: 122}
+      - {x: -95, y: -118}
+      - {x: -97, y: 118}
+    - - {x: -77, y: -120}
+      - {x: -95, y: -118}
+      - {x: -73, y: 122}
+    - - {x: -51, y: -122}
+      - {x: -77, y: -120}
+      - {x: -73, y: 122}
+    - - {x: 63, y: 122}
+      - {x: -51, y: -122}
+      - {x: -73, y: 122}
+    - - {x: 88, y: -122}
+      - {x: -51, y: -122}
+      - {x: 63, y: 122}
+    - - {x: 72, y: 121}
+      - {x: 88, y: -122}
+      - {x: 63, y: 122}
+    - - {x: 85, y: 119}
+      - {x: 88, y: -122}
+      - {x: 72, y: 121}
+    - - {x: 96, y: 118}
+      - {x: 88, y: -122}
+      - {x: 85, y: 119}
+    - - {x: 113, y: -106}
+      - {x: 88, y: -122}
+      - {x: 96, y: 118}
+    - - {x: 114, y: 104}
+      - {x: 113, y: -106}
+      - {x: 96, y: 118}
+    - - {x: 120, y: -84}
+      - {x: 113, y: -106}
+      - {x: 114, y: 104}
+    - - {x: 122, y: 80}
+      - {x: 120, y: -84}
+      - {x: 114, y: 104}
+    - - {x: 122, y: -18}
+      - {x: 120, y: -84}
+      - {x: 122, y: 80}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      glow-cuadrado: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,713 @@
+fileFormatVersion: 2
+guid: edd0cbda48624b6bb97d480c37678300
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ROM_Velites_Attack_0000
+  - first:
+      213: 21300002
+    second: ROM_Velites_Attack_0001
+  - first:
+      213: 21300004
+    second: ROM_Velites_Attack_0002
+  - first:
+      213: 21300006
+    second: ROM_Velites_Attack_0003
+  - first:
+      213: 21300008
+    second: ROM_Velites_Attack_0004
+  - first:
+      213: 21300010
+    second: ROM_Velites_Death_0000
+  - first:
+      213: 21300012
+    second: ROM_Velites_Death_0001
+  - first:
+      213: 21300014
+    second: ROM_Velites_Death_0002
+  - first:
+      213: 21300016
+    second: ROM_Velites_Death_0003
+  - first:
+      213: 21300018
+    second: ROM_Velites_Idle_0000
+  - first:
+      213: 21300020
+    second: ROM_Velites_Idle_0001
+  - first:
+      213: 21300022
+    second: ROM_Velites_Idle_0002
+  - first:
+      213: 21300024
+    second: ROM_Velites_Idle_0003
+  - first:
+      213: 21300026
+    second: ROM_Velites_Running_0000
+  - first:
+      213: 21300028
+    second: ROM_Velites_Running_0001
+  - first:
+      213: 21300030
+    second: ROM_Velites_Running_0002
+  - first:
+      213: 21300032
+    second: ROM_Velites_Running_0003
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 13
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ROM_Velites_Death_0002
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 243
+        width: 86
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5523256, y: -0.2888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: -22.5}
+        - {x: -43, y: 22.5}
+        - {x: 43, y: 22.5}
+      - - {x: 43, y: -22.5}
+        - {x: -43, y: -22.5}
+        - {x: 43, y: 22.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Velites_Idle_0002
+      rect:
+        serializedVersion: 2
+        x: 3.07612
+        y: 256.0429
+        width: 73.92388
+        height: 79.93034
+      alignment: 9
+      pivot: {x: 0.4250843, y: -0.0255586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: -6}
+        - {x: -38, y: 23}
+        - {x: 12, y: 45}
+      - - {x: 38, y: -6}
+        - {x: 21, y: -45}
+        - {x: -20, y: -43}
+      - - {x: 38, y: -6}
+        - {x: -20, y: -43}
+        - {x: -38, y: 23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Velites_Idle_0000
+      rect:
+        serializedVersion: 2
+        x: 84.07612
+        y: 347.0429
+        width: 67.84776
+        height: 77.93034
+      alignment: 9
+      pivot: {x: 0.4484139, y: -0.02621453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: 7.5}
+        - {x: -36.5, y: 24.5}
+        - {x: 3.5, y: 40.5}
+      - - {x: 36.5, y: 7.5}
+        - {x: 27.5, y: -40.5}
+        - {x: -18.5, y: -39.5}
+      - - {x: 36.5, y: 7.5}
+        - {x: -18.5, y: -39.5}
+        - {x: -36.5, y: 24.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Velites_Running_0000
+      rect:
+        serializedVersion: 2
+        x: 321.0429
+        y: 432.0268
+        width: 71.94418
+        height: 75.89713
+      alignment: 9
+      pivot: {x: 0.2565474, y: -0.01352836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: -30.5}
+        - {x: -28, y: 27.5}
+        - {x: 38, y: 39.5}
+      - - {x: -2, y: -39.5}
+        - {x: -38, y: -35.5}
+        - {x: -28, y: 27.5}
+      - - {x: 25, y: -30.5}
+        - {x: -2, y: -39.5}
+        - {x: -28, y: 27.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Velites_Running_0003
+      rect:
+        serializedVersion: 2
+        x: 2.054127
+        y: 6.026751
+        width: 66.86975
+        height: 74.89713
+      alignment: 9
+      pivot: {x: 0.2309845, y: -0.05376375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: -33}
+        - {x: -34.5, y: 29}
+        - {x: 34.5, y: 41}
+      - - {x: 24.5, y: -33}
+        - {x: -32.5, y: -41}
+        - {x: -34.5, y: 29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Velites_Running_0001
+      rect:
+        serializedVersion: 2
+        x: 177.0267
+        y: 433.0268
+        width: 71.89713
+        height: 75.89713
+      alignment: 9
+      pivot: {x: 0.2847576, y: -0.03987982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: -33}
+        - {x: -27.5, y: 30}
+        - {x: 37.5, y: 40}
+      - - {x: 27.5, y: -33}
+        - {x: -37.5, y: -40}
+        - {x: -27.5, y: 30}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Velites_Idle_0001
+      rect:
+        serializedVersion: 2
+        x: 5.07612
+        y: 83.04291
+        width: 70.92388
+        height: 77.95709
+      alignment: 9
+      pivot: {x: 0.4289652, y: -0.02620554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: -39.5}
+        - {x: -37.5, y: 39.5}
+        - {x: 17.5, y: 39.5}
+      - - {x: 37.5, y: -0.5}
+        - {x: 25.5, y: -36.5}
+        - {x: -18.5, y: -39.5}
+      - - {x: 37.5, y: -0.5}
+        - {x: -18.5, y: -39.5}
+        - {x: 17.5, y: 39.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Velites_Running_0002
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 429.0268
+        width: 82
+        height: 77.89713
+      alignment: 9
+      pivot: {x: 0.3963415, y: -0.02601847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: -33}
+        - {x: -20, y: 27}
+        - {x: 41, y: 41}
+      - - {x: 9, y: -41}
+        - {x: -41, y: -32}
+        - {x: -20, y: 27}
+      - - {x: 41, y: -33}
+        - {x: 9, y: -41}
+        - {x: -20, y: 27}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Velites_Death_0003
+      rect:
+        serializedVersion: 2
+        x: 146.0477
+        y: 290
+        width: 83.92554
+        height: 44.97325
+      alignment: 9
+      pivot: {x: 0.5773249, y: -0.06670632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: -28}
+        - {x: -42.5, y: -2}
+        - {x: 2.5, y: 28}
+      - - {x: 35.5, y: -28}
+        - {x: -47.5, y: -28}
+        - {x: -42.5, y: -2}
+      - - {x: 47.5, y: -2}
+        - {x: 35.5, y: -28}
+        - {x: 2.5, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Velites_Death_0001
+      rect:
+        serializedVersion: 2
+        x: 5.047705
+        y: 346.0761
+        width: 77.87617
+        height: 84.92388
+      alignment: 9
+      pivot: {x: 0.4423984, y: -0.03622198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 20.5}
+        - {x: -15, y: -39.5}
+        - {x: -42, y: 2.5}
+      - - {x: 42, y: -18.5}
+        - {x: -5, y: -43.5}
+        - {x: -15, y: -39.5}
+      - - {x: 38, y: 20.5}
+        - {x: 42, y: -18.5}
+        - {x: -15, y: -39.5}
+      - - {x: 38, y: 20.5}
+        - {x: -42, y: 2.5}
+        - {x: -20, y: 43.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Velites_Attack_0003
+      rect:
+        serializedVersion: 2
+        x: 249.0267
+        y: 430.0429
+        width: 69.89713
+        height: 80.95709
+      alignment: 9
+      pivot: {x: 0.4502796, y: -0.02523445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 8.5}
+        - {x: -16, y: 40.5}
+        - {x: 3, y: 40.5}
+      - - {x: -19, y: -39.5}
+        - {x: 37, y: 6.5}
+        - {x: 25, y: -40.5}
+      - - {x: -19, y: -39.5}
+        - {x: -37, y: 8.5}
+        - {x: 37, y: 6.5}
+      - - {x: 37, y: 6.5}
+        - {x: -37, y: 8.5}
+        - {x: 3, y: 40.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Velites_Death_0000
+      rect:
+        serializedVersion: 2
+        x: 72.07612
+        y: 264.0429
+        width: 66.84776
+        height: 77.93034
+      alignment: 9
+      pivot: {x: 0.4401625, y: -0.02621453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: 7.5}
+        - {x: -35.5, y: 24.5}
+        - {x: 2.5, y: 40.5}
+      - - {x: 35.5, y: 7.5}
+        - {x: 26.5, y: -40.5}
+        - {x: -19.5, y: -39.5}
+      - - {x: 35.5, y: 7.5}
+        - {x: -19.5, y: -39.5}
+        - {x: -35.5, y: 24.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Velites_Attack_0002
+      rect:
+        serializedVersion: 2
+        x: 1.026751
+        y: 164
+        width: 76.97325
+        height: 88.92388
+      alignment: 9
+      pivot: {x: 0.2010211, y: -0.02249115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: -44.5}
+        - {x: -38.5, y: 22.5}
+        - {x: 12.5, y: 44.5}
+      - - {x: 1.5, y: -44.5}
+        - {x: -37.5, y: -42.5}
+        - {x: -38.5, y: 22.5}
+      - - {x: 38.5, y: 43.5}
+        - {x: 1.5, y: -44.5}
+        - {x: 12.5, y: 44.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Velites_Idle_0003
+      rect:
+        serializedVersion: 2
+        x: 400.0761
+        y: 433.0429
+        width: 67.84776
+        height: 77.95709
+      alignment: 9
+      pivot: {x: 0.448414, y: -0.02620554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: -39.5}
+        - {x: -37.5, y: 39.5}
+        - {x: 17.5, y: 39.5}
+      - - {x: 37.5, y: -0.5}
+        - {x: 25.5, y: -36.5}
+        - {x: -18.5, y: -39.5}
+      - - {x: 37.5, y: -0.5}
+        - {x: -18.5, y: -39.5}
+        - {x: 17.5, y: 39.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Velites_Attack_0004
+      rect:
+        serializedVersion: 2
+        x: 56.07612
+        y: 149.0429
+        width: 67.84776
+        height: 81.88097
+      alignment: 9
+      pivot: {x: 0.4484139, y: -0.02494972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -41.5}
+        - {x: 35, y: 1.5}
+        - {x: 28, y: -39.5}
+      - - {x: -25, y: -41.5}
+        - {x: -35, y: 5.5}
+        - {x: 35, y: 1.5}
+      - - {x: 15, y: 39.5}
+        - {x: 35, y: 1.5}
+        - {x: -35, y: 5.5}
+      - - {x: 15, y: 39.5}
+        - {x: -35, y: 5.5}
+        - {x: -16, y: 41.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Velites_Attack_0000
+      rect:
+        serializedVersion: 2
+        x: 154.0761
+        y: 349.0429
+        width: 67.84776
+        height: 77.93034
+      alignment: 9
+      pivot: {x: 0.4484138, y: -0.02621453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: 7.5}
+        - {x: -36.5, y: 24.5}
+        - {x: 3.5, y: 40.5}
+      - - {x: 36.5, y: 7.5}
+        - {x: 27.5, y: -40.5}
+        - {x: -18.5, y: -39.5}
+      - - {x: 36.5, y: 7.5}
+        - {x: -18.5, y: -39.5}
+        - {x: -36.5, y: 24.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROM_Velites_Attack_0001
+      rect:
+        serializedVersion: 2
+        x: 4.07612
+        y: 426.0429
+        width: 97.92388
+        height: 79.88097
+      alignment: 9
+      pivot: {x: 0.5455654, y: -0.0255744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -42.5}
+        - {x: -50.5, y: 9.500004}
+        - {x: -0.5, y: 42.5}
+      - - {x: 50.5, y: 7.5}
+        - {x: 33.5, y: -41.5}
+        - {x: -8.5, y: -42.5}
+      - - {x: 50.5, y: 7.5}
+        - {x: -8.5, y: -42.5}
+        - {x: -0.5, y: 42.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ROM_Velites_Death_0003: 21300016
+      ROM_Velites_Idle_0000: 21300018
+      ROM_Velites_Attack_0003: 21300006
+      ROM_Velites_Running_0001: 21300028
+      ROM_Velites_Idle_0001: 21300020
+      ROM_Velites_Attack_0002: 21300004
+      ROM_Velites_Attack_0000: 21300000
+      ROM_Velites_Attack_0004: 21300008
+      ROM_Velites_Death_0000: 21300010
+      ROM_Velites_Attack_0001: 21300002
+      ROM_Velites_Idle_0003: 21300024
+      ROM_Velites_Death_0001: 21300012
+      ROM_Velites_Running_0000: 21300026
+      ROM_Velites_Running_0003: 21300032
+      ROM_Velites_Idle_0002: 21300022
+      ROM_Velites_Death_0002: 21300014
+      ROM_Velites_Running_0002: 21300030
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
