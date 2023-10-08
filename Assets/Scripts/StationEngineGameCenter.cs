@@ -1,7 +1,8 @@
 using UnityEngine;
 using UnityEngine.SocialPlatforms;
+#if UNITY_ANDROID
 using UnityEngine.SocialPlatforms.GameCenter;
-
+#endif
 public class StationEngineGameCenter : MonoBehaviour
 {
 	private static ILeaderboard m_Leaderboard;
@@ -34,8 +35,10 @@ public class StationEngineGameCenter : MonoBehaviour
 	{
 		if (IsAuthenticated())
 		{
-			GameCenterPlatform.ShowDefaultAchievementCompletionBanner(value: true);
-			Social.ReportProgress(achievementId, progress, delegate(bool result)
+#if UNITY_ANDROID
+            GameCenterPlatform.ShowDefaultAchievementCompletionBanner(value: true);
+#endif
+            Social.ReportProgress(achievementId, progress, delegate(bool result)
 			{
 				MonoBehaviour.print((!result) ? $"FAILED TO REPORT ACHIEVEMENT {achievementId}" : $"SUCCESFULLY REPORTED ACHIEVEMENT {achievementId}");
 			});
